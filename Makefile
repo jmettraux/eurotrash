@@ -16,7 +16,7 @@ html0: clean
 	cp lib/assets/*.png out/html/
 	cp lib/assets/*.css out/html/
 	cp lib/assets/*.svg out/html/
-html:
+html: html0
 	$(RUM) make_html
 h: html
 
