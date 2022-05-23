@@ -1,0 +1,24 @@
+
+<!-- foot.html -->
+
+  <script>
+
+    onDocumentReady(function() {
+
+      elts('span.anchor').forEach(function(e) {
+        var ne = elt(e.getAttribute('href'));
+        var top = e.offsetTop;
+        ne.children[0].classList.forEach(function(k) {
+          var m = k.match(/^([tud])(\d+)px$/); if ( ! m) return;
+          var p = parseInt(m[2], 10);
+          if (m[1] === 't') top = p;
+          else if (m[1] === 'u') top = top - p;
+          else top = top + p;
+        });
+        ne.style.top = `${top}px`;
+      });
+    });
+  </script>
+</body>
+</html>
+
