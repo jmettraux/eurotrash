@@ -26,7 +26,7 @@
     };
     var elts = function(start, sel) {
       if ( ! sel) { sel = start; start = document; }
-      return start.querySelectorAll(sel);
+      return Array.from(start.querySelectorAll(sel));
     };
 
     var c = function(tagName, atts, text) {
@@ -38,7 +38,7 @@
       var cs = (m[3] || '.').slice(1).split('.');
       var e = document.createElement(tn);
       if (id) e.id = id;
-      cs.forEach(function(c) { e.classList.add(c); });
+      cs.forEach(function(c) { if (c.length > 0) e.classList.add(c); });
       for (var k in atts) { e.setAttribute(k, atts[k]); }
       e.textContent = text;
       return e;
