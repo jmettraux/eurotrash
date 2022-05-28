@@ -1,6 +1,6 @@
 
 Version
-: ${GITTAG}
+: `${GITTAG}`
 
 Git Branch
 : ${GITBRA}
@@ -12,7 +12,7 @@ Src SHA
 : ${SRCSHA}
 
 URL
-: https://github.com/jmettraux/aachen
+: https://github.com/jmettraux/eurotrash
 
 Printed
 : ${PRINTED}
