@@ -520,6 +520,49 @@ table.social-class th:nth-child(1) {
 }
 */
 
+[data-aa-title="creatures"] h2 {
+  margin-bottom: 1rem;
+}
+[data-aa-title="creatures"] .creature h2 {
+  margin-bottom: 0.5rem;
+}
+[data-aa-title="creatures"] .creature ul {
+  list-style: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding-inline-start: 0;
+  float: left;
+  width: 56%;
+  margin-right: 1rem;
+}
+[data-aa-title="creatures"] .creature ul li:before {
+  content : '';
+}
+[data-aa-title="creatures"] .creature li > strong {
+  display: inline-block;
+  min-width: 4rem;
+  text-align: right;
+}
+[data-aa-title="creatures"] .creature li > strong:after {
+  padding-left: 0.3rem;
+  content: '·';
+}
+.[data-aa-title="creatures"] .creature p {
+  text-indent: 0;
+}
+[data-aa-title="creatures"] .creature:after {
+  content: '';
+  display: block;
+  clear: both;
+  margin-bottom: 0.5rem;
+}
+[data-aa-title="creatures"] p > em:first-of-type:after {
+  content: '·';
+  padding-left: 0.25rem;
+}
+[data-aa-title="creatures"] .creature span.dcs {
+  font-size: var(--size-c);
+}
 
 /* ? */
 

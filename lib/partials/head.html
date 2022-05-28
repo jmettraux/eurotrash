@@ -28,6 +28,21 @@
       if ( ! sel) { sel = start; start = document; }
       return start.querySelectorAll(sel);
     };
+
+    var c = function(tagName, atts, text) {
+      if ((typeof atts) === 'string') { text = atts; atts = {}; }
+      else if (atts === undefined) { atts = {}; text = text || ''; }
+      var m = tagName.match(/^([-a-z]+)(#[-a-z]+)?(\.[-a-z.]+)?$/);
+      var tn = m[1];
+      var id = m[2]; id = id && id.slice(1);
+      var cs = (m[3] || '.').slice(1).split('.');
+      var e = document.createElement(tn);
+      if (id) e.id = id;
+      cs.forEach(function(c) { e.classList.add(c); });
+      for (var k in atts) { e.setAttribute(k, atts[k]); }
+      e.textContent = text;
+      return e;
+    };
   </script>
 </head>
 <body>
