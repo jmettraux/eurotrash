@@ -210,7 +210,8 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
       var hd = parseInt(hdt, 10);
       var hd2 = Math.floor(hd / 2);
       var hp = Math.floor(hd * 4.5);
-      setValue(e, 'HD', `${hdt} (HP ${hp})`);
+      if (hdt.slice(0, 1) === '(') { setValue(e, 'HD', hdt); }
+      else { setValue(e, 'HD', `${hdt} (HP ${hp})`); }
 
       var ke = findKey(e, 'DCs');
       var ve = ke.nextElementSibling;
