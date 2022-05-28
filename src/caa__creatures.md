@@ -77,6 +77,79 @@ _Bear Hug_ If the bear hits the same victim twice with its Claws in the same rou
 * _Creatures_
 
 <!-- <div.creature> -->
+## Boar
+
+| key    | val                                 |
+|--------|-------------------------------------|
+| HD     | 3                                   |
+| Ini    |                                     |
+| AC     | 12                                  |
+| Attack | +2, 1 × Tusk (2d4)                  |
+| Save   |                                     |
+| Morale | 9                                   |
+| Move   | 40ft 12m 8sq F                      |
+| DCs    | str13 con12 dex11 int02 wis09 cha05 |
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Centaur
+
+| key    | val                                 |
+|--------|-------------------------------------|
+| HD     | 4                                   |
+| Ini    |                                     |
+| AC     | 14                                  |
+| Attack | +3, 1 × Weapon                      |
+| Save   |                                     |
+| Morale | 8                                   |
+| Move   | 50ft 15m 10sq V                     |
+| DCs    | str18 con14 dex14 int09 wis13 cha11 |
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Chimera
+
+| key    | val                                 |
+|--------|-------------------------------------|
+| HD     | 9                                   |
+| Ini    |                                     |
+| AC     | 15                                  |
+| Attack | +7, 2 × Claw (1d3), 2 x Bite (3d4)  |
+| Save   |                                     |
+| Morale | 9                                   |
+| Move   | 50ft 15m 10sq V                     |
+| DCs    | str19 con19 dex11 int03 wis14 cha10 |
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Lion
+
+| key    | val                                 |
+|--------|-------------------------------------|
+| HD     | 5                                   |
+| Ini    |                                     |
+| AC     | 13                                  |
+| Attack | +4, 2 × Claw (1d4+1), 1 × bite (1d10) |
+| Save   |                                     |
+| Morale | 9                                   |
+| Move   | 50ft 15m 10sq V                     |
+| DCs    | str13 con12 dex11 int02 wis09 cha05 |
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- PAGE BREAK creatures -->
+
+<!-- .margin.compass -->
+* _Creatures_
+
+<!-- <div.creature> -->
 ## Wolf
 
 | key    | val                                 |
