@@ -472,6 +472,10 @@ table.social-class th:nth-child(1) {
 
 /* specific */
 
+[data-aa-page="1"] dl {
+  grid-template-columns: 24% auto;
+}
+
 [data-aa-title="creatures"] .creature {
   margin-bottom: 1rem;
 }

@@ -17,12 +17,6 @@ Eurotrash
 B/X
 : clarity
 
-Wolves of God
-: by Kevin Crawford, openness
-
-Gallant & Bold
-: by John Grümph, abilities on their heads
-
 <hr/>
 
 &nbsp;
@@ -30,6 +24,10 @@ Gallant & Bold
 
 Low-Fantasy
 : a Europe between the Dark Ages and AD 1100 (or similar).
+
+Selection
+: only european monsters;
+: no HK toy monsters.
 
 Saves
 : todo
