@@ -472,6 +472,9 @@ table.social-class th:nth-child(1) {
 
 /* specific */
 
+[data-aa-title="creatures"] .creature {
+  margin-bottom: 1rem;
+}
 [data-aa-title="creatures"] .creature:after {
   content: '';
   display: block;
