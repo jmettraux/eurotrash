@@ -512,6 +512,10 @@ table.social-class th:nth-child(1) {
 }
 [data-aa-title="creatures"] .creature .dcs {
   font-size: var(--size-c);
+  margin-bottom: 0.2rem;
+}
+[data-aa-title="creatures"] .creature .dcs:first-of-type {
+  margin-top: 0.15rem;
 }
 
 /* ? */

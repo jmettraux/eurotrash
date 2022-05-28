@@ -1,13 +1,9 @@
 
 <!-- .margin.compass -->
 * _Creatures_
-* aaa
-* bbb
-* ccc
 
 
 <!-- <div.creature> -->
-
 ## Bandit
 
 | key    | val                                 |
@@ -15,18 +11,50 @@
 | HD     | 1                                   |
 | Ini    |                                     |
 | AC     | 11                                  |
-| Attack | +0 Seax 1d6                         |
+| Attack | +0, Seax (1d6)                      |
 | Save   |                                     |
 | Morale | 8                                   |
 | Move   | 30ft 9m 6sq t                       |
 | DCs    | str11 con11 dex11 int10 wis10 cha10 |
 
 _Leader_ A NPC of level 2 or better.
-
 <!-- </div> -->
 
 <!-- <div.creature> -->
+## Basilisk
 
+| key    | val                                 |
+|--------|-------------------------------------|
+| HD     | 6                                   |
+| Ini    |                                     |
+| AC     | 15                                  |
+| Attack | +6, 1 × Bite (1d10), 1 × Gaze (Petrification) |
+| Save   |                                     |
+| Morale | 8                                   |
+| Move   | 20ft 6m 4sq                         |
+| DCs    | str16 con15 dex08 int02 wis08 cha07 |
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Bat
+
+| key    | val                                 |
+|--------|-------------------------------------|
+| HD     | (HP 1)                              |
+| Ini    |                                     |
+| AC     | 13                                  |
+| Attack | -1, 1 × Bite (1)                    |
+| Save   |                                     |
+| Morale | 6                                   |
+| Move   | 40ft 12m 8sq F                      |
+| DCs    | str02 con08 dex15 int02 wis12 cha04 |
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
 ## Bear
 
 | key    | val                                 |
@@ -34,18 +62,21 @@ _Leader_ A NPC of level 2 or better.
 | HD     | 4 Large                             |
 | Ini    |                                     |
 | AC     | 13                                  |
-| Attack | +3, 2 x Claws (1d3), 1 x Bite (1d6) |
+| Attack | +3, 2 × Claws (1d3), 1 × Bite (1d6) |
 | Save   |                                     |
 | Morale | 7                                   |
 | Move   | 40ft 12m 8sq F                      |
 | DCs    | str19 con16 dex10 int02 wis13 cha07 |
 
 _Bear Hug_ If the bear hits the same victim twice with its Claws in the same round, it hugs and an extra 2d8 of damage are dealt.
-
 <!-- </div> -->
 
-<!-- <div.creature> -->
+<!-- PAGE BREAK creatures -->
 
+<!-- .margin.compass -->
+* _Creatures_
+
+<!-- <div.creature> -->
 ## Wolf
 
 | key    | val                                 |
@@ -53,14 +84,13 @@ _Bear Hug_ If the bear hits the same victim twice with its Claws in the same rou
 | HD     | 3                                   |
 | Ini    |                                     |
 | AC     | 12                                  |
-| Attack | +2, 1 x Bite (1d6)                  |
+| Attack | +2, 1 × Bite (1d6)                  |
 | Save   |                                     |
 | Morale | 6 (8 when in pack)                  |
 | Move   | 40ft 12m 8sq F                      |
 | DCs    | str12 con12 dex15 int03 wis12 cha06 |
 
 _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
-
 <!-- </div> -->
 
 
@@ -121,9 +151,7 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
           h[k] = v;
           return h; },
         {});
-clog(dch);
       var tch = invert(dch);
-clog(tch);
       var tc2h = {};
       tc2h.bod = mean(tch.str, tch.con, tch.dex);
       tc2h.sou = mean(tch.int, tch.wis, tch.cha);
@@ -133,14 +161,17 @@ clog(tch);
       tc2h.lea = mean(tch.int, tch.wis);
       tc2h.imp = mean(tch.dex, tch.wis);
       tc2h.all = mean(tch.str, tch.con, tch.dex, tch.int, tch.wis, tch.cha);
-clog(tc2h);
       var dc2h = invert(tc2h);
-clog(dc2h);
-clog('---');
 
       // DCs
 
       ve.appendChild(c('div.dcs', htos(dch)));
+
+      var dcxh = {
+        bod: dc2h.bod, sou: dc2h.sou,
+        phy: dc2h.phy, eva: dc2h.eva, men: dc2h.men,
+        imp: dc2h.imp };
+      ve.appendChild(c('div.dcs', htos(dcxh)));
 
       // Initiative
 
@@ -155,6 +186,30 @@ clog('---');
 
       var mor = findValue(e, 'Morale');
       setValue(e, 'Morale', `2d6 ≤ ${mor}`);
+    });
+  });
+
+  onDocumentReady(function() {
+
+    //
+    // generate compass...
+
+    var pages = elts('[data-aa-title="creatures"] .page');
+
+    var firsts = pages.map(function(pe) {
+      return elt(pe, '.creature h2').textContent; });
+
+    pages.forEach(function(pe, i) {
+      var k = firsts[i];
+      var ule = elt(pe, 'ul.compass');
+      firsts.forEach(function(f, j) {
+        var lie;
+        if (i === j) {
+          lie = c('li', ''); lie.appendChild(c('strong', f)); }
+        else {
+          lie = c('li', f); }
+        ule.appendChild(lie);
+      });
     });
   });
 </script>
