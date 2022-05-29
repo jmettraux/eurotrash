@@ -494,15 +494,9 @@ ul.compass li strong {
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
-/*
-[data-aa-title="creatures"] .creature .dcs {
-  font-size: var(--size-c);
-  margin-bottom: 0.2rem;
+[data-aa-title="creatures"] .creature h2 span.post {
+  font-size: 70%;
 }
-[data-aa-title="creatures"] .creature .dcs:first-of-type {
-  margin-top: 0.15rem;
-}
-*/
 
 /* ? */
 

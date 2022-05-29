@@ -758,6 +758,20 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
       });
     });
   });
+
+  onDocumentReady(function() {
+
+    //
+    // rewrite h2
+
+    elts('.creature h2').forEach(function(h2e) {
+      h2e.id = h2e.id.replaceAll(/,/g, '');
+      var tt = h2e.textContent.trim().split(/ *, */);
+      h2e.innerHTML = '';
+      h2e.appendChild(c('span', tt.shift()));
+      tt.forEach(function(t) { h2e.appendChild(c('span.post', ', ' + t)); });
+    });
+  });
 </script>
 <template id="creature_template">
   <div class="creature-grid">
