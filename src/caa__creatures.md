@@ -230,7 +230,16 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
       setValue(te, 'mor', `2d6 ≤ ${h.morale}`);
       setValue(te, 'siz', `${h.size} ${sizes[h.size]}`);
       setValue(te, 'mov', h.move);
-      setValue(te, 'dcs', h.dcs0);
+      var dch = {
+        str: h.dcs.str, con: h.dcs.con, dex: h.dcs.dex,
+        int: h.dcs.int, wis: h.dcs.wis, cha: h.dcs.cha };
+      var dchh = {
+        bod: h.dcs.bod, sou: h.dcs.sou,
+        phy: h.dcs.phy, eva: h.dcs.eva, men: h.dcs.men, imp: h.dcs.imp };
+      var dcse = c('div');
+      dcse.appendChild(c('div.dcs-row', htos(dch)));
+      dcse.appendChild(c('div.dcs-row', htos(dchh)));
+      setValue(te, 'dcs', dcse);
       var txe = elt(te, '.t');
       txe.innerHTML = '';
       tes.forEach(function(te) { txe.appendChild(te); });

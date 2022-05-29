@@ -425,7 +425,7 @@ ul.compass li strong {
 }
 [data-aa-title="creatures"] .creature-grid {
   display: grid;
-  grid-template-columns: auto 4rem auto auto auto 3.1rem 49%;
+  grid-template-columns: auto 4rem auto auto auto 4.0rem 45%;
 }
 [data-aa-title="creatures"] .creature-grid .k {
   grid-column-start: 1;
@@ -457,26 +457,25 @@ ul.compass li strong {
 }
 [data-aa-title="creatures"] .creature-grid .v.mor {
   padding-top: 0.1rem;
-  font-size: var(--size-b); }
+  font-size: var(--size-b);
+  grid-column-end: span 2;
+}
 [data-aa-title="creatures"] .creature-grid .v.siz {
-  padding-top: 0.1rem;
-  font-size: var(--size-b); }
-
+  padding-top: 0.2rem;
+  font-size: var(--size-c);
+}
 [data-aa-title="creatures"] .creature-grid .k.ac { grid-column-start: 3; }
 [data-aa-title="creatures"] .creature-grid .v.ac { grid-column-start: 4; }
 [data-aa-title="creatures"] .creature-grid .k.ini { grid-column-start: 5; }
 [data-aa-title="creatures"] .creature-grid .v.ini { grid-column-start: 6; }
-
-[data-aa-title="creatures"] .creature-grid .k.siz {
-  grid-column-start: 4;
-}
-[data-aa-title="creatures"] .creature-grid .v.siz {
-  grid-column-start: 5;
-  grid-column-end: span 2;
-}
+[data-aa-title="creatures"] .creature-grid .k.siz { grid-column-start: 5; }
+[data-aa-title="creatures"] .creature-grid .v.siz { grid-column-start: 6; }
 [data-aa-title="creatures"] .creature-grid .v span.hp {
   margin-left: 0.3rem;
   font-size: var(--size-b);
+}
+[data-aa-title="creatures"] .creature-grid .v .dcs-row {
+  font-size: var(--size-c);
 }
 [data-aa-title="creatures"] .creature-grid .t {
   margin-left: 0.6rem;
