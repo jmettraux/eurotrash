@@ -428,7 +428,7 @@ ul.compass li strong {
 }
 [data-aa-title="creatures"] .creature-grid {
   display: grid;
-  grid-template-columns: auto 4rem auto auto auto 4.6rem 45%;
+  grid-template-columns: auto 4rem auto auto auto 4.6rem 48%;
 }
 [data-aa-title="creatures"] .creature-grid .k {
   grid-column-start: 1;

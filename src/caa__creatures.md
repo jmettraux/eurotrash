@@ -764,11 +764,11 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
     <div class="k s1 hd">HD</div><div class="v s1 hd">v</div>
     <div class="k s1 ac">AC</div><div class="v s1 ac">v</div>
     <div class="k s1 ini">Ini</div><div class="v s1 ini">v</div>
-    <div class="k att">Att</div><div class="v att">v</div>
-    <div class="k sav">Save</div><div class="v sav">v</div>
-    <div class="k s1 mor">Morale</div><div class="v s1 mor">v</div>
-    <div class="k s1 siz">Size</div><div class="v s1 siz">v</div>
-    <div class="k mov">Move</div><div class="v mov">v</div>
+    <div class="k att">Atk</div><div class="v att">v</div>
+    <div class="k sav">Sav</div><div class="v sav">v</div>
+    <div class="k s1 mor">Mrl</div><div class="v s1 mor">v</div>
+    <div class="k s1 siz">Siz</div><div class="v s1 siz">v</div>
+    <div class="k mov">Mov</div><div class="v mov">v</div>
     <div class="k dcs">DCs</div><div class="v dcs">v</div>
     <div class="t">t</div>
   </div>
