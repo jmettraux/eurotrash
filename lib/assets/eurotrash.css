@@ -484,6 +484,7 @@ table.social-class th:nth-child(1) {
   display: block;
   clear: both;
 }
+/*
 [data-aa-title="creatures"] .creature table {
   float: left;
   width: 56%;
@@ -511,9 +512,11 @@ table.social-class th:nth-child(1) {
   padding-left: 0;
   font-size: var(--size-b);
 }
+*/
 [data-aa-title="creatures"] .creature h2 {
   margin-bottom: 0.5rem;
 }
+/*
 [data-aa-title="creatures"] .creature .dcs {
   font-size: var(--size-c);
   margin-bottom: 0.2rem;
@@ -521,6 +524,7 @@ table.social-class th:nth-child(1) {
 [data-aa-title="creatures"] .creature .dcs:first-of-type {
   margin-top: 0.15rem;
 }
+*/
 
 /* ? */
 
