@@ -107,6 +107,149 @@ _Xxx_ Yyy
 <!-- </div> -->
 
 <!-- <div.creature> -->
+## Cockatrice
+
+* HD: 5
+* AC: 13
+* Attack: +4, 1 × Beak (1d6 + petrification)
+* Morale: 7
+* Size: small
+* Move: 20ft 6m 4sq
+* DCs: str06 con12 dex12 int02 wis13 cha05
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- PAGE BREAK creatures -->
+
+<!-- .margin.compass -->
+* _Creatures_
+
+<!-- <div.creature> -->
+## Crab, giant
+
+* HD: 3
+* AC: 17
+* Attack: +2, 2 × Pincer (2d6)
+* Morale: 7
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str13 con11 dex15 int01 wis09 cha03
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Cyclops
+
+* HD: 13
+* AC: 14
+* Attack: +9, 1 × Club (3d10) or Rock (3d6)
+* Morale: 9
+* Size: huge
+* Move: 30ft 9m 6sq t
+* DCs: str22 con20 dex11 int08 wis06 cha10
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Dog, hunting
+
+* HD: 1
+* AC: 12
+* Attack: +1, 1 × Bite (1d6)
+* Morale: 10
+* Size: medium
+* Move: 40ft 12m 8sq F
+* DCs: str12 con12 dex15 int03 wis12 cha06
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Doppelgänger
+
+* HD: 4
+* AC: 14
+* Attack: +3, 1 × Bite (1d12)
+* Morale: 10
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str11 con14 dex18 int11 wis12 cha14
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- PAGE BREAK creatures -->
+
+<!-- .margin.compass -->
+* _Creatures_
+
+
+<!-- <div.creature> -->
+## Dragon
+
+* HD: 10
+* AC: 20
+* Attack: +8, 2 × Claw (1d8), 1 × Claw (4d8) or breath
+* Morale: 10
+* Size: huge
+* Move: 40ft 12m 8sq F, 40ft 12m 8sq F climb, 80ft 24m 16sq FF fly
+* DCs: str27 con25 dex10 int16 wis13 cha21
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Dryad
+
+* HD: 2
+* AC: 14
+* Attack: +1, 1 × Magic (charm)
+* Morale: 6
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str10 con11 dex12 int14 wis15 cha18
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Dwarf
+
+* HD: 1
+* AC: 15
+* Attack: +0, 1 × Weapon
+* Morale: 8 (10 w leader)
+* Size: medium
+* Move: 25ft 7.5m 5sq t-1
+* DCs: str14 con14 dex11 int11 wis10 cha09
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Ferret, giant
+
+* HD: 1
+* AC: 14
+* Attack: +1, 1 × Bite (1d8)
+* Morale: 8
+* Size: medium
+* Move: 40ft 12m 8sq F
+* DCs: str11 con10 dex16 int04 wis12 cha05
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
+
+<!-- .margin.compass -->
+* _Creatures_
+
+<!-- <div.creature> -->
 ## Lion
 
 * HD: 5
@@ -119,11 +262,6 @@ _Xxx_ Yyy
 
 _Xxx_ Yyy
 <!-- </div> -->
-
-<!-- PAGE BREAK creatures -->
-
-<!-- .margin.compass -->
-* _Creatures_
 
 <!-- <div.creature> -->
 ## Wolf
@@ -148,8 +286,10 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
     //large: '10 × 10 ft',
     //huge: '15 × 15 ft',
     //gargantuan: '20 × 20 ft'
-    tiny: '(2.5ft)', small: '(5ft)', medium: '(5ft)', large: '(10ft)',
-    huge: '(15ft)', gargantuan: '(20ft)'
+    //tiny: '(2.5ft)', small: '(5ft)', medium: '(5ft)', large: '(10ft)',
+    //huge: '(15ft)', gargantuan: '(20ft)'
+    tiny: '.5×.5sq', small: '1×1sq', medium: '1×1sq',
+    large: '2×2sq', huge: '3×3sq', gargantuan: '4×4sq'
   };
 
   onDocumentReady(function() {
@@ -255,11 +395,6 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
       e.appendChild(makeGrid(h, tes));
     });
   });
-//      var dcxh = {
-//        bod: dc2h.bod, sou: dc2h.sou,
-//        phy: dc2h.phy, eva: dc2h.eva, men: dc2h.men,
-//        imp: dc2h.imp };
-//      ve.appendChild(c('div.dcs', htos(dcxh)));
 
   onDocumentReady(function() {
 
@@ -276,6 +411,7 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
       var ule = elt(pe, 'ul.compass');
       firsts.forEach(function(f, j) {
         var lie;
+        f = f.split(',')[0];
         if (i === j) {
           lie = c('li', ''); lie.appendChild(c('strong', f)); }
         else {
