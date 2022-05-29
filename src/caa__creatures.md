@@ -249,6 +249,175 @@ _Xxx_ Yyy
 <!-- .margin.compass -->
 * _Creatures_
 
+
+<!-- <div.creature> -->
+## Ghost
+
+* HD: 10
+* AC: 19
+* Attack: +8, 1 × Touch (life drain)
+* Morale: 10
+* Size: medium
+* Move: 40ft 12m 8sq F hover
+* DCs: str07 con10 dex13 int10 wis12 cha17
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Giant
+
+* HD: 8
+* AC: 15
+* Attack: +7, 1 × Weapon (2d8)
+* Morale: 8
+* Size: huge
+* Move: 40ft 12m 8sq F
+* DCs: str21 con19 dex08 int05 wis09 cha06
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Gnome
+
+* HD: 1
+* AC: 14
+* Attack: +0, 1 × Weapon
+* Morale: 8 (10 w leader)
+* Size: medium
+* Move: 20ft 6m 4sq t-2
+* DCs: str15 con14 dex14 int12 wis10 cha09
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Goblin
+
+* HD: 1
+* AC: 13
+* Attack: +0, 1 × Weapon
+* Morale: 7 (9 w leader)
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str08 con10 dex14 int10 wis08 cha08
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
+
+<!-- .margin.compass -->
+* _Creatures_
+
+
+<!-- <div.creature> -->
+## Griffin
+
+* HD: 7
+* AC: 14
+* Attack: +6, 2 × Claw (1d4), 1 × Bite (2d8)
+* Morale: 8
+* Size: large
+* Move: 30ft 9m 6sq t, 80ft 24m 16sq FF fly
+* DCs: str18 con16 dex15 int02 wis13 cha08
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Harpy
+
+* HD: 3
+* AC: 12
+* Attack: +2, 2 × Claw (1d4), 1 × Weapon, song
+* Morale: 7
+* Size: medium
+* Move: 20ft 6m 4sq t-2, 40ft 12m 8sq F fly
+* DCs: str12 con12 dex13 int07 wis10 cha13
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Hawk
+
+* HD: 0.5
+* AC: 13
+* Attack: +0, 1 × Beak (1d3)
+* Morale: 7
+* Size: tiny
+* Move: 10ft 3m 2sq, 60ft 18m 12sq tt fly
+* DCs: str05 con08 dex16 int02 wis14 cha06
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Horse, draft
+
+* HD: 3
+* AC: 12
+* Attack: +2, 1 × Kick (2d4)
+* Morale: 6
+* Size: large
+* Move: 60ft 18m 12sq tt
+* DCs: str17 con13 dex09 int02 wis10 cha06
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
+
+<!-- .margin.compass -->
+* _Creatures_
+
+
+<!-- <div.creature> -->
+## Horse, riding
+
+* HD: 2
+* AC: 12
+* Attack: +2, 1 × Kick (1d6)
+* Morale: 7
+* Size: large
+* Move: 60ft 18m 12sq tt
+* DCs: str16 con12 dex10 int02 wis11 cha07
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Hydra
+
+* HD: 6
+* AC: 14
+* Attack: +5, heads × Bite (1d10)
+* Morale: 9
+* Size: huge
+* Move: 30ft 9m 6sq t, 30ft 9m 6sq t swim
+* DCs: str20 con20 dex12 int02 wis10 cha07
+
+_Heads_ 6 of them.
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Leprechaun
+
+* HD: 0.5
+* AC: 12
+* Attack: +0, Magic
+* Morale: 7
+* Size: small
+* Move: 40ft 12m 8sq F
+* DCs: str07 con11 dex16 int16 wis15 cha16
+
+_Xxx_ yyy.
+<!-- </div> -->
+
 <!-- <div.creature> -->
 ## Lion
 
@@ -261,6 +430,27 @@ _Xxx_ Yyy
 * DCs: str13 con12 dex11 int02 wis09 cha05
 
 _Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
+
+<!-- .margin.compass -->
+* _Creatures_
+
+
+<!-- <div.creature> -->
+## Werewolf
+
+* HD: 4
+* AC: 14
+* Attack: +3, 1 × Bite (2d4)
+* Morale: 8
+* Size: medium
+* Move: 30ft 9m 6sq t human, 40ft 12m 8sq F wolf
+* DCs: str15 con14 dex13 int10 wis11 cha10
+
+_Xxx_ Yyy.
 <!-- </div> -->
 
 <!-- <div.creature> -->
