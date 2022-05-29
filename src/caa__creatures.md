@@ -514,9 +514,10 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
       h.hd2 = Math.floor(h.hd1 / 2);
       h.hp = Math.floor(h.hd1 * 4.5);
       if (h.hd0.slice(0, 1) === '(') {
-        h.hd = '';
-        h.hd2 = 0;
-        h.hp = parseInt(h.hd0.match(/(\d+)/)[1], 10);
+        h.hd = ''; h.hd2 = 0; h.hp = parseInt(h.hd0.match(/(\d+)/)[1], 10);
+      }
+      else if (h.hd0.match(/\./)) {
+        h.hd = '½'; h.hd2 = 0; h.hp = 2;
       }
       h.dcs0 = h.dcs;
       h.dcs = h.dcs.split(' ').reduce(
