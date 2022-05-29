@@ -446,8 +446,11 @@ ul.compass li strong {
   grid-column-start: 2;
   grid-column-end: span 5;
 }
-[data-aa-title="creatures"] .creature-grid .k.s1 {
-  margin-bottom: 0.2rem;
+[data-aa-title="creatures"] .creature-grid .k.hd {
+  /*margin-bottom: 0.1rem;*/
+}
+[data-aa-title="creatures"] .creature-grid .k.att {
+  margin-bottom: 0.3rem;
 }
 [data-aa-title="creatures"] .creature-grid .v.s1 {
   padding-top: 0;

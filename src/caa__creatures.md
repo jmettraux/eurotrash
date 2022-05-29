@@ -423,11 +423,158 @@ _Xxx_ yyy.
 
 * HD: 5
 * AC: 13
-* Attack: +4, 2 × Claw (1d4+1), 1 × bite (1d10)
+* Attack: +4, 2 × Claw (1d4+1), 1 × Bite (1d10)
 * Morale: 9
 * Size: medium
 * Move: 50ft 15m 10sq V
 * DCs: str13 con12 dex11 int02 wis09 cha05
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
+
+<!-- .margin.compass -->
+* _Creatures_
+
+
+<!-- <div.creature> -->
+## Manticore
+
+* HD: 6
+* AC: 15
+* Attack: +6, 2 × Claw (1d4), 1 × Bite (2d4), or 6 × Tail Spike (1d6)
+* Morale: 9
+* Size: medium
+* Move: 30ft 9m 6sq t, 50ft 15m 10sq V fly
+* DCs: str17 con17 dex16 int07 wis12 cha08
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Medusa
+
+* HD: 4
+* AC: 11
+* Attack: +3, 1 × Snakebites (1d6 + poison)
+* Morale: 8
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str10 con16 dex15 int12 wis13 cha15
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Merman
+
+* HD: 1
+* AC: 13
+* Attack: +1, 1 × Weapon
+* Morale: 8
+* Size: medium
+* Move: 10ft 3m 2sq, 40ft 12m 8sq F swim
+* DCs: str10 con12 dex13 int11 wis11 cha12
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Merrow
+
+* HD: 4
+* AC: 16
+* Attack: +4, 1 × Spear (2d6)
+* Morale: 10
+* Size: medium
+* Move: 10ft 3m 2sq, 40ft 12m 8sq F swim
+* DCs: str18 con15 dex10 int08 wis10 cha09
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
+
+<!-- .margin.compass -->
+* _Creatures_
+
+
+<!-- <div.creature> -->
+## Minotaur
+
+* HD: 6
+* AC: 13
+* Attack: +5, 1 × Weapon (1d6 + 2)
+* Morale: 12
+* Size: medium
+* Move: 40ft 12m 8sq F
+* DCs: str18 con16 dex11 int06 wis16 cha09
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Mule
+
+* HD: 2
+* AC: 12
+* Attack: +1, 1 × Kick (1d4) or 1 × Bite (1d3)
+* Morale: 8
+* Size: medium
+* Move: 40ft 12m 8sq F
+* DCs: str14 con13 dex10 int02 wis10 cha05
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Neanderthal
+
+* HD: 2
+* AC: 11
+* Attack: +1, 1 × Weapon
+* Morale: 7
+* Size: medium
+* Move: 40ft 12m 8sq F
+* DCs: str11 con12 dex11 int09 wis11 cha09
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Nixie
+
+* HD: 1
+* AC: 12
+* Attack: +0, 1 × Weapon (1d4) or 1 x Spell
+* Morale: 6
+* Size: small
+* Move: 30ft 9m 6sq t, 30ft 9m 6sq t swim
+* DCs: str06 con12 dex16 int12 wis16 cha19
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
+
+<!-- .margin.compass -->
+* _Creatures_
+
+
+<!-- <div.creature> -->
+## Octopus, giant
+
+* HD: 8
+* AC: 12
+* Attack: +7, 8 × Tentacle (1d3 + constriction)
+* Morale: 7
+* Size: large
+* Move: 10ft 3m 2sq, 60ft 18m 12sq tt swim
+* DCs: str17 con13 dex13 int04 wis10 cha04
 
 _Xxx_ Yyy
 <!-- </div> -->
