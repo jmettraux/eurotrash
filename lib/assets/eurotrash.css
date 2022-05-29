@@ -423,6 +423,9 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature {
   margin-bottom: 1rem;
 }
+[data-aa-title="creatures"] .creature:first-child {
+  margin-top: -0.7rem;
+}
 [data-aa-title="creatures"] .creature-grid {
   display: grid;
   grid-template-columns: auto 4rem auto auto auto 4.0rem 45%;
