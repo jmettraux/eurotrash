@@ -131,7 +131,7 @@ _Xxx_ Yyy
 * HD: 3
 * AC: 12
 * Attack: +2, 1 × Bite (1d6)
-* Morale: 6 (8 when in pack)
+* Morale: 6 (8 pack)
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str12 con12 dex15 int03 wis12 cha06
@@ -141,6 +141,17 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
 
 
 <script>
+  var sizes = {
+    //tiny: '2.5 × 2.5 ft',
+    //small: '5 × 5 ft',
+    //medium: '5 × 5 ft',
+    //large: '10 × 10 ft',
+    //huge: '15 × 15 ft',
+    //gargantuan: '20 × 20 ft'
+    tiny: '(2.5ft)', small: '(5ft)', medium: '(5ft)', large: '(10ft)',
+    huge: '(15ft)', gargantuan: '(20ft)'
+  };
+
   onDocumentReady(function() {
 
     var gatherStats = function(e) {
@@ -165,7 +176,7 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
     var htos = function(h) {
       return Object.keys(h)
         .map(function(k) { return k.toUpperCase() + h[k]; })
-        .join(' ');
+        .join(' | ');
     };
     var expandStats = function(h) {
       h.hd0 = h.hd;
@@ -194,7 +205,7 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
       h.tcs.all = mean(
         h.tcs.str, h.tcs.con, h.tcs.dex, h.tcs.int, h.tcs.wis, h.tcs.cha);
       h.dcs = invert(h.tcs);
-      h.ini = `+${h.dcs.imp}`;
+      h.ini = `1d8 + ${h.dcs.imp}`;
       var savh = { phy: h.tcs.phy, eva: h.tcs.eva, men: h.tcs.men };
       h.save = `1d20 + ${h.hd2} ≥ ${htos(savh)}`;
       return h;
@@ -216,7 +227,8 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
       setValue(te, 'ini', h.ini);
       setValue(te, 'att', h.attack);
       setValue(te, 'sav', h.save);
-      setValue(te, 'mor', h.morale);
+      setValue(te, 'mor', `2d6 ≤ ${h.morale}`);
+      setValue(te, 'siz', `${h.size} ${sizes[h.size]}`);
       setValue(te, 'mov', h.move);
       setValue(te, 'dcs', h.dcs0);
       var txe = elt(te, '.t');
@@ -234,66 +246,11 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
       e.appendChild(makeGrid(h, tes));
     });
   });
-//  onDocumentReady(function() {
-//
-//    elts('.creature').forEach(function(e) {
-//
-//      var hdt = findValue(e, 'HD');
-//      var hd = parseInt(hdt, 10);
-//      var hd2 = Math.floor(hd / 2);
-//      var hp = Math.floor(hd * 4.5);
-//      if (hdt.slice(0, 1) === '(') { setValue(e, 'HD', hdt); }
-//      else { setValue(e, 'HD', `${hdt} (HP ${hp})`); }
-//
-//      var ke = findKey(e, 'DCs');
-//      var ve = ke.nextElementSibling;
-//      var t = ve.textContent;
-//      ve.textContent = '';
-//
-//      var dch = t.split(' ').reduce(
-//        function(h, ss) {
-//          var k = ss.slice(0, 3);
-//          var v = parseInt(ss.slice(3), 10);
-//          h[k] = v;
-//          return h; },
-//        {});
-//      var tch = invert(dch);
-//      var tc2h = {};
-//      tc2h.bod = mean(tch.str, tch.con, tch.dex);
-//      tc2h.sou = mean(tch.int, tch.wis, tch.cha);
-//      tc2h.phy = mean(tch.str, tch.con);
-//      tc2h.eva = mean(tch.dex, tch.int);
-//      tc2h.men = mean(tch.wis, tch.cha);
-//      tc2h.lea = mean(tch.int, tch.wis);
-//      tc2h.imp = mean(tch.dex, tch.wis);
-//      tc2h.all = mean(tch.str, tch.con, tch.dex, tch.int, tch.wis, tch.cha);
-//      var dc2h = invert(tc2h);
-//
-//      // DCs
-//
-//      ve.appendChild(c('div.dcs', htos(dch)));
-//
 //      var dcxh = {
 //        bod: dc2h.bod, sou: dc2h.sou,
 //        phy: dc2h.phy, eva: dc2h.eva, men: dc2h.men,
 //        imp: dc2h.imp };
 //      ve.appendChild(c('div.dcs', htos(dcxh)));
-//
-//      // Initiative
-//
-//      setValue(e, 'Ini', '1d20 + ' + dc2h.imp);
-//
-//      // Save
-//
-//      var savh = { phy: tc2h.phy, eva: tc2h.eva, men: tc2h.men };
-//      setValue(e, 'Save', c('div.dcs', `1d20 + ${hd2} ≥ ${htos(savh)}`));
-//
-//      // Morale
-//
-//      var mor = findValue(e, 'Morale');
-//      setValue(e, 'Morale', `2d6 ≤ ${mor}`);
-//    });
-//  });
 
   onDocumentReady(function() {
 
@@ -326,7 +283,8 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
     <div class="k s1 ini">Ini</div><div class="v s1 ini">v</div>
     <div class="k att">Att</div><div class="v att">v</div>
     <div class="k sav">Save</div><div class="v sav">v</div>
-    <div class="k mor">Morale</div><div class="v mor">v</div>
+    <div class="k s1 mor">Morale</div><div class="v s1 mor">v</div>
+    <div class="k s1 siz">Size</div><div class="v s1 siz">v</div>
     <div class="k mov">Move</div><div class="v mov">v</div>
     <div class="k dcs">DCs</div><div class="v dcs">v</div>
     <div class="t">t</div>
