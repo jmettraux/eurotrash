@@ -473,6 +473,7 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid .v.ini { grid-column-start: 6; }
 [data-aa-title="creatures"] .creature-grid .k.siz { grid-column-start: 5; }
 [data-aa-title="creatures"] .creature-grid .v.siz { grid-column-start: 6; }
+[data-aa-title="creatures"] .creature-grid .v.ac { color: red; }
 [data-aa-title="creatures"] .creature-grid .v span.hp {
   margin-left: 0.3rem;
   font-size: var(--size-b);
