@@ -988,6 +988,18 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
         .map(function(k) { return k.toUpperCase() + h[k]; })
         .join(' | ');
     };
+    var htoe = function(h) {
+      var e = c('div.htoe');
+      var ks = Object.keys(h);
+      ks.forEach(function(k, i) {
+        var se = c('span');
+        se.appendChild(c('code', k.toUpperCase()));
+        se.appendChild(c('span', '' + h[k]));
+        e.appendChild(se);
+        if (i !== ks.length - 1) e.appendChild(c('span', ' | '));
+      });
+      return e;
+    };
     var expandStats = function(h) {
       h.hd0 = h.hd;
       h.hd1 = parseInt(h.hd0, 10);
@@ -1017,16 +1029,18 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
         h.tcs.str, h.tcs.con, h.tcs.dex, h.tcs.int, h.tcs.wis, h.tcs.cha);
       h.dcs = invert(h.tcs);
       h.ini = `1d8 + ${h.dcs.imp}`;
-      var savh = { phy: h.tcs.phy, eva: h.tcs.eva, men: h.tcs.men };
-      h.save = `1d20 + ${h.hd2} ≥ ${htos(savh)}`;
+      h.savh = { phy: h.tcs.phy, eva: h.tcs.eva, men: h.tcs.men };
+      //h.save = `1d20 + ${h.hd2} ≥ ${htos(savh)}`;
       return h;
     };
-    var setValue = function(e, k, v) {
+    var setValue = function(e, k, ...vs) {
       var ve = elt(e, `.v.${k}`);
       ve.innerHTML = '';
-      if (typeof v === 'string') { ve.textContent = v; }
-      else if (v === undefined || v === null) {}
-      else { ve.appendChild(v); }
+      vs.forEach(function(v) {
+        if (typeof v === 'string') { ve.textContent = v; }
+        else if (v === undefined || v === null) {}
+        else { ve.appendChild(v); }
+      });
     };
     var makeGrid = function(h, tes) {
       var te = elt('#creature_template').content.cloneNode(true);
@@ -1037,7 +1051,7 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
       setValue(te, 'ac', h.ac);
       setValue(te, 'ini', h.ini);
       setValue(te, 'att', h.attack);
-      setValue(te, 'sav', h.save);
+      setValue(te, 'sav', `1d20 + ${h.hd2} ≥`, htoe(h.savh));
       setValue(te, 'mor', `2d6 ≤ ${h.morale}`);
       setValue(te, 'siz', sizes[h.size]);
       setValue(te, 'mov', h.move);
@@ -1048,8 +1062,8 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
         bod: h.dcs.bod, sou: h.dcs.sou,
         phy: h.dcs.phy, eva: h.dcs.eva, men: h.dcs.men, imp: h.dcs.imp };
       var dcse = c('div');
-      dcse.appendChild(c('div.dcs-row', htos(dch)));
-      dcse.appendChild(c('div.dcs-row', htos(dchh)));
+      dcse.appendChild(htoe(dch));
+      dcse.appendChild(htoe(dchh));
       setValue(te, 'dcs', dcse);
       var txe = elt(te, '.t');
       txe.innerHTML = '';

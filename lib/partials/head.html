@@ -29,18 +29,33 @@
       return Array.from(start.querySelectorAll(sel));
     };
 
-    var c = function(tagName, atts, text) {
-      if ((typeof atts) === 'string') { text = atts; atts = {}; }
-      else if (atts === undefined) { atts = {}; text = text || ''; }
-      var m = tagName.match(/^([-a-z]+)(#[-a-z]+)?(\.[-a-z.]+)?$/);
+    var isE = function(o) {
+      return (typeof o === 'object') && (typeof o.tagName === 'string');
+    }
+
+    var c = function(tagName, /*atts, text*/) {
+
+      var as = Array.from(arguments);
+
+      var m = as.shift().match(/^([-a-z]+)(#[-a-z]+)?(\.[-a-z.]+)?$/);
       var tn = m[1];
       var id = m[2]; id = id && id.slice(1);
       var cs = (m[3] || '.').slice(1).split('.');
       var e = document.createElement(tn);
       if (id) e.id = id;
       cs.forEach(function(c) { if (c.length > 0) e.classList.add(c); });
-      for (var k in atts) { e.setAttribute(k, atts[k]); }
-      e.textContent = text;
+
+      as.forEach(function(arg) {
+        if (arg === null || arg === undefined) {
+          }
+        else if (typeof arg === 'string') {
+          e.appendChild(document.createTextNode(arg)); }
+        else if (typeof arg.tagName === 'string') {
+          e.appendChild(arg); }
+        else if (typeof arg === 'object') {
+          Object.keys(arg).forEach(function(k) { e.setAttribute(k, arg[k]); }); }
+      });
+
       return e;
     };
   </script>

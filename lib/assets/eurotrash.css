@@ -466,6 +466,10 @@ ul.compass li strong {
   font-size: var(--size-b);
   grid-column-end: span 2;
 }
+[data-aa-title="creatures"] .creature-grid .v.sav .htoe {
+  margin-left: 0.3rem;
+  display: inline-block;
+}
 [data-aa-title="creatures"] .creature-grid .v.siz {
   padding-top: 0.2rem;
   font-size: var(--size-c);
@@ -481,7 +485,7 @@ ul.compass li strong {
   margin-left: 0.3rem;
   font-size: var(--size-b);
 }
-[data-aa-title="creatures"] .creature-grid .v .dcs-row {
+[data-aa-title="creatures"] .creature-grid .v .htoe {
   font-size: var(--size-c);
 }
 [data-aa-title="creatures"] .creature-grid .t {
