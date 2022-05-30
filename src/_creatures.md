@@ -923,6 +923,32 @@ _Xxx_ Yyy
 
 
 
+## Wight
+
+* HD: 3
+* AC: 14
+* Attack: +2, 1 × touch (drain)
+* Morale: 12
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str15 con16 dex14 int10 wis13 cha15
+
+_Xxx_ Yyy
+
+
+
+## Will-o'-wisp
+
+* HD: 6
+* AC: 19
+* Attack: +5, 1 × lightning (1d10)
+* Morale: 11
+* Size: tiny
+* Move: 50ft 15m 10sq V hover
+* DCs: str01 con10 dex28 int13 wis14 cha11
+
+_Xxx_ Yyy
+
 
 
 ## Wolf
@@ -937,4 +963,31 @@ _Xxx_ Yyy
 
 _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
 
+
+
+## Wraith
+
+* HD: 4
+* AC: 16
+* Attack: +3, 1 × Touch (1d6 + drain)
+* Morale: 12
+* Size: medium
+* Move: 60ft 18m 12sq tt hover
+* DCs: str06 con16 dex16 int12 wis14 cha15
+
+_Xxx_ Yyy.
+
+
+
+## Wyvern
+
+* HD: 7
+* AC: 16
+* Attack: +6, 1 × Bite (2d8), 1 x Sting (1d6 + poison)
+* Morale: 9
+* Size: large
+* Move: 20ft 6m 4sq t-2, 80ft 24m 16sq FF fly
+* DCs: str19 con16 dex10 int05 wis12 cha06
+
+_Xxx_ Yyy.
 
