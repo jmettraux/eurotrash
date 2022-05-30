@@ -69,6 +69,20 @@ _Xxx_ Yyy
 
 
 
+## Boar, giant
+
+* HD: 5
+* AC: 12
+* Attack: +5, 1 × Tusk (3d4)
+* Morale: 9
+* Size: large
+* Move: 40ft 12m 8sq F
+* DCs: str17 con16 dex10 int02 wis07 cha05
+
+_Xxx_ Yyy
+
+
+
 ## Centaur
 
 * HD: 4
@@ -360,6 +374,20 @@ _Xxx_ Yyy
 * DCs: str20 con20 dex12 int02 wis10 cha07
 
 _Heads_ 6 of them.
+
+
+
+## Jaculus
+
+* HD: 1
+* AC: 12
+* Attack: +4, 1 × Spring (1d8+1)
+* Morale: 7
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str16 con11 dex14 int04 wis08 cha04
+
+_Xxx_ yyy.
 
 
 

@@ -81,7 +81,7 @@
       h.tcs.all = mean(
         h.tcs.str, h.tcs.con, h.tcs.dex, h.tcs.int, h.tcs.wis, h.tcs.cha);
       h.dcs = invert(h.tcs);
-      h.ini = `1d8 + ${h.dcs.imp}`;
+      h.ini = `1d20 + ${h.dcs.imp}`;
       h.savh = { phy: h.tcs.phy, eva: h.tcs.eva, men: h.tcs.men };
       //h.save = `1d20 + ${h.hd2} ≥ ${htos(savh)}`;
       return h;
