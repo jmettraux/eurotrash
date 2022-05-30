@@ -853,6 +853,20 @@ _Xxx_ Yyy
 
 
 
+## Weasel, giant
+
+* HD: 4
+* AC: 12
+* Attack: +4, 1 × Bite (2d4)
+* Morale: 8
+* Size: medium
+* Move: 40ft 12m 8sq F
+* DCs: str11 con10 dex16 int04 wis12 cha05
+
+_Xxx_ Yyy
+
+
+
 ## Werewolf
 
 * HD: 4
@@ -864,6 +878,22 @@ _Xxx_ Yyy
 * DCs: str15 con14 dex13 int10 wis11 cha10
 
 _Xxx_ Yyy.
+
+
+
+## Whale
+
+* HD: 6
+* AC: 13
+* Attack: +5, 1 × Bite (1d20)
+* Morale: 10
+* Size: huge
+* Move: 60ft 18m 12sq tt swim
+* DCs: str19 con13 dex10 int03 wis12 cha07
+
+_Xxx_ Yyy
+
+
 
 
 
