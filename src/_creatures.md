@@ -825,6 +825,34 @@ _Xxx_ Yyy
 
 
 
+## Unicorn
+
+* HD: 4
+* AC: 17
+* Attack: +3, 2 × Hoof (1d8), 1 × Horn (1d8)
+* Morale: 7
+* Size: large
+* Move: 50ft 15m 10sq V
+* DCs: str18 con15 dex14 int11 wis17 cha16
+
+_Xxx_ Yyy
+
+
+
+## Wasp, giant
+
+* HD: 4
+* AC: 15
+* Attack: +3, 1 × Bite (2d4), 1 × Sting (1d4 + poison)
+* Morale: 10
+* Size: medium
+* Move: 10ft 3m 2sq, 50ft 15m 10sq V fly
+* DCs: str10 con10 dex14 int01 wis10 cha03
+
+_Xxx_ Yyy
+
+
+
 ## Werewolf
 
 * HD: 4
