@@ -8,6 +8,7 @@
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str11 con11 dex11 int10 wis10 cha10
+* Skills: _Scout_ +1, _Hunt_ +0, _Spy_ + 0
 
 _Leader_ A NPC of level 2 or better.
 
@@ -22,6 +23,7 @@ _Leader_ A NPC of level 2 or better.
 * Size: medium
 * Move: 20ft 6m 4sq
 * DCs: str16 con15 dex08 int02 wis08 cha07
+* Skills: _Scout_ +1
 
 _Xxx_ Yyy
 

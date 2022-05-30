@@ -84,6 +84,7 @@
       h.ini = `1d20 + ${h.dcs.imp}`;
       h.savh = { phy: h.tcs.phy, eva: h.tcs.eva, men: h.tcs.men };
       //h.save = `1d20 + ${h.hd2} ≥ ${htos(savh)}`;
+      h.skls = (h.skills || '').split(/, */).sort().join(', ');
       return h;
     };
     var setValue = function(e, k, ...vs) {
@@ -97,10 +98,9 @@
     };
     var makeGrid = function(h, tes) {
       var te = elt('#creature_template').content.cloneNode(true);
-      var hde = c('div');
-      hde.appendChild(c('span.hd', '' + h.hd));
-      hde.appendChild(c('span.hp', `(hp${h.hp})`));
-      setValue(te, 'hd', hde);
+      var hde = c('span.hd', '' + h.hd);
+      var hpe = c('span.hp', '(', c('code', 'hp'), '' + h.hp, ')');
+      setValue(te, 'hd', hde, hpe);
       setValue(te, 'ac', h.ac);
       setValue(te, 'ini', h.ini);
       setValue(te, 'att', h.attack);
@@ -118,6 +118,7 @@
       dcse.appendChild(htoe(dch));
       dcse.appendChild(htoe(dchh));
       setValue(te, 'dcs', dcse);
+      setValue(te, 'sks', h.skls);
       var txe = elt(te, '.t');
       txe.innerHTML = '';
       tes.forEach(function(te) { txe.appendChild(te); });
@@ -185,6 +186,7 @@
     <div class="k s1 mor">Mrl</div><div class="v s1 mor">v</div>
     <div class="k s1 siz">Siz</div><div class="v s1 siz">v</div>
     <div class="k dcs">DCs</div><div class="v dcs">v</div>
+    <div class="k sks">Skls</div><div class="v sks">v</div>
     <div class="t">t</div>
   </div>
 </template>
