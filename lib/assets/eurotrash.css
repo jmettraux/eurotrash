@@ -428,20 +428,26 @@ ul.compass li strong {
 }
 [data-aa-title="creatures"] .creature-grid {
   display: grid;
-  grid-template-columns: auto auto auto auto auto auto 44%;
+  grid-template-columns: 2.1rem auto auto auto auto auto 43%;
 }
 [data-aa-title="creatures"] .creature-grid .k {
   grid-column-start: 1;
   font-weight: bold;
   justify-self: left;
   padding-right: 0.3rem;
+  position: relative;
 }
-/*
 [data-aa-title="creatures"] .creature-grid .k:after {
   content: '·';
   padding-left: 0.2rem;
 }
-*/
+[data-aa-title="creatures"] .creature-grid .lc {
+  width: 100%;
+}
+[data-aa-title="creatures"] .creature-grid .lc.k:after {
+  position: absolute;
+  right: 0.1rem;
+}
 [data-aa-title="creatures"] .creature-grid .v {
   padding-top: 0.1rem;
   font-size: var(--size-b);
@@ -483,6 +489,9 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid .k.siz { grid-column-start: 5; }
 [data-aa-title="creatures"] .creature-grid .v.siz { grid-column-start: 6; }
 [data-aa-title="creatures"] .creature-grid .v.ac { color: red; }
+[data-aa-title="creatures"] .creature-grid .k.ac { justify-self: right; }
+[data-aa-title="creatures"] .creature-grid .k.ini { justify-self: right; }
+[data-aa-title="creatures"] .creature-grid .k.siz { justify-self: right; }
 [data-aa-title="creatures"] .creature-grid .v span.hp {
   margin-left: 0.3rem;
   font-size: var(--size-b);
