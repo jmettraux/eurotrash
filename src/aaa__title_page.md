@@ -7,7 +7,7 @@
 : _Definitions_
 
 Eurotrash
-: european creatures
+: (western) european creatures
 
 <hr/>
 
