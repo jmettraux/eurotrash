@@ -31,7 +31,11 @@
 
     var isE = function(o) {
       return (typeof o === 'object') && (typeof o.tagName === 'string');
-    }
+    };
+
+    var t = function(s) {
+      return document.createTextNode(s);
+    };
 
     var c = function(tagName, /*atts, text*/) {
 
@@ -49,7 +53,7 @@
         if (arg === null || arg === undefined) {
           }
         else if (typeof arg === 'string') {
-          e.appendChild(document.createTextNode(arg)); }
+          e.appendChild(t(arg)); }
         else if (typeof arg.tagName === 'string') {
           e.appendChild(arg); }
         else if (typeof arg === 'object') {
