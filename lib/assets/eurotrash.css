@@ -433,13 +433,15 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid .k {
   grid-column-start: 1;
   font-weight: bold;
-  justify-self: right;
+  justify-self: left;
   padding-right: 0.3rem;
 }
+/*
 [data-aa-title="creatures"] .creature-grid .k:after {
   content: '·';
   padding-left: 0.2rem;
 }
+*/
 [data-aa-title="creatures"] .creature-grid .v {
   padding-top: 0.1rem;
   font-size: var(--size-b);
@@ -471,8 +473,8 @@ ul.compass li strong {
   display: inline-block;
 }
 [data-aa-title="creatures"] .creature-grid .v.siz {
-  padding-top: 0.2rem;
-  font-size: var(--size-c);
+  padding-top: 0.1rem;
+  font-size: var(--size-b);
 }
 [data-aa-title="creatures"] .creature-grid .k.ac { grid-column-start: 3; }
 [data-aa-title="creatures"] .creature-grid .v.ac { grid-column-start: 4; }
@@ -486,10 +488,10 @@ ul.compass li strong {
   font-size: var(--size-b);
 }
 [data-aa-title="creatures"] .creature-grid .v .htoe {
-  font-size: var(--size-c);
+  font-size: var(--size-b);
 }
 [data-aa-title="creatures"] .creature-grid .t {
-  margin-left: 0.6rem;
+  margin-left: 0.1rem;
   grid-area: 1 / 7 / span 7 / span 1;
   border-left: 1px solid lightgrey;
   padding-left: 0.3rem;

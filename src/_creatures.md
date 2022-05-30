@@ -830,7 +830,7 @@ _Xxx_ Yyy
 
 * HD: 6
 * AC: 12
-* Attack: +5, 10 × Tentacle (1d4 + constriction), 1 × Beak (1d10)
+* Attack: +5, 10 × Tentacle (1d4 + constr), 1 × Beak (1d10)
 * Morale: 7
 * Size: huge
 * Move: 60ft 18m 12sq tt swim
