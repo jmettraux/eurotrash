@@ -222,6 +222,19 @@ _Xxx_ Yyy
 _Xxx_ Yyy
 
 
+## Elf
+
+* HD: 2
+* AC: 14
+* Attack: +1, 1 × Weapon
+* Morale: 8 (10 w leader)
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str12 con10 dex14 int12 wis11 cha14
+
+_Xxx_ Yyy
+
+
 
 ## Ferret, giant
 
