@@ -38,6 +38,7 @@ _Xxx_ Yyy
 * Size: tiny
 * Move: 40ft 12m 8sq F
 * DCs: str02 con08 dex15 int02 wis12 cha04
+* Skills: _Scout_ +2
 
 _Xxx_ Yyy
 
@@ -52,6 +53,7 @@ _Xxx_ Yyy
 * Size: large
 * Move: 40ft 12m 8sq F
 * DCs: str19 con16 dex10 int02 wis13 cha07
+* Skills: _Hunt_ +2, _Scout_ +1, _Spy_ +1, _Grapple_ +4, _Swim_ +2
 
 _Bear Hug_ If the bear hits the same victim twice with its Claws in the same round, it hugs and an extra 2d8 of damage are dealt.
 
@@ -66,6 +68,7 @@ _Bear Hug_ If the bear hits the same victim twice with its Claws in the same rou
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str13 con12 dex11 int02 wis09 cha05
+* Skills: _Spy_ +1
 
 _Xxx_ Yyy
 
@@ -80,6 +83,7 @@ _Xxx_ Yyy
 * Size: large
 * Move: 40ft 12m 8sq F
 * DCs: str17 con16 dex10 int02 wis07 cha05
+* Skills: _Spy_ +0
 
 _Xxx_ Yyy
 
