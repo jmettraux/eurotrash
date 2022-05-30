@@ -994,6 +994,21 @@ _Xxx_ Yyy.
 
 
 
+## Wyrm, small
+
+* HD: 4
+* AC: 17
+* Attack: +5, 1 × Bite (1d6 + 3)
+* Morale: 9
+* Size: medium
+* Move: 40ft 12m 8sq F
+* DCs: str08 con12 dex16 int10 wis14 cha14
+* Skills: _Hunt_ +2, _Scout_ +1, _Exert_ + 2
+
+_Xxx_ Yyy.
+
+
+
 ## Wyvern
 
 * HD: 7
