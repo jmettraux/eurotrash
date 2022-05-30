@@ -59,10 +59,11 @@ _Xxx_ Yyy
 _Bear Hug_ If the bear hits the same victim twice with its Claws in the same round, it hugs and an extra 2d8 of damage are dealt.
 <!-- </div> -->
 
-<!-- PAGE BREAK creatures -->
 
+<!-- PAGE BREAK creatures -->
 <!-- .margin.compass -->
 * _Creatures_
+
 
 <!-- <div.creature> -->
 ## Boar
@@ -97,7 +98,7 @@ _Xxx_ Yyy
 
 * HD: 9
 * AC: 15
-* Attack: +7, 2 × Claw (1d3), 2 x Bite (3d4)
+* Attack: +7, 2 × Claw (1d3), 2 × Bite (3d4)
 * Morale: 9
 * Size: medium
 * Move: 50ft 15m 10sq V
@@ -120,10 +121,11 @@ _Xxx_ Yyy
 _Xxx_ Yyy
 <!-- </div> -->
 
-<!-- PAGE BREAK creatures -->
 
+<!-- PAGE BREAK creatures -->
 <!-- .margin.compass -->
 * _Creatures_
+
 
 <!-- <div.creature> -->
 ## Crab, giant
@@ -181,8 +183,8 @@ _Xxx_ Yyy
 _Xxx_ Yyy
 <!-- </div> -->
 
-<!-- PAGE BREAK creatures -->
 
+<!-- PAGE BREAK creatures -->
 <!-- .margin.compass -->
 * _Creatures_
 
@@ -245,7 +247,6 @@ _Xxx_ Yyy
 
 
 <!-- PAGE BREAK creatures -->
-
 <!-- .margin.compass -->
 * _Creatures_
 
@@ -308,7 +309,6 @@ _Xxx_ Yyy
 
 
 <!-- PAGE BREAK creatures -->
-
 <!-- .margin.compass -->
 * _Creatures_
 
@@ -371,7 +371,6 @@ _Xxx_ Yyy
 
 
 <!-- PAGE BREAK creatures -->
-
 <!-- .margin.compass -->
 * _Creatures_
 
@@ -434,7 +433,6 @@ _Xxx_ Yyy
 
 
 <!-- PAGE BREAK creatures -->
-
 <!-- .margin.compass -->
 * _Creatures_
 
@@ -497,7 +495,6 @@ _Xxx_ Yyy
 
 
 <!-- PAGE BREAK creatures -->
-
 <!-- .margin.compass -->
 * _Creatures_
 
@@ -549,7 +546,7 @@ _Xxx_ Yyy
 
 * HD: 1
 * AC: 12
-* Attack: +0, 1 × Weapon (1d4) or 1 x Spell
+* Attack: +0, 1 × Weapon (1d4) or 1 × Spell
 * Morale: 6
 * Size: small
 * Move: 30ft 9m 6sq t, 30ft 9m 6sq t swim
@@ -560,7 +557,6 @@ _Xxx_ Yyy
 
 
 <!-- PAGE BREAK creatures -->
-
 <!-- .margin.compass -->
 * _Creatures_
 
@@ -579,9 +575,346 @@ _Xxx_ Yyy
 _Xxx_ Yyy
 <!-- </div> -->
 
+<!-- <div.creature> -->
+## Ogre
+
+* HD: 4
+* AC: 14
+* Attack: +4, 1 × Club (1d10)
+* Morale: 10
+* Size: large
+* Move: 40ft 12m 8sq F
+* DCs: str19 con16 dex08 int05 wis07 cha07
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Orc
+
+* HD: 1
+* AC: 13
+* Attack: +1, 1 × Weapon
+* Morale: 6 (8 w leader)
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str16 con16 dex12 int07 wis11 cha10
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Pegasus
+
+* HD: 2
+* AC: 13
+* Attack: +2, 2 × Hoof (1d6)
+* Morale: 8
+* Size: medium
+* Move: 60ft 18m 12sq tt, 90ft 27m 18sq ttt fly
+* DCs: str18 con16 dex15 int10 wis15 cha13
+
+_Xxx_ Yyy
+<!-- </div> -->
+
 
 <!-- PAGE BREAK creatures -->
+<!-- .margin.compass -->
+* _Creatures_
 
+
+<!-- <div.creature> -->
+## Phoenix
+
+* HD: 20
+* AC: 21
+* Attack: +13, 2 × Talon (2d6), 1 × Bite (4d6)
+* Morale: 10
+* Size: gargantuan
+* Move: 20ft 6m 4sq t-2, 120ft 36m 24sq FFF fly
+* DCs: str19 con25 dex26 int02 wis21 cha18
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Pixie
+
+* HD: 0.5
+* AC: 16
+* Attack: +0, 1 × Seax (1d4)
+* Morale: 7
+* Size: tiny
+* Move: 10ft 3m 2sq, 30ft 9m 6sq t fly
+* DCs: str02 con08 dex20 int10 wis14 cha15
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Rat, giant
+
+* HD: 0.5
+* AC: 12
+* Attack: +0, 1 × Bite (1d3 + disease)
+* Morale: 8
+* Size: small
+* Move: 30ft 9m 6sq t
+* DCs: str07 con11 dex15 int02 wis10 cha04
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Revenant
+
+* HD: 8
+* AC: 10
+* Attack: +7, 1 × Grasp (2d8 + throttle)
+* Morale: 12
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str18 con18 dex14 int13 wis16 cha18
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
+<!-- .margin.compass -->
+* _Creatures_
+
+
+<!-- <div.creature> -->
+## Salamander
+
+* HD: 8
+* AC: 17
+* Attack: +7, 2 × Claw (1d4), 1 × Bite (1d8), 1 × Heat (1d8)
+* Morale: 8
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str18 con15 dex14 int11 wis10 cha12
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Satyr
+
+* HD: 5
+* AC: 14
+* Attack: +4, 1 × Horns (2d4)
+* Morale: 9
+* Size: medium
+* Move: 40ft 12m 8sq F
+* DCs: str12 con11 dex16 int12 wis10 cha14
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Scorpion, giant
+
+* HD: 4
+* AC: 17
+* Attack: +3, 2 × Claws (1d10), 1 × Sting (1d4 + poison)
+* Morale: 11
+* Size: medium
+* Move: 40ft 12m 8sq F
+* DCs: str15 con15 dex13 int01 wis09 cha03
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Sea Serpent
+
+* HD: 6
+* AC: 14
+* Attack: +5, 1 × Bite (2d6), 1 × squeeze (1d10)
+* Morale: 8
+* Size: huge
+* Move: 20ft 6m 4sq t-2, 60ft 18m 12sq tt swim
+* DCs: str20 con18 dex14 int03 wis11 cha11
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
+<!-- .margin.compass -->
+* _Creatures_
+
+
+<!-- <div.creature> -->
+## Shark
+
+* HD: 4
+* AC: 15
+* Attack: +3, 1 × Bite (2d6)
+* Morale: 7
+* Size: large
+* Move: 40ft 12m 8sq F swim
+* DCs: str14 con13 dex13 int02 wis10 cha04
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Skeleton
+
+* HD: 1
+* AC: 12
+* Attack: +0, 1 × Weapon
+* Morale: 12
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str10 con15 dex14 int06 wis08 cha05
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Slug, giant
+
+* HD: 12
+* AC: 11
+* Attack: +9, 1 × Bite (1d12) or 1 × acid (4d6)
+* Morale: 10
+* Size: medium
+* Move: 20ft 6m 4sq t-2
+* DCs: str15 con13 dex09 int01 wis02 cha02
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Snake
+
+* HD: 2
+* AC: 13
+* Attack: +1, 1 × Bite (1d4 + poison)
+* Morale: 7
+* Size: small
+* Move: 30ft 9m 6sq t
+* DCs: str04 con11 dex15 int02 wis10 cha03
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
+<!-- .margin.compass -->
+* _Creatures_
+
+
+<!-- <div.creature> -->
+## Specter
+
+* HD: 6
+* AC: 17
+* Attack: +5, 1 × Touch (1d8 + drain)
+* Morale: 11
+* Size: medium
+* Move: 50ft 15m 10sq V hover
+* DCs: str01 con11 dex14 int10 wis10 cha11
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Sphinx
+
+* HD: 12
+* AC: 19
+* Attack: +9, 2 × Claws (3d6), magic
+* Morale: 10
+* Size: large
+* Move: 40ft 12m 8sq F, 60ft 18m 12sq tt fly
+* DCs: str22 con20 dex10 int16 wis18 cha23
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Spider, giant
+
+* HD: 3
+* AC: 12
+* Attack: +2, 1 × Bite (1d6 + poison)
+* Morale: 7
+* Size: large
+* Move: 30ft 9m 6sq t, 30ft 9m 6sq t climb
+* DCs: str14 con12 dex16 int02 wis11 cha04
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Sprite
+
+* HD: 0.5
+* AC: 14
+* Attack: +0, Magic
+* Morale: 7
+* Size: tiny
+* Move: 10ft 3m 2sq, 40ft 12m 8sq F fly
+* DCs: str03 con10 dex18 int14 wis13 cha11
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
+<!-- .margin.compass -->
+* _Creatures_
+
+
+<!-- <div.creature> -->
+## Squid, giant
+
+* HD: 6
+* AC: 12
+* Attack: +5, 10 × Tentacle (1d4 + constriction), 1 × Beak (1d10)
+* Morale: 7
+* Size: huge
+* Move: 60ft 18m 12sq tt swim
+* DCs: str19 con16 dex15 int02 wis12 cha02
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Toad, giant
+
+* HD: 3
+* AC: 12
+* Attack: +1, 1 × Bite (1d4 + 1 + poison)
+* Morale: 6
+* Size: large
+* Move: 20ft 6m 4sq t-2, 40ft 12m 8sq F swim
+* DCs: str15 con13 dex13 int02 wis10 cha03
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+<!-- <div.creature> -->
+## Troll
+
+* HD: 5
+* AC: 13
+* Attack: +4, 1 × Club (2d6 + 2)
+* Morale: 10 (8 vs fire)
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str15 con13 dex10 int08 wis10 cha06
+
+_Xxx_ Yyy
+<!-- </div> -->
+
+
+<!-- PAGE BREAK creatures -->
 <!-- .margin.compass -->
 * _Creatures_
 
@@ -625,8 +958,8 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
     //gargantuan: '20 × 20 ft'
     //tiny: '(2.5ft)', small: '(5ft)', medium: '(5ft)', large: '(10ft)',
     //huge: '(15ft)', gargantuan: '(20ft)'
-    tiny: '.5×.5sq', small: '1×1sq', medium: '1×1sq',
-    large: '2×2sq', huge: '3×3sq', gargantuan: '4×4sq'
+    tiny: 'tny .5×.5sq', small: 'sml 1×1sq', medium: 'med 1×1sq',
+    large: 'lrg 2×2sq', huge: 'hge 3×3sq', gargantuan: 'gar 4×4sq'
   };
 
   onDocumentReady(function() {
@@ -706,7 +1039,7 @@ _Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
       setValue(te, 'att', h.attack);
       setValue(te, 'sav', h.save);
       setValue(te, 'mor', `2d6 ≤ ${h.morale}`);
-      setValue(te, 'siz', `${h.size} ${sizes[h.size]}`);
+      setValue(te, 'siz', sizes[h.size]);
       setValue(te, 'mov', h.move);
       var dch = {
         str: h.dcs.str, con: h.dcs.con, dex: h.dcs.dex,
