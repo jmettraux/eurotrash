@@ -100,13 +100,11 @@
     var setValue = function(e, k, ...vs) {
       var ve = elt(e, `.v.${k}`);
       ve.innerHTML = '';
-      vs.forEach(function(v) {
+      vs.flat().forEach(function(v) {
         if (typeof v === 'string') {
-          ve.textContent = v; }
+          ve.appendChild(document.createTextNode(v)); }
         else if (v === undefined || v === null) {
           }
-        else if (Array.isArray(v)) {
-          v.forEach(function(ee) { ve.appendChild(ee); }) }
         else {
           ve.appendChild(v); }
       });
@@ -118,7 +116,9 @@
       setValue(te, 'hd', hde, hpe);
       setValue(te, 'ac', h.ac);
       setValue(te, 'ini', h.ini);
-      setValue(te, 'att', h.attack);
+      var m = (h.attack || '').match(/^([-+]\d)(.+)$/);
+      if (m) setValue(te, 'att', c('span.atb', m[1]), m[2]);
+      else setValue(te, 'att', h.attack);
       setValue(te, 'sav', `1d20 + ${h.hd2} ≥`, htoe(h.savh));
       setValue(te, 'mor', `2d6 ≤ ${h.morale}`);
       setValue(te, 'siz', sizes[h.size]);

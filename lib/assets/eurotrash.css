@@ -432,6 +432,8 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid {
   display: grid;
   grid-template-columns: 2.1rem auto auto auto auto auto 43%;
+  border-left: 1px solid darkgrey;
+  padding-left: 0.3rem;
 }
 [data-aa-title="creatures"] .creature-grid .k {
   grid-column-start: 1;
@@ -464,6 +466,14 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid .k.att {
   margin-bottom: 0.3rem;
 }
+[data-aa-title="creatures"] .creature-grid .v.att {
+  margin-top: -0.07rem;
+}
+[data-aa-title="creatures"] .creature-grid .v.att .atb {
+  font-size: var(--size-a);
+  color: red;
+  font-weight: bold;
+}
 [data-aa-title="creatures"] .creature-grid .v.s1 {
   padding-top: 0;
   font-size: var(--size-a);
@@ -492,7 +502,10 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid .v.ini { grid-column-start: 6; }
 [data-aa-title="creatures"] .creature-grid .k.siz { grid-column-start: 5; }
 [data-aa-title="creatures"] .creature-grid .v.siz { grid-column-start: 6; }
-[data-aa-title="creatures"] .creature-grid .v.ac { color: red; }
+[data-aa-title="creatures"] .creature-grid .v.ac {
+  color: red;
+  font-weight: bold;
+}
 [data-aa-title="creatures"] .creature-grid .k.ac { justify-self: right; }
 [data-aa-title="creatures"] .creature-grid .k.ini { justify-self: right; }
 [data-aa-title="creatures"] .creature-grid .k.siz { justify-self: right; }
@@ -506,7 +519,7 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid .t {
   margin-left: 0.1rem;
   grid-area: 1 / 7 / span 7 / span 1;
-  border-left: 1px solid lightgrey;
+  border-left: 1px solid darkgrey;
   padding-left: 0.3rem;
   font-size: var(--size-b);
 }

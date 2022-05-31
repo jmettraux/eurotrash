@@ -985,8 +985,9 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str12 con12 dex15 int03 wis12 cha06
+* Skills: +3 _Hunt_, +2 _Scout_, +2 _Spy_
 
-_Scent_ +1 on _Hunt_, _Scout_, and _Spy_ checks.
+_Name_ Canis Lupus.
 
 
 
