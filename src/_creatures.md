@@ -10,6 +10,8 @@
 * DCs: str11 con11 dex11 int10 wis10 cha10
 * Skills: _Scout_ +1, _Hunt_ +0, _Spy_ +0
 
+Bandit, brigrand, or highwayman.
+
 _Leader_ A NPC of level 2 or better.
 
 
@@ -25,7 +27,9 @@ _Leader_ A NPC of level 2 or better.
 * DCs: str16 con15 dex08 int02 wis08 cha07
 * Skills: _Scout_ +1
 
-_Xxx_ Yyy
+A reptile with a fatal breath and glance.
+
+_Petrifying Gaze_ within 30ft 9m 6sq t, the Basilisk may immobilize a non-blind creature by gazing at it. Miss a `Bod` or `Phy` TC save and be _immobilized_. You're immobilized until you succeed a save on your turn.
 
 _Origin_ Mentioned by Pliny the Elder (d79) as the basilisk of Cyrene.
 
@@ -42,7 +46,11 @@ _Origin_ Mentioned by Pliny the Elder (d79) as the basilisk of Cyrene.
 * DCs: str02 con08 dex15 int02 wis12 cha04
 * Skills: _Scout_ +2
 
-_Xxx_ Yyy
+Flying mammal.
+
+_Swarm_ The bats only want to get away, they are merely a confusing hindrance.
+
+A infortunate bite might yield the gift of a disease.
 
 
 
@@ -57,7 +65,7 @@ _Xxx_ Yyy
 * DCs: str19 con16 dex10 int02 wis13 cha07
 * Skills: _Hunt_ +2, _Scout_ +1, _Spy_ +1, _Grapple_ +4, _Swim_ +2
 
-_Bear Hug_ If the bear hits the same victim twice with its Claws in the same round, it hugs and an extra 2d8 of damage are dealt.
+_Hug_ On a successful Claw hit, the bear gets a _Grapple_ check, if successful, 1d8 extra damage are dealt.
 
 
 
