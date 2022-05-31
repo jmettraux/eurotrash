@@ -27,6 +27,8 @@ _Leader_ A NPC of level 2 or better.
 
 _Xxx_ Yyy
 
+_Origin_ Mentioned by Pliny the Elder (d79) as the basilisk of Cyrene.
+
 
 
 ## Bat
@@ -101,6 +103,8 @@ _Xxx_ Yyy
 
 _Xxx_ Yyy
 
+_Origin_ Greek Mythology.
+
 
 
 ## Chimera
@@ -114,6 +118,8 @@ _Xxx_ Yyy
 * DCs: str19 con19 dex11 int03 wis14 cha10
 
 _Xxx_ Yyy
+
+_Origin_ Greek Mythology, who places it in Lycia, Asia Minor.
 
 
 

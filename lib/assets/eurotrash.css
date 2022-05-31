@@ -420,6 +420,9 @@ ul.compass li strong {
   grid-template-columns: 24% auto;
 }
 
+[data-aa-title="creatures"] p + p {
+  text-indent: 0;
+}
 [data-aa-title="creatures"] .creature {
   margin-bottom: 1rem;
 }
@@ -504,6 +507,7 @@ ul.compass li strong {
   grid-area: 1 / 7 / span 7 / span 1;
   border-left: 1px solid lightgrey;
   padding-left: 0.3rem;
+  font-size: var(--size-b);
 }
 [data-aa-title="creatures"] .creature h2 {
   margin-top: 0;
@@ -511,6 +515,10 @@ ul.compass li strong {
 }
 [data-aa-title="creatures"] .creature h2 span.post {
   font-size: 70%;
+}
+[data-aa-title="creatures"] .creature .t em:first-child:after {
+  content: '·';
+  padding-left: 0.3rem;
 }
 
 /* ? */
