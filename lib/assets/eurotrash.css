@@ -446,7 +446,7 @@ ul.compass li strong {
 }
 [data-aa-title="creatures"] .creature-grid .lc.k:after {
   position: absolute;
-  right: 0.1rem;
+  right: 0.15rem;
 }
 [data-aa-title="creatures"] .creature-grid .v {
   padding-top: 0.1rem;
