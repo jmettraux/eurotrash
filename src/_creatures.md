@@ -65,6 +65,8 @@ A infortunate bite might yield the gift of a disease.
 * DCs: str19 con16 dex10 int02 wis13 cha07
 * Skills: _Hunt_ +2, _Scout_ +1, _Spy_ +1, _Grapple_ +4, _Swim_ +2
 
+_Ursus arctos arctos_ Eurasian brown bear.
+
 _Hug_ On a successful Claw hit, the bear gets a _Grapple_ check, if successful, 1d8 extra damage are dealt.
 
 
