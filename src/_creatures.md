@@ -1008,14 +1008,39 @@ _Xxx_ Yyy.
 
 * HD: 4
 * AC: 17
-* Attack: +5, 1 × Bite (1d6 + 3)
+* Attack: +5, 1 × Bite (2d6)
 * Morale: 9
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str08 con12 dex16 int10 wis14 cha14
 * Skills: _Hunt_ +2, _Scout_ +1, _Exert_ +2
 
-_Xxx_ Yyy.
+Wingless dragon.
+
+_Gaze_ Todo
+
+_Sun Aversion_ Disadvantage when operating in the sun.
+
+_Origin_ Germanic mythology.
+
+
+
+## Wyrm, large
+
+* HD: 8
+* AC: 15
+* Attack: +7, 1 × Bite (3d6)
+* Morale: 9
+* Size: medium
+* Move: 40ft 12m 8sq F
+* DCs: str19 con20 dex14 int14 wis14 cha15
+* Skills: _Hunt_ +2, _Scout_ +1, _Exert_ +2
+
+Large wingless dragon.
+
+_Constriction_ 3d6 damage per turn.
+
+_Origin_ Germanic mythology.
 
 
 
