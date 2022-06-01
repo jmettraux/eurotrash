@@ -75,7 +75,7 @@ _Hug_ On a successful Claw hit, the bear gets a _Grapple_ check, if successful, 
 
 * HD: 4
 * AC: 11
-* Attack: +2, 1 × Horns (2d6) or 1 x Kick (2d8)
+* Attack: +2, 1 × Horns (2d6) or 1 × Kick (2d8)
 * Morale: 9
 * Size: large
 * Move: 40ft 12m 8sq F
@@ -128,15 +128,17 @@ _Charge_ if the boar charged for at least 30ft 9m 6sq t before attacking, it get
 
 * HD: 4
 * AC: 14
-* Attack: +3, 1 × Weapon
+* Attack: +3, 1 × Weapon or 1 × Kick (2d6)
 * Morale: 8
 * Size: medium
 * Move: 50ft 15m 10sq V
 * DCs: str18 con14 dex14 int10 wis13 cha11
+* Skills: _Punch_ +2, _Scout_ +2, _Swim_ +3
 
-_Xxx_ Yyy
 
-_Origin_ Greek Mythology.
+Wild, lusty, carousing, hybrids of horse and human. Give them a bow and parthian shots.
+
+_Origin_ Greek Mythology, probably echoes of the first encounter with horse-mounted nomadic people.
 
 
 
@@ -725,7 +727,7 @@ _Xxx_ Yyy
 * Move: 40ft 12m 8sq F
 * DCs: str12 con11 dex16 int12 wis10 cha14
 
-_Xxx_ Yyy
+FIXME Like satyrs, centaurs were notorious for being wild, lusty, overly indulgent drinkers and carousers, violent when intoxicated, and generally uncultured delinquents.
 
 
 
@@ -1082,7 +1084,7 @@ _Origin_ Germanic mythology.
 
 * HD: 7
 * AC: 16
-* Attack: +6, 1 × Bite (2d8), 1 x Sting (1d6 + poison)
+* Attack: +6, 1 × Bite (2d8), 1 × Sting (1d6 + poison)
 * Morale: 9
 * Size: large
 * Move: 20ft 6m 4sq t-2, 80ft 24m 16sq FF fly
