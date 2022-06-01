@@ -2,7 +2,7 @@
 # Keys
 
 HD
-: Hit dice, with average HP count (4.5 HP per HD).
+: Hit dice, with average HP count (4.5 HP per HD rounded down).
 
 AC
 : Armor Class.
@@ -15,6 +15,7 @@ atk
 
 sav
 : Save check pattern. Three choices here `PHY` TC (physical), `EVA` TC (evasion), and `MEN` TC (mental).
+: Other `DC`s are OK, but they have to be computed.
 
 mv
 : Movement. Max Distance that can be covered with 1 Move Action in 1 combat round (6 seconds).
