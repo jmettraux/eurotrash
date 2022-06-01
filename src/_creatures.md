@@ -170,8 +170,11 @@ _Origin_ Greek Mythology, who places it in Lycia, Asia Minor.
 * Size: small
 * Move: 20ft 6m 4sq
 * DCs: str06 con12 dex12 int02 wis13 cha05
+* Skills: _Hunt_ +2, _Scout_ +1
 
-_Xxx_ Yyy
+_Petrification_ A successful hit will turn the victim to stone on a failed save.
+
+_Origin_ Mentioned in Isaiah chapters 11, 14 and 59. Referenced by Pliny the Elder, and reworked in the late Middle Ages.
 
 
 
@@ -184,8 +187,9 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str13 con11 dex15 int01 wis09 cha03
+* Skills: _Spy_ +1
 
-_Xxx_ Yyy
+A cancer of a beast.
 
 
 
