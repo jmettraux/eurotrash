@@ -71,6 +71,23 @@ _Hug_ On a successful Claw hit, the bear gets a _Grapple_ check, if successful, 
 
 
 
+## Bison
+
+* HD: 4
+* AC: 11
+* Attack: +2, 1 × Horns (2d6) or 1 x Kick (2d8)
+* Morale: 9
+* Size: large
+* Move: 40ft 12m 8sq F
+* DCs: str17 con15 dex08 int02 wis10 cha06
+* Skills: _Spy_ +0
+
+_Bison bonasus_ European wood bison.
+
+_Charge_ if the bison charged for at least 20ft 6m 4sq t-2 before attacking, it gets a +2 to its attack and deals an extra 1d8 damage. On a failed `Str` save, the target falls prone.
+
+
+
 ## Boar
 
 * HD: 3
@@ -115,7 +132,7 @@ _Charge_ if the boar charged for at least 30ft 9m 6sq t before attacking, it get
 * Morale: 8
 * Size: medium
 * Move: 50ft 15m 10sq V
-* DCs: str18 con14 dex14 int11 wis13 cha11
+* DCs: str18 con14 dex14 int10 wis13 cha11
 
 _Xxx_ Yyy
 
