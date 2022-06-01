@@ -269,6 +269,23 @@ _Xxx_ Yyy
 _Xxx_ Yyy
 
 
+## Elephant
+
+* HD: 9
+* AC: 14
+* Attack: +7, 2 × Tusk (2d4) or 1 x Trample (4d8)
+* Morale: 8
+* Size: medium
+* Move: 40ft 12m 8sq F
+* DCs: str22 con17 dex09 int03 wis12 cha06
+* Skills: _Spy_ +2, _Swim_ +1
+
+Not European per se, but Europe has seen them in its Antiquity.
+
+_Trampling Charge_ TODO
+
+
+
 ## Elf
 
 * HD: 2
