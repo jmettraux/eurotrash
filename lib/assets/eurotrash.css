@@ -420,6 +420,36 @@ ul.compass li strong {
   grid-template-columns: 24% auto;
 }
 
+[data-aa-title="keys"] .text-block {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  column-gap: 1rem;
+}
+[data-aa-title="keys"] .text-block > * {
+  width: calc((var(--tblock-width) - 1rem) / 2);
+}
+[data-aa-title="keys"] h1 {
+  margin-bottom: 0.3rem;
+}
+[data-aa-title="keys"] dl {
+  margin-top: 0;
+  display: block;
+}
+[data-aa-title="keys"] dt {
+  text-align: left;
+  display: inline;
+  padding-right: 0.3rem;
+}
+[data-aa-title="keys"] dd {
+  display: inline;
+}
+[data-aa-title="keys"] .last-dd::after {
+  content: '';
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
 [data-aa-title="creatures"] p + p {
   text-indent: 0;
 }
