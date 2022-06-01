@@ -50,7 +50,7 @@ Flying mammal.
 
 _Swarm_ The bats only want to get away, they are merely a confusing hindrance.
 
-A infortunate bite might yield the gift of a disease.
+An unfortunate bite might yield the gift of a disease.
 
 
 
@@ -82,7 +82,11 @@ _Hug_ On a successful Claw hit, the bear gets a _Grapple_ check, if successful, 
 * DCs: str13 con12 dex11 int02 wis09 cha05
 * Skills: _Spy_ +1
 
-_Xxx_ Yyy
+_Sus scrofa_ Eurasian wild pig.
+
+The common habitat of boars in Europe are deciduous and mixed forests. Oak and beech forests enclosing marshes and meadows are their favourites.
+
+_Charge_ if the boar charged for at least 20ft 6m 4sq t-2 before attacking, it gets a +2 to its attack and deals an extra 1d4 damage. On a failed `Str` save, the target falls prone.
 
 
 
@@ -97,7 +101,9 @@ _Xxx_ Yyy
 * DCs: str17 con16 dex10 int02 wis07 cha05
 * Skills: _Spy_ +0
 
-_Xxx_ Yyy
+There are rumours that even larger boars roam deep in the forest.
+
+_Charge_ if the boar charged for at least 30ft 9m 6sq t before attacking, it gets a +2 to its attack and deals an extra 1d4 damage. On a failed `Str` save, the target falls prone.
 
 
 
@@ -109,7 +115,7 @@ _Xxx_ Yyy
 * Morale: 8
 * Size: medium
 * Move: 50ft 15m 10sq V
-* DCs: str18 con14 dex14 int09 wis13 cha11
+* DCs: str18 con14 dex14 int11 wis13 cha11
 
 _Xxx_ Yyy
 
