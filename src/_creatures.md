@@ -202,8 +202,13 @@ A cancer of a beast.
 * Size: huge
 * Move: 30ft 9m 6sq t
 * DCs: str22 con20 dex11 int08 wis06 cha10
+* Skills: _Throw_ +4
 
-_Xxx_ Yyy
+Giant (20ft tall) one-eyed and slow-witted creatures.
+
+_Rock Throwing_ up to 200ft 60m 40sq 4V.
+
+_Magic_ When angered, some Cyclopes (1 in 4) may cast, CP 45 (13d6), projecting their wrath.
 
 
 
@@ -216,22 +221,9 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str12 con12 dex15 int03 wis12 cha06
+* Skills: _Hunt_ +3, _Scout_ +2
 
-_Xxx_ Yyy
-
-
-
-## Doppelgänger
-
-* HD: 4
-* AC: 14
-* Attack: +3, 1 × Bite (1d12)
-* Morale: 10
-* Size: medium
-* Move: 30ft 9m 6sq t
-* DCs: str11 con14 dex18 int11 wis12 cha14
-
-_Xxx_ Yyy
+_Canis lupus familiaris_ bred for various hunting tasks.
 
 
 
