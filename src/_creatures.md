@@ -151,8 +151,11 @@ _Origin_ Greek Mythology, probably echoes of the first encounter with horse-moun
 * Size: medium
 * Move: 50ft 15m 10sq V
 * DCs: str19 con19 dex11 int03 wis14 cha10
+* Skills: _Spy_ +2
 
-_Xxx_ Yyy
+Fire-breathing hybrid creature, with goat, dragon, and lion heads.
+
+_Breath_ Thrice a day, the dragon head may breath fire up to 50ft 15m 10sq V (10ft 3m 2sq wide).
 
 _Origin_ Greek Mythology, who places it in Lycia, Asia Minor.
 
