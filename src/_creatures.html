@@ -97,6 +97,16 @@
       });
       return r;
     };
+    var listMovements = function(s) {
+      var ss = s.split(/ *, */).reduce(
+        function(a, e) {
+          a.push(e);
+          a.push(', ');
+          return a; },
+        []);
+      ss.pop(); if (ss.length > 4) ss.splice(4, 0, c('br'));
+      return ss;
+    };
     var setValue = function(e, k, ...vs) {
       var ve = elt(e, `.v.${k}`);
       ve.innerHTML = '';
@@ -122,7 +132,7 @@
       setValue(te, 'sav', `1d20 + ${h.hd2} ≥`, htoe(h.savh));
       setValue(te, 'mor', `2d6 ≤ ${h.morale}`);
       setValue(te, 'siz', sizes[h.size]);
-      setValue(te, 'mov', h.move);
+      setValue(te, 'mov', listMovements(h.move));
       var dch = {
         str: h.dcs.str, con: h.dcs.con, dex: h.dcs.dex,
         int: h.dcs.int, wis: h.dcs.wis, cha: h.dcs.cha };
