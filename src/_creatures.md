@@ -231,16 +231,18 @@ _Canis lupus familiaris_ bred for various hunting tasks.
 
 * HD: 10
 * AC: 20
-* Attack: +8, 2 × Claws (1d8), 1 × Bite (4d8) or breath
+* Attack: +8, 2 × Claws (1d8), 1 × Bite (4d8) or Breath
 * Morale: 10
 * Size: huge
 * Move: 40ft 12m 8sq F, 40ft 12m 8sq F climb, 80ft 24m 16sq FF fly
 * DCs: str27 con25 dex10 int16 wis13 cha21
-* Skills: _Scout_ +4, _Hunt_ +3, _M Throw_ +5
+* Skills: _Scout_ +4, _Hunt_ +3, _M Throw_ +5, _Feel_ +5
 
 Giant, winged, and intelligent reptiles.
 
-_Magic_ Dragons are _M Throw_ +5 and _Feel_ +5
+_Magic_ Dragons know at least _Red_ and _Ball_ and also 1d4 forms and 1d4 colours more. They have HD × 1d8 CP (average 45 CP).
+
+_Breath_ Dragons weave threads in their mouths and expulse them. The average _Breath_ will cost them 12 CP (diameter 10ft, damage ~~2d6~~, range 60ft 18m 12sq tt, speed same).
 
 
 
@@ -275,7 +277,7 @@ _Xxx_ Yyy
 
 * HD: 9
 * AC: 14
-* Attack: +7, 2 × Tusk (2d4) or 1 x Trample (4d8)
+* Attack: +7, 2 × Tusk (2d4) or 1 × Trample (4d8)
 * Morale: 8
 * Size: medium
 * Move: 40ft 12m 8sq F

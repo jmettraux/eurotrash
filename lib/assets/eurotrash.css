@@ -428,14 +428,17 @@ ul.compass li strong {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  column-gap: 1rem;
+  /*column-gap: 1rem;*/
   height: var(--page-height);
 }
 [data-aa-title="keys"] .text-block > * {
   width: calc((var(--tblock-width) - 1rem) / 2);
 }
 [data-aa-title="keys"] h1 {
-  /*margin-bottom: 0.3rem;*/
+}
+[data-aa-title="keys"] h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
 }
 [data-aa-title="keys"] dl {
   margin-top: 0;

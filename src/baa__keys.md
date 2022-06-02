@@ -37,6 +37,6 @@ skl
 ## other keys
 
 hd2
-: half of the hit dice rounded down.
-: used as the default skill modifier.
+: Half of the hit dice rounded down.
+: Used as the default skill modifier.
 
