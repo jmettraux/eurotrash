@@ -248,6 +248,23 @@ _Breath_ Dragons weave threads in their mouths and expulse them. The average _Br
 
 
 
+## Draugr
+
+* HD: 3
+* AC: 14
+* Attack: +3, 1 × Weapon
+* Morale: 10
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str15 con15 dex10 int08 wis10 cha13
+* Skills: _Spy_ +3, _Grapple_ +2
+
+A revenant (animated corpse) inhabiting a cairn. Another name for them is "Haugbui", mound-dweller.
+
+_Origin_ Scandinavian saga literature and folktale.
+
+
+
 ## Dryad
 
 * HD: 2
