@@ -151,13 +151,15 @@ _Origin_ Greek Mythology, probably echoes of the first encounter with horse-moun
 * Size: medium
 * Move: 50ft 15m 10sq V
 * DCs: str19 con19 dex11 int03 wis14 cha10
-* Skills: _Spy_ +2
+* Skills: _Spy_ +2, _M Throw_ +4
 
 Fire-breathing hybrid creature, with goat, dragon, and lion heads.
 
-_Breath_ Thrice a day, the dragon head may breath fire up to 50ft 15m 10sq V (10ft 3m 2sq wide).
+_Magic_ Knows at least _Red_ and _Ball_ + 1d2 forms and 1d2 colours. They have HD × 1d8 CP (average 40 CP).
 
-_Origin_ Greek Mythology, who places it in Lycia, Asia Minor.
+_Breath_ The dragon head casts from its mouth, the average _Breath_ will cost it 9 CP (dia 5ft, damage ~~1d8~~, range 40ft 18m 12sq tt, speed 60ft 18m 12sq tt).
+
+_Origin_ Lycia, Asia Minor, from Greek Mythology.
 
 
 
@@ -208,7 +210,7 @@ Giant (20ft tall) one-eyed and slow-witted creatures.
 
 _Rock Throwing_ up to 200ft 60m 40sq 4V.
 
-_Magic_ When angered, some Cyclopes (1 in 4) may cast, CP 45 (13d6), projecting their wrath.
+_Magic_ When angered, some Cyclopes (1 in 4) may cast, CP 45 (13d6), projecting their wrath. They have _M Throw_ +4, and know 1d3 forms and 1d3 colours. No clever use of casting, pure reactiveness.
 
 
 

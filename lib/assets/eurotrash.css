@@ -458,11 +458,14 @@ ul.compass li strong {
   margin-bottom: 0.3rem;
 }
 
+[data-aa-title="creatures"] p {
+  margin-bottom: 0.4rem;
+}
 [data-aa-title="creatures"] p + p {
   text-indent: 0;
 }
 [data-aa-title="creatures"] .creature {
-  margin-bottom: 1rem;
+  margin-bottom: 0.9rem;
 }
 [data-aa-title="creatures"] .creature:first-child {
   margin-top: -0.7rem;
