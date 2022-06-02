@@ -32,5 +32,11 @@ DC
 skl
 : Skills. Mostly _Hunt_, _Scout_, _Spy_, _Swim_, skills that can easily be mapped to monsters and animals.
 
-<!-- dl break -->
+<!-- COLUMN BREAK -->
+
+## other keys
+
+hd2
+: half of the hit dice rounded down.
+: used as the default skill modifier.
 

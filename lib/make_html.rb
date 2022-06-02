@@ -166,6 +166,7 @@ def rework_md(s, h)
 
   s = rework_md_free_divs(s, h)
   s = rework_md_clear(s, h)
+  s = rework_md_column_break(s, h)
 
   s
 end
@@ -196,6 +197,17 @@ def rework_md_clear(s, h)
   # <div class="clear"> </div>
 
   s.gsub(/<!--[ \t]*clear[ \t]*-->/, "<div class=\"clear\"> </div>\n")
+end
+
+def rework_md_column_break(s, h)
+  #
+  # <!-- COLUMN BREAK -->
+  #   ==>
+  # <div class="column-break"> </div>
+
+  s.gsub(
+    /<!--[ \t]*COLUMN +BREAK[ \t]*-->/,
+    "<div class=\"column-break\"> </div>\n")
 end
 
 

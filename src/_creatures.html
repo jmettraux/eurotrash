@@ -90,9 +90,9 @@
       var r = []; if (typeof s !== 'string') return r;
       var ss = s.split(/ *, */);
       ss.forEach(function(ssi, i) {
-        var x = ssi.split(' ');
+        var x = ssi.split(/ *\+ */);
         r.push(c('em', x[0]));
-        r.push(t(' ' + x[1]));
+        r.push(t(' +' + x[1]));
         if (i !== ss.length - 1) r.push(t(', '));
       });
       return r;

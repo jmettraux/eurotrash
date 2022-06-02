@@ -413,6 +413,10 @@ ul.compass li strong {
 .compact { line-height: 0.77; }
 .compact6 { line-height: 0.66; }
 
+.column-break { /* height: var(--page-height); must be set at flex level */
+  flex-basis: 100%;
+  width: 0 !important;
+}
 
 /* specific */
 
@@ -425,12 +429,13 @@ ul.compass li strong {
   flex-direction: column;
   flex-wrap: wrap;
   column-gap: 1rem;
+  height: var(--page-height);
 }
 [data-aa-title="keys"] .text-block > * {
   width: calc((var(--tblock-width) - 1rem) / 2);
 }
 [data-aa-title="keys"] h1 {
-  margin-bottom: 0.3rem;
+  /*margin-bottom: 0.3rem;*/
 }
 [data-aa-title="keys"] dl {
   margin-top: 0;
