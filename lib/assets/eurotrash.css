@@ -341,6 +341,7 @@ dd > p {
   margin-top: 0.5rem;
 }
 
+/*
 .two-columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -353,6 +354,7 @@ dd > p {
 .two-columns:not(:first-of-type) {
   margin-top: 1rem;
 }
+*/
 
 ul.compass {
   position: absolute;
@@ -428,7 +430,7 @@ ul.compass li strong {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  /*column-gap: 1rem;*/
+  column-gap: 0.5rem;
   height: var(--page-height);
 }
 [data-aa-title="keys"] .text-block > * {

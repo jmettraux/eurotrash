@@ -1,5 +1,5 @@
 
-# Keys
+# Stat Keys
 
 HD
 : Hit dice, with average HP count (4.5 HP per HD rounded down).
@@ -34,9 +34,13 @@ skl
 
 <!-- COLUMN BREAK -->
 
-## other keys
+
+## Moreover
 
 hd2
 : Half of the hit dice rounded down.
 : Used as the default skill modifier.
+
+spellcaster
+: Unless specified otherwise a creature flagged as _spellcaster_ has 1d8 CP per HD, knows 1d3 spell colours/forms per HD, and has +**hd2** in 1d4 magical skills.
 
