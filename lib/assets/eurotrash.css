@@ -563,6 +563,7 @@ ul.compass li strong {
   border-left: 1px solid darkgrey;
   padding-left: 0.3rem;
   font-size: var(--size-b);
+  line-height: 1.1;
 }
 [data-aa-title="creatures"] .creature h2 {
   margin-top: 0;

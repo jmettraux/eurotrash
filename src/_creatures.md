@@ -257,8 +257,13 @@ _Breath_ Dragons weave threads in their mouths and expulse them. The average _Br
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str10 con11 dex12 int14 wis15 cha18
+* Skills: _M Throw_ +1, _Feel_ +1, _Soak_ +1, _Bind_ +1
 
-_Xxx_ Yyy
+Tree nymphs or tree spirits of oak trees. Nymphs for other trees do exist, Laurel → _Daphnaie_, apple or fruit tree → _Epimelides, ash tree → Meliae. _Hamadryads_ are a variant of dryad completely tied to their trees.
+
+_Magic_ spellcaster.
+
+_Origin_ Greek Mythology. In Southern Sweden, _Askefroa_ are ashe tree _Hamadryads_.
 
 
 
