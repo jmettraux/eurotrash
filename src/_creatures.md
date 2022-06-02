@@ -261,7 +261,7 @@ _Breath_ Dragons weave threads in their mouths and expulse them. The average _Br
 
 Tree nymphs or tree spirits of oak trees. Nymphs for other trees do exist, Laurel → _Daphnaie_, apple or fruit tree → _Epimelides, ash tree → Meliae. _Hamadryads_ are a variant of dryad completely tied to their trees.
 
-_Magic_ spellcaster.
+_Magic_ Spellcaster.
 
 _Origin_ Greek Mythology. In Southern Sweden, _Askefroa_ are ashe tree _Hamadryads_.
 
@@ -271,13 +271,15 @@ _Origin_ Greek Mythology. In Southern Sweden, _Askefroa_ are ashe tree _Hamadrya
 
 * HD: 1
 * AC: 15
-* Attack: +0, 1 × Weapon
+* Attack: +1, 1 × Weapon
 * Morale: 8 (10 w leader)
 * Size: medium
 * Move: 25ft 7.5m 5sq t-1
 * DCs: str14 con14 dex11 int11 wis10 cha09
+* Skills: _Craft_ +2, _Trade_ +1, _Build_ +1, _Punch_ +1
 
-_Xxx_ Yyy
+_Origin_ Germanic folklore or Norse mythology.
+
 
 
 ## Elephant
@@ -588,6 +590,25 @@ _Xxx_ Yyy
 * DCs: str14 con13 dex10 int02 wis10 cha05
 
 _Xxx_ Yyy
+
+
+
+## Naiad
+
+* HD: 4
+* AC: 13
+* Attack: +2, 1 × Punch (1d4), Magic
+* Morale: 7
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str10 con10 dex18 int12 wis14 cha16
+* Skills: _M Throw_ +2, _Feel_ +2, _Soak_ +2, _Bind_ +2
+
+Water nymph. A female spirit presiding over fountains, wells, streams, brooks, and other bodies of fresh water.
+
+_Magic_ Spellcaster. Know at least the _Blue_ colour.
+
+_Origin_ Greek mythology.
 
 
 
