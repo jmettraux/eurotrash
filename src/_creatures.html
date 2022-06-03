@@ -45,11 +45,11 @@
       var e = c('div.htoe');
       var ks = Object.keys(h);
       ks.forEach(function(k, i) {
-        var se = c('span');
+        var se = c('span.score');
         se.appendChild(c('code', k.toUpperCase()));
         se.appendChild(c('span', '' + h[k]));
         e.appendChild(se);
-        if (i !== ks.length - 1) e.appendChild(c('span', ' | '));
+        if (i !== ks.length - 1) e.appendChild(t('|'));
       });
       return e;
     };

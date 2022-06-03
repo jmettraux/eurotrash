@@ -559,6 +559,13 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid .v .htoe {
   font-size: var(--size-b);
 }
+[data-aa-title="creatures"] .creature-grid .v .htoe span.score {
+  display: inline-block;
+  width: 2.5rem;
+  text-align: right;
+  padding-left: 0.1rem;
+  padding-right: 0.1rem;
+}
 [data-aa-title="creatures"] .creature-grid .t {
   margin-left: 0.1rem;
   grid-area: 1 / 7 / span 7 / span 1;
