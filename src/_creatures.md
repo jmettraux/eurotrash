@@ -951,6 +951,25 @@ _Xxx_ Yyy
 
 
 
+## Strix
+
+* HD: 2
+* AC: 12
+* Attack: +0, 1 x Beak (1d4)
+* Morale: 9
+* Size: tiny
+* Move: 10ft 3m 2sq, 40ft 12m 8sq F fly
+* DCs: str04 con11 dex16 int03 wis09 cha07
+* Skills: _Spy_ +0
+
+Strix, plural "striges" or "strixes". Bird of ill omen, feeding on human flesh an blood. Owl looking.
+
+_Bloodsucking_ Once a target is immobilized, the strix will land on it and suck its blood, 1d3 per combat round.
+
+_Origin_ Bloodthirsty monster in bird form in Italy, borrowed by classical antiquity Greece.
+
+
+
 ## Toad, giant
 
 * HD: 3
