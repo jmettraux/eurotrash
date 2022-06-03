@@ -287,13 +287,17 @@ _Origin_ Greek Mythology. In Southern Sweden, _Askefroa_ are ashe tree _Hamadrya
 ## Dwarf
 
 * HD: 1
-* AC: 15
+* AC: 16
 * Attack: +1, 1 × Weapon
 * Morale: 8 (10 w leader)
 * Size: medium
 * Move: 25ft 7.5m 5sq t-1
-* DCs: str14 con14 dex11 int11 wis10 cha09
+* DCs: str17 con17 dex11 int11 wis10 cha09
 * Skills: _Craft_ +2, _Trade_ +1, _Build_ +1, _Punch_ +1
+
+Small but strong people.
+
+_Magic_ Some of them are spellcasters, but they specialize in magic helping them in their work of craft. For fighting they rely on the thus superior weapons and protections created.
 
 _Origin_ Germanic folklore or Norse mythology.
 
@@ -303,16 +307,18 @@ _Origin_ Germanic folklore or Norse mythology.
 
 * HD: 9
 * AC: 14
-* Attack: +7, 2 × Tusk (2d4) or 1 × Trample (4d8)
+* Attack: +7, 1 × Tusk (2d8) or 1 × Trample (4d8)
 * Morale: 8
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str22 con17 dex09 int03 wis12 cha06
 * Skills: _Spy_ +2, _Swim_ +1
 
-Not European per se, but Europe has seen them in its Antiquity.
+_Loxodonta africana_ Not European per se, but they've seen the Alps.
 
-_Trampling Charge_ TODO
+_Trampling_ 3 in 4 chances of getting trampled by an adjacent elephant.
+
+_Charge_ if the elephant charged for at least 60ft 18m 12sq tt before attacking, it gets a +2 to its tusk attack and deals an extra 1d8 damage. Target falls prone if hit.
 
 
 
@@ -325,6 +331,20 @@ _Trampling Charge_ TODO
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str12 con10 dex14 int12 wis11 cha14
+
+_Xxx_ Yyy
+
+
+
+## Fairy
+
+* HD: 0.5
+* AC: 15
+* Attack: +0, 1 × Weapon or Magic
+* Morale: 6
+* Size: small
+* Move: 30ft 9m 6sq t
+* DCs: str07 con10 dex15 int12 wis14 cha15
 
 _Xxx_ Yyy
 
