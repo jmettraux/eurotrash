@@ -199,16 +199,16 @@ A cancer of a beast.
 
 * HD: 13
 * AC: 14
-* Attack: +9, 1 × Club (3d10) or Rock (3d6)
+* Attack: +9, 1 × Club (3d10) or Punch (1d10)
 * Morale: 9
 * Size: huge
 * Move: 30ft 9m 6sq t
 * DCs: str22 con20 dex11 int08 wis06 cha10
-* Skills: _Throw_ +4
+* Skills: _Throw_ +4, _Punch_ +3
 
 Giant (20ft tall) one-eyed and slow-witted creatures.
 
-_Rock Throwing_ up to 200ft 60m 40sq 4V.
+_Rock Throwing_ Up to 200ft 60m 40sq 4V, damage 4d8.
 
 _Magic_ When angered, some Cyclopes (1 in 4) may cast, CP 45 (13d6), projecting their wrath. They have _M Throw_ +4, and know 1d3 forms and 1d3 colours. No clever use of casting, pure reactiveness.
 
