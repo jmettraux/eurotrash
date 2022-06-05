@@ -330,9 +330,14 @@ _Charge_ if the elephant charged for at least 60ft 18m 12sq tt before attacking,
 * Morale: 8 (10 w leader)
 * Size: medium
 * Move: 30ft 9m 6sq t
-* DCs: str12 con10 dex14 int12 wis11 cha14
+* DCs: str12 con10 dex14 int12 wis12 cha14
+* Skills: _Hunt_ +2, _Scout_ +2, _Spy_ +2, _Know_ +1, _Heal_ +1
 
-_Xxx_ Yyy
+A fairy that could be mistaken for a human.
+
+_Magic_ Spellcaster, CP 2d8 + 2 (11 average).
+
+_Weapon_ Favours the short bow and then the short sword.
 
 
 
@@ -345,8 +350,11 @@ _Xxx_ Yyy
 * Size: small
 * Move: 30ft 9m 6sq t
 * DCs: str07 con10 dex15 int12 wis14 cha15
+* Skills: _Spy_ +3, _Scout_ +3, _Heal_ +3
 
-_Xxx_ Yyy
+Small supernatural creature.
+
+_Magic_ Spellcaster, CP 1d8 + 2 (6 average).
 
 
 
@@ -359,8 +367,9 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str11 con10 dex16 int04 wis12 cha05
+* Skills: _Hunt_ +1, _Scout_ +1
 
-_Xxx_ Yyy
+Some breeders were successful in obtaining 3 feet long ferrets and use them to combat rats and other nuisance animals.
 
 
 
@@ -368,13 +377,18 @@ _Xxx_ Yyy
 
 * HD: 10
 * AC: 19
-* Attack: +8, 1 × Touch (life drain)
+* Attack: +8, 1 × Touch (drain)
 * Morale: 10
 * Size: medium
 * Move: 40ft 12m 8sq F hover
 * DCs: str07 con10 dex13 int10 wis12 cha17
+* Skills: _Spy_ +4
 
-_Xxx_ Yyy
+The restless spirit of a dead person.
+
+_Silent_ makes absolutely no noise.
+
+_Drain_ 1d6 | 1, 2 → takes 1d10 + 1 HP | 3, 4, 5 → takes 1 exhaustion level | 6 → takes 1 `CON` point
 
 
 
@@ -382,7 +396,7 @@ _Xxx_ Yyy
 
 * HD: 2
 * AC: 13
-* Attack: +1, 2 x Claw (1d3), 1 x Bite (1d3)
+* Attack: +1, 2 × Claw (1d3), 1 × Bite (1d3)
 * Morale: 9
 * Size: medium
 * Move: 30ft 9m 6sq t
@@ -391,9 +405,9 @@ _Xxx_ Yyy
 
 A kind of evil djinn or deset demon, derived from the fallen angel Iblis. Favours a diet of human flesh.
 
-Spread to Europe via Spain's Emirate.
-
 _Paralysis_ On a failed save, a creature hit by a ghoul will be paralyzed for 1d6 turns.
+
+_Origin_ Pre-Islamic Arabian religion. Propagated to Europe via Spain's Emirate.
 
 
 
@@ -406,8 +420,11 @@ _Paralysis_ On a failed save, a creature hit by a ghoul will be paralyzed for 1d
 * Size: huge
 * Move: 40ft 12m 8sq F
 * DCs: str21 con19 dex08 int05 wis09 cha06
+* Skills: _Exert_ +4, _Throw_ +4
 
-_Xxx_ Yyy
+Twelve feet tall human like creature.
+
+_Origin_ Various mythologies.
 
 
 
@@ -1012,7 +1029,7 @@ _Xxx_ Yyy
 
 * HD: 2
 * AC: 12
-* Attack: +0, 1 x Beak (1d4)
+* Attack: +0, 1 × Beak (1d4)
 * Morale: 9
 * Size: tiny
 * Move: 10ft 3m 2sq, 40ft 12m 8sq F fly
