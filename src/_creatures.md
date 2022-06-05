@@ -624,20 +624,6 @@ _Origin_ Lucan's Pharsalia and then the Saga of Yngvar. But the nordic version i
 
 
 
-## Leprechaun
-
-* HD: 0.5
-* AC: 12
-* Attack: +0, Magic
-* Morale: 7
-* Size: small
-* Move: 40ft 12m 8sq F
-* DCs: str07 con11 dex16 int16 wis15 cha16
-
-_Xxx_ yyy.
-
-
-
 ## Lion
 
 * HD: 5
