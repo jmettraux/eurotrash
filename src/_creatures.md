@@ -434,11 +434,16 @@ _Origin_ Various mythologies.
 * AC: 14
 * Attack: +0, 1 × Weapon
 * Morale: 8 (10 w leader)
-* Size: medium
-* Move: 20ft 6m 4sq t-2
+* Size: small
+* Move: 25ft 7.5m 5sq t-1
 * DCs: str15 con14 dex14 int12 wis10 cha09
+* Skills: _Spy_ +3, _Scout_ +3, _Steal_ +3
 
-_Xxx_ Yyy
+Small human-like creature, often sporting a white beard and a red hat. They live close to humans, mostly helpful especially if bribed with small presents. They are fond of animals, especially horses.
+
+_Magic_ 1 in 2 is a spellcaster.
+
+_Origin_ Nordic folklore. "nisse", "tomte", "tonttu".
 
 
 
@@ -451,8 +456,13 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str08 con10 dex14 int10 wis08 cha08
+* Skills: _Fish_ +1, _Gather_ +2, _Scout_ +1, _Spy_ +1, _Craft_ +0
 
-_Xxx_ Yyy
+As small as a gnome, but lives in the wilderness, like a troll.
+
+_Magic_ 1 in 6 is a spellcaster (HD 2 or 3).
+
+_Origin_ Norse folklore among others.
 
 
 
@@ -465,6 +475,7 @@ _Xxx_ Yyy
 * Size: large
 * Move: 20ft 6m 4sq t-2
 * DCs: str20 con18 dex08 int03 wis08 cha02
+* Skills: _Exert_ +5
 
 An artificial clay humanoid created by a rabbi as a servant. The knowledge on how to animate such a thing is only found among jewish scholars.
 
@@ -478,13 +489,16 @@ _Immune_ To fire and cold.
 
 * HD: 7
 * AC: 14
-* Attack: +6, 2 × Claw (1d4), 1 × Bite (2d8)
+* Attack: +6, 2 × Claws (1d4), 1 × Bite (2d8)
 * Morale: 8
 * Size: large
 * Move: 30ft 9m 6sq t, 80ft 24m 16sq FF fly
 * DCs: str18 con16 dex15 int02 wis13 cha08
+* Skills: _Hunt_ +3, _Scout_ +3
 
-_Xxx_ Yyy
+An eagle with the lower body of a lion.
+
+_Origin_ Probably the "Shirdal" of the Persian mythology propagating all the way to Greece and Rome.
 
 
 
@@ -513,6 +527,23 @@ _Xxx_ Yyy
 * DCs: str05 con08 dex16 int02 wis14 cha06
 
 _Xxx_ Yyy
+
+
+
+## Hippogriff
+
+* HD: 3
+* AC: 14
+* Attack: +3, 2 x Claws (1d6), 1 x Bite (1d10)
+* Morale: 8
+* Size: large
+* Move: 40ft 12m 8sq F, 60ft 18m 12sq tt fly
+* DCs: str18 con13 dex12 int03 wis12 cha08
+* Skills: _Hunt_ +1, _Scout_ +0
+
+Supposed to be the result of mating a griffin with a mare.
+
+_Origin_ Invented by Ariosto in "Orlando Furioso", his tale about Roland, one of Charlemagne's Paladins.
 
 
 
