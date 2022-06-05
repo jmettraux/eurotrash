@@ -49,7 +49,8 @@
         se.appendChild(c('code', k.toUpperCase()));
         se.appendChild(c('span', '' + h[k]));
         e.appendChild(se);
-        if (i !== ks.length - 1) e.appendChild(t('|'));
+        //if (i !== ks.length - 1) e.appendChild(t('|'));
+        if (i !== ks.length - 1) e.appendChild(t(' '));
       });
       return e;
     };

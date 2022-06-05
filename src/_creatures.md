@@ -378,6 +378,25 @@ _Xxx_ Yyy
 
 
 
+## Ghoul
+
+* HD: 2
+* AC: 13
+* Attack: +1, 2 x Claw (1d3), 1 x Bite (1d3)
+* Morale: 9
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str13 con10 dex15 int07 wis10 cha06
+* Skills: _Hunt_ +0, _Scout_ +1, _Spy_ +1
+
+A kind of evil djinn or deset demon, derived from the fallen angel Iblis. Favours a diet of human flesh.
+
+Spread to Europe via Spain's Emirate.
+
+_Paralysis_ On a failed save, a creature hit by a ghoul will be paralyzed for 1d6 turns.
+
+
+
 ## Giant
 
 * HD: 8
@@ -417,6 +436,24 @@ _Xxx_ Yyy
 * DCs: str08 con10 dex14 int10 wis08 cha08
 
 _Xxx_ Yyy
+
+
+
+## Golem
+
+* HD: 11
+* AC: 13
+* Attack: +8, 1 × Fist (3d10)
+* Morale: 12
+* Size: large
+* Move: 20ft 6m 4sq t-2
+* DCs: str20 con18 dex08 int03 wis08 cha02
+
+An artificial clay humanoid created by a rabbi as a servant. The knowledge on how to animate such a thing is only found among jewish scholars.
+
+_Immune_ To non-mundane weapons and attacks.
+
+_Immune_ To fire and cold.
 
 
 
