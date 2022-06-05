@@ -506,13 +506,18 @@ _Origin_ Probably the "Shirdal" of the Persian mythology propagating all the way
 
 * HD: 3
 * AC: 12
-* Attack: +2, 2 × Claw (1d4), 1 × Weapon, song
+* Attack: +2, 2 × Claws (1d4)
 * Morale: 7
 * Size: medium
 * Move: 20ft 6m 4sq t-2, 40ft 12m 8sq F fly
 * DCs: str12 con12 dex13 int07 wis10 cha13
+* Skills: _Scout_ +0
 
-_Xxx_ Yyy
+Half-human, half-bird personification of storm winds.
+
+_Magic_ Spellcaster (but HD 1).
+
+_Origin_ Greek mythology.
 
 
 
@@ -525,8 +530,9 @@ _Xxx_ Yyy
 * Size: tiny
 * Move: 10ft 3m 2sq, 60ft 18m 12sq tt fly
 * DCs: str05 con08 dex16 int02 wis14 cha06
+* Skills: _Hunt_ +2
 
-_Xxx_ Yyy
+_Accipiter nisus_ Eurasian sparrow- hawk.
 
 
 
@@ -534,7 +540,7 @@ _Xxx_ Yyy
 
 * HD: 3
 * AC: 14
-* Attack: +3, 2 x Claws (1d6), 1 x Bite (1d10)
+* Attack: +3, 2 × Claws (1d6), 1 × Bite (1d10)
 * Morale: 8
 * Size: large
 * Move: 40ft 12m 8sq F, 60ft 18m 12sq tt fly
@@ -555,9 +561,11 @@ _Origin_ Invented by Ariosto in "Orlando Furioso", his tale about Roland, one of
 * Morale: 6
 * Size: large
 * Move: 60ft 18m 12sq tt
-* DCs: str17 con13 dex09 int02 wis10 cha06
+* DCs: str17 con13 dex09 int02 wis11 cha06
+* Skills: _Exert_ +2
 
-_Xxx_ Yyy
+Draft horse, carthorse, work horse, or heavy horse.
+Larger horse suitable for farm labor and logging.
 
 
 
@@ -569,9 +577,14 @@ _Xxx_ Yyy
 * Morale: 7
 * Size: large
 * Move: 60ft 18m 12sq tt
-* DCs: str16 con12 dex10 int02 wis11 cha07
+* DCs: str16 con12 dex10 int02 wis10 cha07
+* Skills: _Exert_ +1
 
-_Xxx_ Yyy
+Horse bred for riding.
+
+Some of those horses may have the "ambling gait" providing a smooth ride for travellers.
+
+Please note that Aachen targets the carolingian era where heavy knights and their heavy horses were not yet "developped".
 
 
 
@@ -584,8 +597,11 @@ _Xxx_ Yyy
 * Size: huge
 * Move: 30ft 9m 6sq t, 30ft 9m 6sq t swim
 * DCs: str20 con20 dex12 int02 wis10 cha07
+* Skills: _Spy_ +4
 
-_Heads_ 6 of them.
+_Heads_ 6 of them. Each time the hydra takes 8 or more damage, it loses one head. Heads grow back after 1d4 rounds (unless cauterized), a head growing back grants 2d4 HPs to the beast.
+
+_Origin_ Greek mythology, Hydra of Lerna despatched by Herakles.
 
 
 
@@ -598,8 +614,13 @@ _Heads_ 6 of them.
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str16 con11 dex14 int04 wis08 cha04
+* Skills: _Spy_ +2, _Exert_ +1
 
-_Xxx_ yyy.
+A "javelin snake", projecting itself at its target to spear through it.
+
+Attacks by surprise, then takes one combat round to prepare the next springing assault.
+
+_Origin_ Lucan's Pharsalia and then the Saga of Yngvar. But the nordic version is more a "flying snake" than the original "javelin snake".
 
 
 
