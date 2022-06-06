@@ -624,6 +624,21 @@ _Origin_ Lucan's Pharsalia and then the Saga of Yngvar. But the nordic version i
 
 
 
+## Leucrotta, or Crocotta
+
+* HD: 6
+* AC: 16
+* Attack: +6, 1 x Bite (3d6)
+* Morale: 8
+* Size: medium
+* Move: 50ft 15m 10sq V
+* DCs: str18 con15 dex14 int09 wis12 cha06
+* Skills: _Negotiate_ +2, _Spy_ +1, _Trade_ +2, _Hunt_ +1
+
+_Origin_ Todo
+
+
+
 ## Lion
 
 * HD: 5
