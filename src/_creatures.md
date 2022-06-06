@@ -633,8 +633,9 @@ _Origin_ Lucan's Pharsalia and then the Saga of Yngvar. But the nordic version i
 * Size: medium
 * Move: 50ft 15m 10sq V
 * DCs: str13 con12 dex11 int02 wis09 cha05
+* Skills: _Hunt_ +3, _Spy_ +2, _Scout_ +0, _Exert_ +1
 
-_Xxx_ Yyy
+_Panthera leo_ The modern lion. Is said to be still extent in remote places in the Balkans.
 
 
 
@@ -648,7 +649,11 @@ _Xxx_ Yyy
 * Move: 30ft 9m 6sq t, 50ft 15m 10sq V fly
 * DCs: str17 con17 dex16 int07 wis12 cha08
 
-_Xxx_ Yyy
+Lion with a human head and a powerful jaw. Some of them are winged.
+
+_Tail spikes_ range → 90ft 27m 18sq ttt max (att -2) → 180ft 54m 36sq FFFtt. The six spikes grow back after a long rest.
+
+_Origin_ Persian legendary creature, taken up by Greeks and Romans.
 
 
 
