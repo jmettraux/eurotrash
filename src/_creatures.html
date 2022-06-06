@@ -120,6 +120,9 @@
         return `(${d}'${x})`;
       }).join(', ');
     };
+    var computeThac0 = function(s) {
+      return '' + (19 - parseInt(s, 10));
+    };
     var setValue = function(e, k, ...vs) {
       var ve = elt(e, `.v.${k}`);
       ve.innerHTML = '';
@@ -139,9 +142,10 @@
       setValue(te, 'hd', hde, hpe);
       setValue(te, 'ac', h.ac);
       setValue(te, 'ini', h.ini);
-      var m = (h.attack || '').match(/^([-+]\d)(.+)$/);
+      var m = (h.attack || '').match(/^([-+]\d+)(.+)$/);
       if (m) setValue(te, 'att', c('span.atb', m[1]), m[2]);
       else setValue(te, 'att', h.attack);
+      elt(te, '.v.att').appendChild(c('div.bx', computeThac0(h.attack)));
       setValue(te, 'sav', `1d20 + ${h.hd2} ≥`, htoe(h.savh));
       setValue(te, 'mor', `2d6 ≤ ${h.morale}`);
       setValue(te, 'siz', sizes[h.size]);

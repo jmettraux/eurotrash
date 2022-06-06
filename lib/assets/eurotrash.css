@@ -526,7 +526,7 @@ ul.compass li strong {
   padding-top: 0.1rem;
   font-size: var(--size-b);
 }
-[data-aa-title="creatures"] .creature-grid .v.mov .bx {
+[data-aa-title="creatures"] .creature-grid .v .bx {
   float: right;
   font-size: var(--size-c);
   padding-top: 0.1rem;
