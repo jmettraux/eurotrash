@@ -635,7 +635,11 @@ _Origin_ Lucan's Pharsalia and then the Saga of Yngvar. But the nordic version i
 * DCs: str18 con15 dex14 int09 wis12 cha06
 * Skills: _Negotiate_ +2, _Spy_ +1, _Trade_ +2, _Hunt_ +1
 
-_Origin_ Todo
+Monstruous version of a spotted hyena. Can mimic the voice of humans and lure them into traps.
+
+"It has an unbroken ridge of bone in each jaw, forming a continuous tooth without any gum." (Pliny)
+
+_Origin_ Strabo described it as a hybrid of a dog and a wolf, while Pliny wrote it was it could also be a hybrid hyena and lion.
 
 
 
