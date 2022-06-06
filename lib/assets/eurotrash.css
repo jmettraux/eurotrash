@@ -526,6 +526,12 @@ ul.compass li strong {
   padding-top: 0.1rem;
   font-size: var(--size-b);
 }
+[data-aa-title="creatures"] .creature-grid .v.mov .bx {
+  float: right;
+  font-size: var(--size-c);
+  margin-right: 0.55rem;
+  color: grey;
+}
 [data-aa-title="creatures"] .creature-grid .v.mor {
   padding-top: 0.1rem;
   font-size: var(--size-b);

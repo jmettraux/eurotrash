@@ -108,6 +108,18 @@
       ss.pop(); if (ss.length > 4) ss.splice(4, 0, c('br'));
       return ss;
     };
+    var fiveToBx = {
+      10: 15, 20: 25, 25: 30, 30: 40, 40: 45, 50: 60, 60: 80, 80: 100,
+      90: 120, 120: 150 };
+    var listBxMovements = function(s) {
+      return s.split(/ *, */).map(function(ss) {
+        var five = parseInt(ss, 10);
+        var sss = ss.split(/ +/);
+        var d = fiveToBx[five];
+        var x = sss.length > 4 ? (' ' + sss.splice(-1)) : '';
+        return `(${d}'${x})`;
+      }).join(', ');
+    };
     var setValue = function(e, k, ...vs) {
       var ve = elt(e, `.v.${k}`);
       ve.innerHTML = '';
@@ -134,6 +146,7 @@
       setValue(te, 'mor', `2d6 ≤ ${h.morale}`);
       setValue(te, 'siz', sizes[h.size]);
       setValue(te, 'mov', listMovements(h.move));
+      elt(te, '.v.mov').appendChild(c('div.bx', listBxMovements(h.move)));
       var dch = {
         str: h.dcs.str, con: h.dcs.con, dex: h.dcs.dex,
         int: h.dcs.int, wis: h.dcs.wis, cha: h.dcs.cha };
@@ -208,7 +221,7 @@
     <div class="k s1 ini">ini</div><div class="v s1 ini">v</div>
     <div class="k lc att">atk</div><div class="v att">v</div>
     <div class="k lc sav">sav</div><div class="v sav">v</div>
-    <div class="k lc mov">mv</div><div class="v mov">v</div>
+    <div class="k lc mov">mv</div><div class="v mov">v<div class="v mov bx">(0)</div></div>
     <div class="k s1 lc mor">ml</div><div class="v s1 mor">v</div>
     <div class="k s1 siz">siz</div><div class="v s1 siz">v</div>
     <div class="k lc dcs">DC</div><div class="v dcs">v</div>
