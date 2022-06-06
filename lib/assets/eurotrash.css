@@ -525,6 +525,8 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid .v.ini {
   padding-top: 0.1rem;
   font-size: var(--size-b);
+  justify-self: right;
+  margin-right: 0.55rem;
 }
 [data-aa-title="creatures"] .creature-grid .v .bx {
   float: right;
@@ -545,6 +547,12 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid .v.siz {
   padding-top: 0.1rem;
   font-size: var(--size-b);
+  justify-self: right;
+  margin-right: 0.55rem;
+}
+[data-aa-title="creatures"] .creature-grid .v.dcs {
+  justify-self: right;
+  margin-right: 0.55rem;
 }
 [data-aa-title="creatures"] .creature-grid .k.ac { grid-column-start: 3; }
 [data-aa-title="creatures"] .creature-grid .v.ac { grid-column-start: 4; }
@@ -570,8 +578,11 @@ ul.compass li strong {
   display: inline-block;
   width: 2.5rem;
   text-align: right;
-  padding-left: 0.1rem;
-  padding-right: 0.1rem;
+  padding-left: 0.2rem;
+  /*padding-right: 0.1rem;*/
+}
+[data-aa-title="creatures"] .creature-grid .v .htoe span.score code {
+  padding-right: 0.07rem;
 }
 [data-aa-title="creatures"] .creature-grid .t {
   margin-left: 0.1rem;
