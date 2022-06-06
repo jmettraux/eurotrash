@@ -1179,7 +1179,7 @@ _Xxx_ Yyy
 * Attack: +3, 1 × Bite (2d4)
 * Morale: 8
 * Size: medium
-* Move: 30ft 9m 6sq t human, 40ft 12m 8sq F wolf
+* Move: 30ft 9m 6sq t, 40ft 12m 8sq F wolf
 * DCs: str15 con14 dex13 int10 wis11 cha10
 
 _Xxx_ Yyy.

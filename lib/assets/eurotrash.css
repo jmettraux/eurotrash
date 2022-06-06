@@ -529,6 +529,7 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid .v.mov .bx {
   float: right;
   font-size: var(--size-c);
+  padding-top: 0.1rem;
   margin-right: 0.55rem;
   color: grey;
 }

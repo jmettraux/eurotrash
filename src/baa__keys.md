@@ -19,6 +19,7 @@ sav
 
 mv
 : Movement. Max Distance that can be covered with 1 Move Action in 1 combat round (6 seconds).
+: In grey, the B/X encounter movement rate. Multiply by 3 to get the base movement rate.
 
 ml
 : Morale. If the 2d6 roll is successful, the creature "group" stays in the fight. If it fails, the group will flee or try to parlay.
