@@ -535,6 +535,10 @@ ul.compass li strong {
   margin-right: 0.55rem;
   color: grey;
 }
+[data-aa-title="creatures"] .creature-grid .v.ac .bx {
+  margin-top: 0.08rem;
+  font-weight: normal;
+}
 [data-aa-title="creatures"] .creature-grid .v.mor {
   padding-top: 0.1rem;
   font-size: var(--size-b);

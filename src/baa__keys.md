@@ -6,12 +6,14 @@ HD
 
 AC
 : Armor Class.
+: In grey, surrounded by square brackets, is the descending armour class.
 
 ini
 : Initiative. What is rolled for the creature to determine its rank in the initiative order.
 
 atk
 : Attack. Attack bonus followed by attack possibilities and respective damage.
+: Pushed to the right in grey is the THAC0, should you need it.
 
 sav
 : Save check pattern. Three choices here `PHY` TC (physical), `EVA` TC (evasion), and `MEN` TC (mental).

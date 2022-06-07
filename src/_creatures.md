@@ -667,6 +667,7 @@ _Panthera leo_ The modern lion. Is said to be still extent in remote places in t
 * Size: medium
 * Move: 30ft 9m 6sq t, 50ft 15m 10sq V fly
 * DCs: str17 con17 dex16 int07 wis12 cha08
+* Skills: _Spy_ +2, _Scout_ +2
 
 Lion with a human head and a powerful jaw. Some of them are winged.
 

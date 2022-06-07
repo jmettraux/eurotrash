@@ -123,6 +123,9 @@
     var computeThac0 = function(s) {
       return '' + (19 - parseInt(s, 10));
     };
+    var computeDescAc = function(s) {
+      return `]${19 - parseInt(s, 10)}[`;
+    };
     var setValue = function(e, k, ...vs) {
       var ve = elt(e, `.v.${k}`);
       ve.innerHTML = '';
@@ -141,6 +144,7 @@
       var hpe = c('span.hp', '(', c('code', 'hp'), '' + h.hp, ')');
       setValue(te, 'hd', hde, hpe);
       setValue(te, 'ac', h.ac);
+      elt(te, '.v.ac').appendChild(c('div.bx', computeDescAc(h.ac)));
       setValue(te, 'ini', h.ini);
       var m = (h.attack || '').match(/^([-+]\d+)(.+)$/);
       if (m) setValue(te, 'att', c('span.atb', m[1]), m[2]);
