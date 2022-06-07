@@ -16,7 +16,7 @@ atk
 : Pushed to the right in grey is the THAC0, should you need it.
 
 sav
-: Save check pattern. Three choices here `PHY` TC (physical), `EVA` TC (evasion), and `MEN` TC (mental).
+: Save check pattern. Three choices here `PHY TC` (physical), `EVA TC` (evasion), and `MEN TC` (mental).
 : Other `DC`s are OK, but they have to be computed.
 
 mv
