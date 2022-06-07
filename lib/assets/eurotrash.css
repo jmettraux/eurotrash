@@ -470,6 +470,17 @@ ul.compass li strong {
   display: block;
   margin-bottom: 0.3rem;
 }
+[data-aa-title="keys"] .text-block {
+  position: relative;
+}
+[data-aa-title="keys"] .remember {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  text-align: right;
+  font-weight: 600;
+}
 
 [data-aa-title="creatures"] p {
   margin-bottom: 0.4rem;

@@ -47,3 +47,7 @@ hd2
 spellcaster
 : Unless specified otherwise a creature flagged as _spellcaster_ has 1d8 CP per HD, knows 1d3 spell colours/forms per HD, and has +**hd2** in 1d4 magical skills.
 
+
+<!-- .remember -->
+~~describe~~ the creature,<br/>do not name the creature.
+
