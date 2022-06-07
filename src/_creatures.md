@@ -681,13 +681,18 @@ _Origin_ Persian legendary creature, taken up by Greeks and Romans.
 
 * HD: 4
 * AC: 11
-* Attack: +3, 1 × Snakebites (1d6 + poison)
+* Attack: +3, 1 × Snakebites (1d6)
 * Morale: 8
 * Size: medium
-* Move: 30ft 9m 6sq t
+* Move: 30ft 9m 6sq t, 60ft 18m 12sq tt fly
 * DCs: str10 con16 dex15 int12 wis13 cha15
+* Skills: _Spy_ +2
 
-_Xxx_ Yyy
+Human female like creature, with venomous snakes as hair. Some of them are winged.
+
+_Snakebite_ Succeed a save or die after 1d6 combat rounds.
+
+_Origin_ Greek Mythology, a trio of sisters, or a beautiful maiden punished by Athena.
 
 
 
@@ -700,8 +705,9 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 10ft 3m 2sq, 40ft 12m 8sq F swim
 * DCs: str10 con12 dex13 int11 wis11 cha12
+* Skills: _Swim_ +5, _Scout_ +2, _Spy_ +0, _Fish_ +2
 
-_Xxx_ Yyy
+_Origin_ Greek mythology, Triton son of Poseidon, and also Glaucus, the fisherman turned merman.
 
 
 
@@ -714,6 +720,7 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 10ft 3m 2sq, 40ft 12m 8sq F swim
 * DCs: str18 con15 dex10 int08 wis10 cha09
+* Skills: _Swim_ +4, _Scout_ +3, _Spy_ +1, _Fish_ +3
 
 _Xxx_ Yyy
 
