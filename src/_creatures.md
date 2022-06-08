@@ -811,7 +811,7 @@ _Homo sapiens neanderthalensis_ Long vanished, but still a fugitive presence.
 * Size: small
 * Move: 30ft 9m 6sq t, 30ft 9m 6sq t swim
 * DCs: str07 con12 dex16 int12 wis16 cha19
-* Skills: _Swim_ +4
+* Skills: _Swim_ +4, _Fish_ +2, _Spy_ +3, _Scout_ +0, _Gather_ +1
 
 Water spirit.
 
@@ -825,13 +825,18 @@ _Origin_ Germanic, Scandinavian, and Slavic folklore.
 
 * HD: 8
 * AC: 12
-* Attack: +7, 8 × Tentacle (1d3 + constriction)
+* Attack: +7, 8 × Tentacle (1d3)
 * Morale: 7
 * Size: large
 * Move: 10ft 3m 2sq, 60ft 18m 12sq tt swim
 * DCs: str17 con13 dex13 int04 wis10 cha04
+* Skills: _Exert_ +4, _Fish_ +3, _Grapple_ +5
 
-_Xxx_ Yyy
+The scandinavian Kraken and others large octopodes.
+
+_Constriction_ After a successful tentacle hit, the target is grabbed and suffers 1d3 damage per round. To escape must succeed a _Grapple_ check against the beast's `STR DC`.
+
+_Tentacles_ A hit of 7 or more damage will disable / sever one tentacle.
 
 
 
