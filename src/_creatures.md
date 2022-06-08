@@ -792,8 +792,13 @@ _Origin_ Greek mythology.
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str11 con12 dex11 int09 wis11 cha09
+* Skills: _Hunt_ +1, _Fish_ +1, _Gather_ +1, _Scout_ +1, _Throw_ +1, _Dodge_ +1
 
-_Xxx_ Yyy
+A hairy wildman, could it be a remnant of an ancient race?
+
+_Magic_ 1 in 8 could be a level 1 or 2 spellcaster.
+
+_Homo sapiens neanderthalensis_ Long vanished, but still a fugitive presence.
 
 
 
@@ -801,13 +806,18 @@ _Xxx_ Yyy
 
 * HD: 1
 * AC: 12
-* Attack: +0, 1 × Weapon (1d4) or 1 × Spell
+* Attack: +0, 1 × Weapon (1d4)
 * Morale: 6
 * Size: small
 * Move: 30ft 9m 6sq t, 30ft 9m 6sq t swim
-* DCs: str06 con12 dex16 int12 wis16 cha19
+* DCs: str07 con12 dex16 int12 wis16 cha19
+* Skills: _Swim_ +4
 
-_Xxx_ Yyy
+Water spirit.
+
+_Magic_ 1 in 4 a level 1 or 2 spellcaster.
+
+_Origin_ Germanic, Scandinavian, and Slavic folklore.
 
 
 
