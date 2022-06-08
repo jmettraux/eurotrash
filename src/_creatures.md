@@ -628,7 +628,7 @@ _Origin_ Lucan's Pharsalia and then the Saga of Yngvar. But the nordic version i
 
 * HD: 6
 * AC: 16
-* Attack: +6, 1 x Bite (3d6)
+* Attack: +6, 1 × Bite (3d6)
 * Morale: 8
 * Size: medium
 * Move: 50ft 15m 10sq V
@@ -696,7 +696,7 @@ _Origin_ Greek Mythology, a trio of sisters, or a beautiful maiden punished by A
 
 
 
-## Merman
+## Merfolk
 
 * HD: 1
 * AC: 13
@@ -715,14 +715,16 @@ _Origin_ Greek mythology, Triton son of Poseidon, and also Glaucus, the fisherma
 
 * HD: 4
 * AC: 16
-* Attack: +4, 1 × Spear (2d6)
+* Attack: +4, 1 × Claws (2d4) or 1 × Spear (2d6)
 * Morale: 10
-* Size: medium
+* Size: large
 * Move: 10ft 3m 2sq, 40ft 12m 8sq F swim
 * DCs: str18 con15 dex10 int08 wis10 cha09
 * Skills: _Swim_ +4, _Scout_ +3, _Spy_ +1, _Fish_ +3
 
-_Xxx_ Yyy
+A stronger and larger variant of merfolk.
+
+_Origin_ Hibernian mythology transcribed during the medieval era. Also Scotland it seems.
 
 
 
@@ -735,8 +737,11 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str18 con16 dex11 int06 wis16 cha09
+* Skills: _Spy_ +1, _Exert_ +4, _Hunt_ +2
 
-_Xxx_ Yyy
+_Charge_ if a minotaur charged for at least 20ft 6m 4sq t-2 before attacking, it gets a +2 to its attack and deals 3d6+2 Horn damage. On a failed `Str` save, the target falls prone.
+
+_Origin_ Greek mythology, part man and part bull creature, son of Pasiphaë, placed in the center of the Labyrinth designed by Daedalus.
 
 
 
