@@ -6,7 +6,7 @@ HD
 
 AC
 : Armor Class.
-: In grey, surrounded by square brackets, is the descending armour class.
+: In grey, preceded by a down arrow, is the descending armour class.
 
 ini
 : Initiative. What is rolled for the creature to determine its rank in the initiative order.

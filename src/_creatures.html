@@ -124,7 +124,8 @@
       return '' + (19 - parseInt(s, 10));
     };
     var computeDescAc = function(s) {
-      return `]${19 - parseInt(s, 10)}[`;
+      //return `]${19 - parseInt(s, 10)}[`;
+      return `↓${19 - parseInt(s, 10)}`;
     };
     var setValue = function(e, k, ...vs) {
       var ve = elt(e, `.v.${k}`);
