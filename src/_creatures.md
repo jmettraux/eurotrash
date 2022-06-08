@@ -1119,6 +1119,23 @@ _Origin_ Bloodthirsty monster in bird form in Italy, borrowed by classical antiq
 
 
 
+## Tarasque
+
+* HD: 22
+* AC: 19
+* Attack: +11, 1 × Bite (5d10) or 1 × Tail (2d12 + 2)
+* Morale: 10
+* Size: huge
+* Move: 40ft 12m 8sq F
+* DCs: str21 con20 dex11 int03 wis12 cha10
+* Skills: _Spy_ +5, _Exert_ +10
+
+Huge beast with a long tail, ambushing ships on the river it lives next to.
+
+_Origin_ Provence, France, late 12th century. Said to be coming from Galatia (Asia Minor) to Tarascon a cross between the Leviathan and the Onachus. Said to be defeated by St. Martha.
+
+
+
 ## Toad, giant
 
 * HD: 3
