@@ -754,8 +754,13 @@ _Origin_ Greek mythology, part man and part bull creature, son of Pasiphaë, pla
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str14 con13 dex10 int02 wis10 cha05
+* Skills: _Exert_ +2, _Travel_ +1
 
-_Xxx_ Yyy
+More patient, hardy and long-lived than horses. Less obstinate and more intelligent than donkeys. Cheap to maintain.
+
+Can carry up to 240 lb (108 kg).
+
+_Equus africanus asinus × Equus ferus caballus_ The offspring of a make donkey (jack) and a female horse (mare). Common in Egypt by 3000 BC, arrived in Asia Minor in 800 BC.
 
 
 
