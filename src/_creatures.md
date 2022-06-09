@@ -1151,6 +1151,25 @@ _Poison_ Todo.
 
 
 
+## Spriggan
+
+* HD: 6
+* AC: 15
+* Attack: +5, 2 × Sword (1d8)
+* Morale: 8
+* Size: small
+* Move: 25ft 7.5m 5sq t-1
+* DCs: str09 con12 dex17 int12 wis12 cha09
+* Skills: _Steal_ +2, _Hunt_ +2, _Scout_ +1, _Spy_ +2, _Throw_ +1
+
+Looking like ugly wizened old men with large childlike heads. Considered as fairy bodyguards.
+
+_Magic_ Most of them are level 1 or 2 spellcasters.
+
+_Origin_ Cornish folklore. Share similarities to scandinavian trolls (substituting babies for changelings for example).
+
+
+
 ## Sprite
 
 * HD: 0.5
