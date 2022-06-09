@@ -14,6 +14,7 @@ ini
 atk
 : Attack. Attack bonus followed by attack possibilities and respective damage.
 : Pushed to the right in grey is the THAC0, should you need it.
+: In small and grey for each damage dice, the average damage value.
 
 sav
 : Save check pattern. Three choices here `PHY TC` (physical), `EVA TC` (evasion), and `MEN TC` (mental).

@@ -129,8 +129,13 @@
     };
     var computeDamageAverage = function(s) {
       var m = s.match(/\(([^)]+)\)/);
-clog('cda', s, m && m[1]);
-return null;
+      var m = m && m[1].match(/(\d+)d(\d+)\s*(([-+])\s*(\d+))?/);
+      if ( ! m) return null;
+      var c = parseInt(m[1], 10);
+      var d = parseInt(m[2], 10);
+      var p = m[5] ? parseInt(m[5], 10) * (m[4] === '-' ? -1 : 1) : 0;
+      var a = 0.5 + d / 2;
+      return '' + Math.floor(c * a + p);
     };
     var splitAttacks = function(s) {
       var a = [];

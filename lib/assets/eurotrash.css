@@ -539,6 +539,17 @@ ul.compass li strong {
   color: red;
   font-weight: bold;
 }
+[data-aa-title="creatures"] .creature-grid .v.att .dav {
+  font-size: var(--size-c);
+  padding-top: 0.1rem;
+  color: grey;
+}
+[data-aa-title="creatures"] .creature-grid .v.att {
+  margin-right: 0.55rem;
+}
+[data-aa-title="creatures"] .creature-grid .v.att .bx {
+  margin-right: 0;
+}
 [data-aa-title="creatures"] .creature-grid .v.s1 {
   padding-top: 0;
   font-size: var(--size-a);
@@ -564,7 +575,7 @@ ul.compass li strong {
 [data-aa-title="creatures"] .creature-grid .v.mor {
   padding-top: 0.1rem;
   font-size: var(--size-b);
-  grid-column-end: span 2;
+  grid-column-end: span 3;
 }
 [data-aa-title="creatures"] .creature-grid .v.sav .htoe {
   margin-left: 0.3rem;
