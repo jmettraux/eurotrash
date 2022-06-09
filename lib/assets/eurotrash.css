@@ -591,6 +591,10 @@ ul.compass li strong {
   justify-self: right;
   margin-right: 0.55rem;
 }
+[data-aa-title="creatures"] .creature-grid .v.sks {
+  margin-left: 0.08rem;
+  margin-right: 0.55rem;
+}
 [data-aa-title="creatures"] .creature-grid .k.ac { grid-column-start: 3; }
 [data-aa-title="creatures"] .creature-grid .v.ac { grid-column-start: 4; }
 [data-aa-title="creatures"] .creature-grid .k.ini { grid-column-start: 5; }

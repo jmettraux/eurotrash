@@ -915,10 +915,17 @@ _Origin_ Greek mythology, offspring of Medusa (archaic tradition) or son of Pose
 * Attack: +13, 2 × Talon (2d6), 1 × Bite (4d6)
 * Morale: 10
 * Size: gargantuan
-* Move: 20ft 6m 4sq t-2, 120ft 36m 24sq FFF fly
+* Move: 20ft 6m 4sq, 120ft 36m 24sq FFF fly
 * DCs: str19 con25 dex26 int02 wis21 cha18
+* Skills: _Exert_ +5
 
-_Xxx_ Yyy
+Immortal bird, cyclically regenerating, arising from its own ashes.
+
+_Heat_ Creatures within 20ft 6m 4sq of the bird suffer 3d6 damage per combat round.
+
+_Immunity_ Unharmed by magical and non-magical fire. Can only be harmed by magical weapons.
+
+_Origin_ Greek mythology. Classical Greeks tell of a potential origin of the bird in Ancient Egypt.
 
 
 
@@ -930,9 +937,14 @@ _Xxx_ Yyy
 * Morale: 7
 * Size: tiny
 * Move: 10ft 3m 2sq, 30ft 9m 6sq t fly
-* DCs: str02 con08 dex20 int10 wis14 cha15
+* DCs: str02 con08 dex20 int11 wis14 cha15
+* Skills: _Spy_ +5, _Scout_ +3, _Heal_ +3, _Steal_ +4, _Herd_ +2
 
-_Xxx_ Yyy
+Small fairies believed to inhabit ancestor sites such as barrows, dolmens, or menhirs.
+
+_Magic_ Spellcasters of level 1 or 2.
+
+_Origin_ British folklore.
 
 
 
@@ -944,9 +956,12 @@ _Xxx_ Yyy
 * Morale: 8
 * Size: small
 * Move: 30ft 9m 6sq t
-* DCs: str07 con11 dex15 int02 wis10 cha04
+* DCs: str07 con11 dex15 int03 wis10 cha04
+* Skills: _Swim_ +4, _Spy_ +0, _Scout_ +0
 
-_Disease_ Todo.
+Overgrown rats.
+
+_Disease_ Beware getting bitten, many rats are disease carriers.
 
 
 
@@ -959,12 +974,17 @@ _Disease_ Todo.
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str18 con18 dex14 int13 wis16 cha18
+* Skills: _Spy_ +4, _Exert_ +1, _Know_ +1, _Grapple_ +2
 
-_Throttle_ Todo.
+Returned from death to haunt the living.
+
+_Choke_ on a successful grasp attack, the victim is grasped and incurs 1d8 damage per combat round.
+
+_Origin_ From the French word for "returning". Present in many folklores.
 
 
 
-## Salamander
+## Salamander, fire
 
 * HD: 8
 * AC: 17
@@ -973,8 +993,11 @@ _Throttle_ Todo.
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str18 con15 dex14 int11 wis10 cha12
+* Skills: _Scout_ +3, _Spy_ +2
 
-_Xxx_ Yyy
+A big fire lizard.
+
+_Origin_ Mentioned in the Talmud as a product of fire, one smeared with its blood will be immune from fire.
 
 
 
@@ -987,8 +1010,13 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str12 con11 dex16 int12 wis10 cha14
+* Skills: _Gather_ +2, _Herd_ +2, _Scout_ +1, _Spy_ +0, _Grow_ +1, _Throw_ +3
 
-FIXME Like satyrs, centaurs were notorious for being wild, lusty, overly indulgent drinkers and carousers, violent when intoxicated, and generally uncultured delinquents.
+Wild, lusty, overly indulgent drinkers, carousers, and delinquents.
+
+_Magic_ Spellcasters of level 1d4.
+
+_Origin_ Greek mythology, male nature spirit with horse ears and tails. Companions to the god Dionysus.
 
 
 
@@ -1001,8 +1029,13 @@ FIXME Like satyrs, centaurs were notorious for being wild, lusty, overly indulge
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str15 con15 dex13 int01 wis09 cha03
+* Skills: _Spy_ +1, _Hunt_ +1, _Grapple_ +0
 
-_Poison_ Todo.
+Scorpions as big as ponies.
+
+_Grappled_ +2 when trying to hit a grappled target.
+
+_Poison_ Succeed a save check or die.
 
 
 
