@@ -127,6 +127,44 @@
       //return `]${19 - parseInt(s, 10)}[`;
       return `↓${19 - parseInt(s, 10)}`;
     };
+    var computeDamageAverage = function(s) {
+      var m = s.match(/\(([^)]+)\)/);
+clog('cda', s, m && m[1]);
+return null;
+    };
+    var splitAttacks = function(s) {
+      var a = [];
+      var ii = 0; var j; while (true) {
+        ii = ii + 1; if (ii > 30) { clog('HAD TO BREAK'); break; }
+        var ci = s.indexOf(', ');
+        var oi = s.indexOf(' or ');
+        if (ci === -1) ci = 9999; if (oi === -1) oi = 9999;
+        if (ci === oi) { a.push(s); break; } // 9999 and 9999
+        if (ci > oi) {
+          a.push(s.slice(0, oi)); a.push('|'); j = oi + 4; }
+        else {
+          a.push(s.slice(0, ci)); a.push('&'); j = ci + 2; }
+        s = s.slice(j);
+      }
+      return a;
+    };
+    var listAttacks = function(s) {
+      var ats = splitAttacks(s);
+//clog(ats);
+      var atb = ats.shift();
+      var a = [];
+      a.push(c('span.atb', atb));
+      ats.forEach(function(at) {
+        if (at === '&') { a.push(', '); }
+        else if (at === '|') { a.push(' or '); }
+        else {
+          a.push(at);
+          var dav = computeDamageAverage(at);
+          if (dav) a.push(c('span.dav', dav));
+        }
+      });
+      return a;
+    };
     var setValue = function(e, k, ...vs) {
       var ve = elt(e, `.v.${k}`);
       ve.innerHTML = '';
@@ -147,10 +185,8 @@
       setValue(te, 'ac', h.ac);
       elt(te, '.v.ac').appendChild(c('div.bx', computeDescAc(h.ac)));
       setValue(te, 'ini', h.ini);
-      var m = (h.attack || '').match(/^([-+]\d+)(.+)$/);
-      if (m) setValue(te, 'att', c('span.atb', m[1]), m[2]);
-      else setValue(te, 'att', h.attack);
-      elt(te, '.v.att').appendChild(c('div.bx', computeThac0(h.attack)));
+      setValue(te, 'att', listAttacks(h.attack));
+      elt(te, '.v.att').appendChild(c('div.bx', computeThac0(h.attack) + '→0'));
       setValue(te, 'sav', `1d20 + ${h.hd2} ≥`, htoe(h.savh));
       setValue(te, 'mor', `2d6 ≤ ${h.morale}`);
       setValue(te, 'siz', sizes[h.size]);

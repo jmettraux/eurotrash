@@ -20,7 +20,7 @@ _Leader_ A NPC of level 2 or better.
 
 * HD: 6
 * AC: 15
-* Attack: +6, 1 × Bite (1d10), 1 × Gaze (Petrification)
+* Attack: +6, 1 × Bite (1d10), 1 × Gaze
 * Morale: 8
 * Size: medium
 * Move: 20ft 6m 4sq
@@ -167,7 +167,7 @@ _Origin_ Lycia, Asia Minor, from Greek Mythology.
 
 * HD: 5
 * AC: 13
-* Attack: +4, 1 × Beak (1d6 + petrification)
+* Attack: +4, 1 × Beak (1d6)
 * Morale: 7
 * Size: small
 * Move: 20ft 6m 4sq
@@ -199,7 +199,7 @@ A cancer of a beast.
 
 * HD: 13
 * AC: 14
-* Attack: +9, 1 × Club (3d10) or Punch (1d10)
+* Attack: +9, 1 × Club (3d10) or 1 × Punch (1d10)
 * Morale: 9
 * Size: huge
 * Move: 30ft 9m 6sq t
@@ -914,13 +914,13 @@ _Xxx_ Yyy
 
 * HD: 0.5
 * AC: 12
-* Attack: +0, 1 × Bite (1d3 + disease)
+* Attack: +0, 1 × Bite (1d3)
 * Morale: 8
 * Size: small
 * Move: 30ft 9m 6sq t
 * DCs: str07 con11 dex15 int02 wis10 cha04
 
-_Xxx_ Yyy
+_Disease_ Todo.
 
 
 
@@ -928,13 +928,13 @@ _Xxx_ Yyy
 
 * HD: 8
 * AC: 10
-* Attack: +7, 1 × Grasp (2d8 + throttle)
+* Attack: +7, 1 × Grasp (2d8)
 * Morale: 12
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str18 con18 dex14 int13 wis16 cha18
 
-_Xxx_ Yyy
+_Throttle_ Todo.
 
 
 
@@ -970,13 +970,13 @@ FIXME Like satyrs, centaurs were notorious for being wild, lusty, overly indulge
 
 * HD: 4
 * AC: 17
-* Attack: +3, 2 × Claws (1d10), 1 × Sting (1d4 + poison)
+* Attack: +3, 2 × Claws (1d10), 1 × Sting (1d4)
 * Morale: 11
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str15 con15 dex13 int01 wis09 cha03
 
-_Xxx_ Yyy
+_Poison_ Todo.
 
 
 
@@ -1040,13 +1040,13 @@ _Xxx_ Yyy
 
 * HD: 2
 * AC: 13
-* Attack: +1, 1 × Bite (1d4 + poison)
+* Attack: +1, 1 × Bite (1d4)
 * Morale: 7
 * Size: small
 * Move: 30ft 9m 6sq t
 * DCs: str04 con11 dex15 int02 wis10 cha03
 
-_Xxx_ Yyy
+_Poison_ Todo.
 
 
 
@@ -1054,13 +1054,13 @@ _Xxx_ Yyy
 
 * HD: 6
 * AC: 17
-* Attack: +5, 1 × Touch (1d8 + drain)
+* Attack: +5, 1 × Touch (1d8)
 * Morale: 11
 * Size: medium
 * Move: 50ft 15m 10sq V hover
 * DCs: str01 con11 dex14 int10 wis10 cha11
 
-_Xxx_ Yyy
+_Drain_ Todo.
 
 
 
@@ -1082,13 +1082,13 @@ _Xxx_ Yyy
 
 * HD: 3
 * AC: 12
-* Attack: +2, 1 × Bite (1d6 + poison)
+* Attack: +2, 1 × Bite (1d6)
 * Morale: 7
 * Size: large
 * Move: 30ft 9m 6sq t, 30ft 9m 6sq t climb
 * DCs: str14 con12 dex16 int02 wis11 cha04
 
-_Xxx_ Yyy
+_Poison_ Todo.
 
 
 
@@ -1110,13 +1110,13 @@ _Xxx_ Yyy
 
 * HD: 6
 * AC: 12
-* Attack: +5, 10 × Tentacle (1d4 + constr), 1 × Beak (1d10)
+* Attack: +5, 10 × Tentacle (1d4), 1 × Beak (1d10)
 * Morale: 7
 * Size: huge
 * Move: 60ft 18m 12sq tt swim
 * DCs: str19 con16 dex15 int02 wis12 cha02
 
-_Xxx_ Yyy
+_Constriction_ Todo.
 
 
 
@@ -1160,13 +1160,13 @@ _Origin_ Provence, France, late 12th century. Said to be coming from Galatia (As
 
 * HD: 3
 * AC: 12
-* Attack: +1, 1 × Bite (1d4 + 1 + poison)
+* Attack: +1, 1 × Bite (1d4 + 1)
 * Morale: 6
 * Size: large
 * Move: 20ft 6m 4sq t-2, 40ft 12m 8sq F swim
 * DCs: str15 con13 dex13 int02 wis10 cha03
 
-_Xxx_ Yyy
+_Poison_ Todo.
 
 
 
@@ -1202,13 +1202,13 @@ _Xxx_ Yyy
 
 * HD: 4
 * AC: 15
-* Attack: +3, 1 × Bite (2d4), 1 × Sting (1d4 + poison)
+* Attack: +3, 1 × Bite (2d4), 1 × Sting (1d4)
 * Morale: 10
 * Size: medium
 * Move: 10ft 3m 2sq, 50ft 15m 10sq V fly
 * DCs: str10 con10 dex14 int01 wis10 cha03
 
-_Xxx_ Yyy
+_Poison_ Todo.
 
 
 
@@ -1258,13 +1258,13 @@ _Xxx_ Yyy
 
 * HD: 3
 * AC: 14
-* Attack: +2, 1 × touch (drain)
+* Attack: +2, 1 × Touch
 * Morale: 12
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str15 con16 dex14 int10 wis13 cha15
 
-_Xxx_ Yyy
+_Drain_ Todo.
 
 
 
@@ -1272,7 +1272,7 @@ _Xxx_ Yyy
 
 * HD: 6
 * AC: 19
-* Attack: +5, 1 × lightning (1d10)
+* Attack: +5, 1 × Lightning (1d10)
 * Morale: 11
 * Size: tiny
 * Move: 50ft 15m 10sq V hover
@@ -1301,13 +1301,13 @@ _Name_ Canis Lupus.
 
 * HD: 4
 * AC: 16
-* Attack: +3, 1 × Touch (1d6 + drain)
+* Attack: +3, 1 × Touch (1d6)
 * Morale: 12
 * Size: medium
 * Move: 60ft 18m 12sq tt hover
 * DCs: str06 con16 dex16 int12 wis14 cha15
 
-_Xxx_ Yyy.
+_Drain_ Todo.
 
 
 
@@ -1355,11 +1355,11 @@ _Origin_ Germanic mythology.
 
 * HD: 7
 * AC: 16
-* Attack: +6, 1 × Bite (2d8), 1 × Sting (1d6 + poison)
+* Attack: +6, 1 × Bite (2d8), 1 × Sting (1d6)
 * Morale: 9
 * Size: large
 * Move: 20ft 6m 4sq t-2, 80ft 24m 16sq FF fly
 * DCs: str19 con16 dex10 int05 wis12 cha06
 
-_Xxx_ Yyy.
+_Poison_ Todo.
 
