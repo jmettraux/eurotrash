@@ -864,8 +864,11 @@ _Tentacles_ A hit of 7 or more damage will disable / sever one tentacle.
 * Size: large
 * Move: 40ft 12m 8sq F
 * DCs: str19 con16 dex08 int05 wis07 cha07
+* Skills: _Hunt_ +2, _Exert_ +2, _Punch_ +2
 
-_Xxx_ Yyy
+A kind of man-eating giant. Said to be the inhabitants of Britain prior to human settlement.
+
+_Origin_ French word, derived from Orcus, the Etruscan god. May be cognate to "orcneas" in Beowulf, which inspired Tolkien's "Orc".
 
 
 
@@ -878,8 +881,13 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str16 con16 dex12 int07 wis11 cha10
+* Skills: _Ride_ +0, _Throw_ +1, _Punch_ +1, _Scout_ +0, _Grapple_ +0, _Hunt_ +1, _Gather_ +0
 
-_Xxx_ Yyy
+Bigger than goblins, smaller than trolls.
+
+_Daylight_ -1 on all actions in full daylight.
+
+_Origin_ Beowulf "giants, elves, and orcneas", sometimes translated as "evil spirit", brought to us by Tolkien.
 
 
 
@@ -892,8 +900,11 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 60ft 18m 12sq tt, 90ft 27m 18sq ttt fly
 * DCs: str18 con16 dex15 int10 wis15 cha13
+* Skills: _Scout_ +1, _Spy_ +0, _Exert_ +1
 
-_Xxx_ Yyy
+Winged horse. Not all of them can be mounted (like regular horses).
+
+_Origin_ Greek mythology, offspring of Medusa (archaic tradition) or son of Poseidon (classic tradition).
 
 
 

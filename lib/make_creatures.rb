@@ -34,6 +34,10 @@ def make_creatures
 
     f.puts
     f.write(File.read('src/_creatures.html'))
+
+    puts "-" * 80
+    puts "#{c} creatures"
+    puts "-" * 80
   end
 end
 
