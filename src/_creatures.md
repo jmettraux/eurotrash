@@ -214,6 +214,21 @@ _Magic_ When angered, some Cyclopes (1 in 4) may cast, CP 45 (13d6), projecting 
 
 
 
+## Deer
+
+* HD: 2
+* AC: 12
+* Attack: +3, 1 × Horns (2d4)
+* Morale: 10
+* Size: medium
+* Move: 50ft 15m 10sq V
+* DCs: str11 con11 dex16 int02 wis13 cha05
+* Skills: _Gather_ +2, _Exert_ +2, _Scout_ +1, _Spy_ +3
+
+_Cervus elaphus_ Red deer. Covers most of Western Europe.
+
+
+
 ## Dog, hunting
 
 * HD: 1
