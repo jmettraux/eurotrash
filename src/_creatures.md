@@ -1043,13 +1043,16 @@ _Poison_ Succeed a save check or die.
 
 * HD: 6
 * AC: 14
-* Attack: +5, 1 × Bite (2d6), 1 × squeeze (1d10)
+* Attack: +5, 1 × Bite (2d6), 1 × Squeeze (1d10)
 * Morale: 8
 * Size: huge
 * Move: 20ft 6m 4sq t-2, 60ft 18m 12sq tt swim
 * DCs: str20 con18 dex14 int03 wis11 cha11
+* Skills: _Swim_ +4, _Fish_ +4, _Exert_ +3
 
-_Xxx_ Yyy
+Huge serpent living in the sea and sometimes attacking boats.
+
+_Origin_ Ancient Near East culture described the Leviathan as a sea serpent. Encircling the whole world in Norse mythology is Jörmundgandr (or Midgarðsormr).
 
 
 
@@ -1062,8 +1065,9 @@ _Xxx_ Yyy
 * Size: large
 * Move: 40ft 12m 8sq F swim
 * DCs: str14 con13 dex13 int02 wis10 cha04
+* Skills: _Exert_ +1, _Fish_ +2, _Scout_ +3
 
-_Xxx_ Yyy
+Doesn't need an introduction.
 
 
 
@@ -1076,8 +1080,11 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str10 con15 dex14 int06 wis08 cha05
+* Skills: _Punch_ +1, _Spy_ +2
 
-_Xxx_ Yyy
+Undead animated human skeleton as found in medieval western culture.
+
+_Half damage_ Skeletons half the damage when incurring piercing weapon hits.
 
 
 
@@ -1085,13 +1092,18 @@ _Xxx_ Yyy
 
 * HD: 12
 * AC: 11
-* Attack: +9, 1 × Bite (1d12) or 1 × acid (4d6)
+* Attack: +9, 1 × Bite (1d12) or 1 × Acid (4d6)
 * Morale: 10
 * Size: medium
 * Move: 20ft 6m 4sq t-2
 * DCs: str15 con13 dex09 int01 wis02 cha02
+* Skills: _Exert_ +7, _Spy_ +2
 
-_Xxx_ Yyy
+A giant shell-less terrestrial gastropod mollusc. Has a long pair of light-sensing tentacles and a shorter pair of smell sensing tentacles. All tentacles are retractable.
+
+They're prone to dessication, they generate a protective mucus, and are active mostly when the ground is moist.
+
+_Acidic spit_ Up to 50ft 15m 10sq V.
 
 
 
@@ -1104,8 +1116,13 @@ _Xxx_ Yyy
 * Size: small
 * Move: 30ft 9m 6sq t
 * DCs: str04 con11 dex15 int02 wis10 cha03
+* Skills: _Spy_ +2, _Hunt_ +0, _Exert_ +1
 
-_Poison_ Todo.
+Relatively large snake. When surprised will tend to bite and flee.
+
+_Poison_ Some snakes inject poison when biting. Death within 2d4 × 10 minutes, unless successful on a save check.
+
+_Venom_ Some snakes spit a venom at the eyes of their target. It causes temporary blindness 2d4 × 10 minutes, some species' venom may cause permanent blindness on a failed save check.
 
 
 
