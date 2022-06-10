@@ -1209,8 +1209,13 @@ _Origin_ Cornish folklore. Share similarities to scandinavian trolls (substituti
 * Size: tiny
 * Move: 10ft 3m 2sq, 40ft 12m 8sq F fly
 * DCs: str03 con10 dex18 int14 wis13 cha11
+* Skills: _Spy_ +4, _Dodge_ +3, _Heal_ +3, _M Throw_ +3, _Bind_ +3, _Feel_ +3, _Radiate_ +2
 
-_Xxx_ Yyy
+Winged humanoids, between elves and pixies.
+
+_Magic_ Spellcaster of level 1 or 2.
+
+_Origin_ From Latin "Spiritus" via French "Esprit". Refers to Elves and Fairies of the European folklore.
 
 
 
@@ -1218,13 +1223,18 @@ _Xxx_ Yyy
 
 * HD: 6
 * AC: 12
-* Attack: +5, 10 × Tentacle (1d4), 1 × Beak (1d10)
+* Attack: +5, 8 × Arms (1d4), 2 × Tentacles (2d4), 1 × Beak (1d10)
 * Morale: 7
 * Size: huge
 * Move: 60ft 18m 12sq tt swim
 * DCs: str19 con16 dex15 int02 wis12 cha02
+* Skills: _Fish_ +3, _Exert_ +3
 
-_Constriction_ Todo.
+Predatory cephalopod, with 8 arms and 2 big tentacles. An effective swimmer.
+
+_Constriction_ A grappled creature takes 1d4 damage per combat round.
+
+_Ink Cloud_ Emits an ink cloud upon fleeing 60ft 18m 12sq tt in diameter.
 
 
 
@@ -1273,8 +1283,11 @@ _Origin_ Provence, France, late 12th century. Said to be coming from Galatia (As
 * Size: large
 * Move: 20ft 6m 4sq t-2, 40ft 12m 8sq F swim
 * DCs: str15 con13 dex13 int02 wis10 cha03
+* Skills: _Spy_ +0, _Swim_ +3, _Exert_ +1
 
-_Poison_ Todo.
+Large toad, as big as a boar.
+
+_Poison_ Some species secrete a poison that takes affect after 1d6 × 10 minutes, unless the save check is successful.
 
 
 
@@ -1287,8 +1300,15 @@ _Poison_ Todo.
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str15 con13 dex10 int08 wis10 cha06
+* Skills: _Spy_ +1, _Hunt_ +2, _Scout_ +0, _Exert_ +2
 
-_Xxx_ Yyy
+Fiends living in isolated mountain or cave areas. Afraid of thunder and lightning.
+
+_Magic_ 1 troll in 6 is a spellcaster of level 1d4.
+
+_Sun_ Will turn to stone if exposed to direct sun light.
+
+_Origin_ Nordic folklore.
 
 
 
@@ -1301,8 +1321,11 @@ _Xxx_ Yyy
 * Size: large
 * Move: 50ft 15m 10sq V
 * DCs: str18 con15 dex14 int11 wis17 cha16
+* Skills: _Spy_ +3, _Scout_ +1
 
-_Xxx_ Yyy
+Horse-like creature with a single horn on the forehead. Said to be only approachable by pure-hearted maidens.
+
+_Origin_ Bronze Age Indus Valley Civilization. Then Ancient Greece natural history, which describes it as living in India.
 
 
 
@@ -1315,8 +1338,13 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 10ft 3m 2sq, 50ft 15m 10sq V fly
 * DCs: str10 con10 dex14 int01 wis10 cha03
+* Skills: _Hunt_ +2
 
-_Poison_ Todo.
+A wasp as big as a dog, preceded by a terrifying buzz.
+
+_Poison_ A successful sting will poison, unless the target succeed a save check. Death after 3d6 × 10 minutes.
+
+_Nest_ Will host 2d12 wasps. Vulnerable to fire.
 
 
 
@@ -1329,6 +1357,7 @@ _Poison_ Todo.
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str11 con10 dex16 int04 wis12 cha05
+* Skills: _Spy_ +2, _Hunt_ +3, _Scout_ +0
 
 _Xxx_ Yyy
 
