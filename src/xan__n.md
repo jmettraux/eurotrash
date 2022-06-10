@@ -8,4 +8,5 @@
 * "The Undead", Johan Egerkrans
 * "Trudvang Adventures", Theodore Bergqvist, Magnus Malmberg, et al
 * "Vaesen", Johan Egerkrans
+* "Wikipedia", Many contributors
 

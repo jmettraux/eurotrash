@@ -1126,7 +1126,7 @@ _Venom_ Some snakes spit a venom at the eyes of their target. It causes temporar
 
 
 
-## Specter
+## Spectre
 
 * HD: 6
 * AC: 17
@@ -1134,9 +1134,14 @@ _Venom_ Some snakes spit a venom at the eyes of their target. It causes temporar
 * Morale: 11
 * Size: medium
 * Move: 50ft 15m 10sq V hover
-* DCs: str01 con11 dex14 int10 wis10 cha11
+* DCs: str01 con11 dex14 int11 wis10 cha11
+* Skills: _Spy_ +3, _Hunt_ +2, _Scout_ +3
 
-_Drain_ Todo.
+Phantom, hovers though creatures and terrain, but cannot end its movement superposed with them.
+
+_Drain_ On each spectre hit, damage are incurred. But fail a save check and the HP max is reduced by the damage points just incurred. Instant death if HP max reaches 0.
+
+_Immune_ To any non-magical attack.
 
 
 
@@ -1149,8 +1154,13 @@ _Drain_ Todo.
 * Size: large
 * Move: 40ft 12m 8sq F, 60ft 18m 12sq tt fly
 * DCs: str22 con20 dex10 int16 wis18 cha23
+* Skills: _Spy_ +4, _Hunt_ +7, _Scout_ +1, _Exert_ +5
 
-_Xxx_ Yyy
+Lion with a human head and sometimes wings.
+
+_Magic_ 1 in 4 Sphinxes is a spellcaster of level 2d6.
+
+_Origin_ Egypt, borrowed by the Greeks since the Bronze Age.
 
 
 
@@ -1163,8 +1173,11 @@ _Xxx_ Yyy
 * Size: large
 * Move: 30ft 9m 6sq t, 30ft 9m 6sq t climb
 * DCs: str14 con12 dex16 int02 wis11 cha04
+* Skills: _Craft_ +2, _Exert_ +0, _Spy_ +1
 
-_Poison_ Todo.
+_Poison_ On a successful bite, poison causes death after 2d4 × 10 minutes, unless succeeding on a save check.
+
+_Web_ Disadvantage to any action while entangled in a giant spider web. Succeed twice in a row on a `EVA TC` or `DEX TC` check to free yourself.
 
 
 
