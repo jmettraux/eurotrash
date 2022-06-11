@@ -291,7 +291,9 @@ _Breath_ Dragons weave threads in their mouths and expulse them. The average _Br
 * DCs: str15 con15 dex10 int08 wis10 cha13
 * Skills: _Spy_ +3, _Grapple_ +2
 
-A revenant (animated corpse) inhabiting a cairn. Another name for them is "Haugbui", mound-dweller.
+A revenant (animated corpse) inhabiting a cairn. Another name for them is "Haugbui", barrow-wight, mound-dweller.
+
+_Immunity_ In some traditions, draugrs may only be hurt by magical or silver weapons.
 
 _Origin_ Scandinavian saga literature and folktale.
 
@@ -1411,20 +1413,6 @@ _Origin_ Initiation into the warrior caste in ancient times; Magical transformat
 _Sonar_ Allows dolphins to echolocate and to orient themselves.
 
 _Orcinus orca_ Toothed whale belonging to the oceanic dolphin family. Highly social apex predator.
-
-
-
-## Wight
-
-* HD: 3
-* AC: 14
-* Attack: +2, 1 × Touch
-* Morale: 12
-* Size: medium
-* Move: 30ft 9m 6sq t
-* DCs: str15 con16 dex14 int10 wis13 cha15
-
-_Drain_ Todo.
 
 
 
