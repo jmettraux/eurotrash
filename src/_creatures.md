@@ -1416,7 +1416,7 @@ _Orcinus orca_ Toothed whale belonging to the oceanic dolphin family. Highly soc
 
 
 
-## Will-o'-wisp
+## Will-o'-the-wisp
 
 * HD: 6
 * AC: 19
@@ -1425,8 +1425,13 @@ _Orcinus orca_ Toothed whale belonging to the oceanic dolphin family. Highly soc
 * Size: tiny
 * Move: 50ft 15m 10sq V hover
 * DCs: str01 con10 dex28 int13 wis14 cha11
+* Skills: _Lead_ +3, _Spy_ +3
 
-_Xxx_ Yyy
+A apparition resembling a flickering lamp or lantern.
+
+In Scandinavian and Baltic folklores indicates the position of treasure only reachable when the fire is present. In other traditions, it's a soul stuck between heaven and hell. Sometimes it is thought it will lead travellers astray.
+
+_Ignus Fatuus_ "giddy flame". Found in many folklores.
 
 
 
@@ -1435,13 +1440,15 @@ _Xxx_ Yyy
 * HD: 3
 * AC: 12
 * Attack: +2, 1 × Bite (1d6)
-* Morale: 6 (8 pack)
+* Morale: 6 (8 in large pack)
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str12 con12 dex15 int03 wis12 cha06
-* Skills: +3 _Hunt_, +2 _Scout_, +2 _Spy_
+* Skills: _Hunt_ +3, _Scout_ +2, _Spy_ +2
 
-_Name_ Canis Lupus.
+Wolves tend to travel in nuclear families along with their offspring. A single animal or a mated pair have higher success rate in hunting than larger packs do.
+
+_Canis lupus lupus_ Eurasian wolf.
 
 
 
@@ -1454,8 +1461,13 @@ _Name_ Canis Lupus.
 * Size: medium
 * Move: 60ft 18m 12sq tt hover
 * DCs: str06 con16 dex16 int12 wis14 cha15
+* Skills: _Spy_ +2, _Scout_ +2, _Hunt_ +0
 
-_Drain_ Todo.
+Incorporeal undead.
+
+_Immunity_ Only hurt by magical (full damage) or silver weapons (half damage).
+
+_Drain_ On a successful hit, drains one level (or one HD). A creature drained of all its levels, becomes a wraith at the next sunset.
 
 
 
@@ -1463,7 +1475,7 @@ _Drain_ Todo.
 
 * HD: 4
 * AC: 17
-* Attack: +5, 1 × Bite (2d6)
+* Attack: +5, 1 × Bite (2d6) or 1 × Gaze
 * Morale: 9
 * Size: medium
 * Move: 40ft 12m 8sq F
@@ -1472,7 +1484,7 @@ _Drain_ Todo.
 
 Wingless dragon.
 
-_Gaze_ Todo
+_Gaze_ The wurm locks its gaze into the eyes of creatures who is then stupefied until it succeeds a save check on its turn.
 
 _Sun Aversion_ Disadvantage when operating in the sun.
 
@@ -1484,16 +1496,16 @@ _Origin_ Germanic mythology.
 
 * HD: 8
 * AC: 15
-* Attack: +7, 1 × Bite (3d6)
+* Attack: +7, 2 × Bite (3d6)
 * Morale: 9
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str19 con20 dex14 int14 wis14 cha15
-* Skills: _Hunt_ +2, _Scout_ +1, _Exert_ +2
+* Skills: _Hunt_ +2, _Scout_ +1, _Exert_ +2, _Grapple_ +4
 
 Large wingless dragon.
 
-_Constriction_ 3d6 damage per turn.
+_Constriction_ 3d6 damage per turn on a grappled target.
 
 _Origin_ Germanic mythology.
 
@@ -1508,6 +1520,11 @@ _Origin_ Germanic mythology.
 * Size: large
 * Move: 20ft 6m 4sq t-2, 80ft 24m 16sq FF fly
 * DCs: str19 con16 dex10 int05 wis12 cha06
+* Skills: _Scout_ +2, _Spy_ +0, _Hunt_ +1
 
-_Poison_ Todo.
+Dragons have four legs and two wings. Wyverns have two legs and two wings.
+
+_Poison_ Creatures stung by a wyvern must succeed a save check or die within 2d4 × 10 minutes.
+
+_Origin_ Winged snakes found in Mediterranean mythologies.
 
