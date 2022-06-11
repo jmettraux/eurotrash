@@ -249,6 +249,18 @@ onDocumentReady(function() {
 onDocumentReady(function() {
 
   //
+  // add dctc
+
+  var te = elt('#dctc_template').content;
+
+  elts('[data-aa-title="creatures"] .margin').forEach(function(e) {
+    e.appendChild(te.cloneNode(true));
+  });
+});
+
+onDocumentReady(function() {
+
+  //
   // rewrite h2
 
   elts('.creature h2').forEach(function(h2e) {

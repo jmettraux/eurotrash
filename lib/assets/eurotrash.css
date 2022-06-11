@@ -645,6 +645,35 @@ ul.compass li strong {
   padding-left: 0.3rem;
 }
 
+[data-aa-title="creatures"] .margin .dctc {
+  position: absolute;
+  bottom: 0;
+  font-size: var(--size-c);
+  line-height: 0.5;
+  color: darkgrey;
+  width: 70%;
+}
+[data-aa-title="creatures"] .margin .dctc .l {
+  text-align: right;
+}
+[data-aa-title="creatures"] .margin .dctc tr:nth-child(1) {
+  border-bottom: 1px solid lightgrey;
+}
+[data-aa-title="creatures"] .margin .dctc tr:nth-child(5) {
+  border-bottom: 1px solid lightgrey;
+}
+[data-aa-title="creatures"] .margin .dctc tr:last-child {
+  border-top: 1px solid lightgrey;
+}
+[data-aa-title="creatures"] .margin .dctc td {
+  padding-left: 0;
+  padding-right: 0;
+}
+[data-aa-title="creatures"] .margin .dctc td.c {
+  padding-left: 0.2rem;
+  padding-right: 0.1rem;
+}
+
 /* ? */
 
 section:last-of-type dl {
