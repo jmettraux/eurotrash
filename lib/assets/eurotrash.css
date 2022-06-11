@@ -647,7 +647,7 @@ ul.compass li strong {
 
 [data-aa-title="creatures"] .margin .dctc {
   position: absolute;
-  bottom: 0;
+  bottom: 2.1rem;
   font-size: var(--size-c);
   line-height: 0.5;
   color: darkgrey;
