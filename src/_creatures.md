@@ -244,6 +244,23 @@ _Canis lupus familiaris_ bred for various hunting tasks.
 
 
 
+## Dolphin
+
+* HD: 3
+* AC: 13
+* Attack: +4, 1 × Ram (1d8) or 1 × Bite (1d6)
+* Morale: 10
+* Size: medium
+* Move: 80ft 24m 16sq FF swim
+* DCs: str15 con15 dex13 int10 wis11 cha10
+* Skills: _Exert_ +2, _Hunt_ +2
+
+Intelligent torpedo-shaped mammal water predators.
+
+_Sonar_ Allows dolphins to echolocate and to orient themselves.
+
+
+
 ## Dragon
 
 * HD: 10
@@ -1357,9 +1374,9 @@ _Nest_ Will host 2d12 wasps. Vulnerable to fire.
 * Size: medium
 * Move: 40ft 12m 8sq F
 * DCs: str11 con10 dex16 int04 wis12 cha05
-* Skills: _Spy_ +2, _Hunt_ +3, _Scout_ +0
+* Skills: _Spy_ +2, _Hunt_ +5, _Scout_ +0
 
-_Xxx_ Yyy
+A regular sized weasel is no good news for chickens and rabbits, what of a giant one?
 
 
 
@@ -1372,12 +1389,15 @@ _Xxx_ Yyy
 * Size: medium
 * Move: 30ft 9m 6sq t, 40ft 12m 8sq F wolf
 * DCs: str15 con14 dex13 int10 wis11 cha10
+* Skills: _Hunt_ +2, _Scout_ +2, _Exert_ +3
 
-_Xxx_ Yyy.
+_Immunity_ Some traditions say that only silver or magical weapons can hurt werewolves.
+
+_Origin_ Initiation into the warrior caste in ancient times; Magical transformation in Greco-Roman times; People involuntarily turning into wolves in the middle ages; ...
 
 
 
-## Whale
+## Whale, killer
 
 * HD: 6
 * AC: 13
@@ -1385,9 +1405,12 @@ _Xxx_ Yyy.
 * Morale: 10
 * Size: huge
 * Move: 60ft 18m 12sq tt swim
-* DCs: str19 con13 dex10 int03 wis12 cha07
+* DCs: str19 con13 dex10 int08 wis12 cha07
+* Skills: _Exert_ +3, _Hunt_ +3
 
-_Xxx_ Yyy
+_Sonar_ Allows dolphins to echolocate and to orient themselves.
+
+_Orcinus orca_ Toothed whale belonging to the oceanic dolphin family. Highly social apex predator.
 
 
 
