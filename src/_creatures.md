@@ -1410,7 +1410,7 @@ _Origin_ Initiation into the warrior caste in ancient times; Magical transformat
 * DCs: str19 con13 dex10 int08 wis12 cha07
 * Skills: _Exert_ +3, _Hunt_ +3
 
-_Sonar_ Allows dolphins to echolocate and to orient themselves.
+_Sonar_ Allows orcas to echolocate and to orient themselves.
 
 _Orcinus orca_ Toothed whale belonging to the oceanic dolphin family. Highly social apex predator.
 
