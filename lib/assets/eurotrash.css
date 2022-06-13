@@ -677,6 +677,12 @@ ul.compass li strong {
   padding-left: 0.2rem;
   padding-right: 0.1rem;
 }
+.page.odd .dctc {
+  left: 0.3rem;
+}
+.page.even .dctc {
+  right: 0.6rem;
+}
 
 [data-aa-title="tactics"] .text-block {
   display: flex;
