@@ -595,6 +595,9 @@ ul.compass li strong {
   justify-self: right;
   margin-right: 0.55rem;
 }
+[data-aa-title="creatures"] .creature-grid .v.dcs .score.int .above8 {
+  color: red;
+}
 [data-aa-title="creatures"] .creature-grid .v.sks {
   margin-left: 0.08rem;
   margin-right: 0.55rem;

@@ -41,7 +41,7 @@
 
       var as = Array.from(arguments);
 
-      var m = as.shift().match(/^([-a-z]+)(#[-a-z]+)?(\.[-a-z.]+)?$/);
+      var m = as.shift().match(/^([-a-z]+)(#[-a-z]+)?(\.[-a-z0-9.]+)?$/);
       var tn = m[1];
       var id = m[2]; id = id && id.slice(1);
       var cs = (m[3] || '.').slice(1).split('.');

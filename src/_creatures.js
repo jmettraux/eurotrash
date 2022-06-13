@@ -38,13 +38,18 @@ onDocumentReady(function() {
   //    .map(function(k) { return k.toUpperCase() + h[k]; })
   //    .join(' | ');
   //};
-  var htoe = function(h) {
+  var htoeClass = function(v, dc_or_tc) {
+    if (dc_or_tc === 'dc') return v < 8 ? 'below8' : 'above8';
+    return v > 13 ? 'above13' : 'below13';
+  };
+  var htoe = function(h, dc_or_tc) {
     var e = c('div.htoe');
     var ks = Object.keys(h);
     ks.forEach(function(k, i) {
-      var se = c('span.score');
+      var se = c(`span.score.${k.toLowerCase()}`);
       se.appendChild(c('code', k.toUpperCase()));
-      se.appendChild(c('span', '' + h[k]));
+      var v = h[k]; var cla = v
+      se.appendChild(c(`span.${htoeClass(v, dc_or_tc)}`, '' + h[k]));
       e.appendChild(se);
       //if (i !== ks.length - 1) e.appendChild(t('|'));
       if (i !== ks.length - 1) e.appendChild(t(' '));
@@ -189,7 +194,7 @@ onDocumentReady(function() {
     setValue(te, 'ini', h.ini);
     setValue(te, 'att', listAttacks(h.attack));
     elt(te, '.v.att').appendChild(c('div.bx', computeThac0(h.attack) + '→0'));
-    setValue(te, 'sav', `1d20 + ${h.hd2} ≥`, htoe(h.savh));
+    setValue(te, 'sav', `1d20 + ${h.hd2} ≥`, htoe(h.savh, 'tc'));
     setValue(te, 'mor', `2d6 ≤ ${h.morale}`);
     setValue(te, 'siz', sizes[h.size]);
     setValue(te, 'mov', listMovements(h.move));
@@ -201,8 +206,8 @@ onDocumentReady(function() {
       bod: h.dcs.bod, sou: h.dcs.sou,
       phy: h.dcs.phy, eva: h.dcs.eva, men: h.dcs.men, imp: h.dcs.imp };
     var dcse = c('div');
-    dcse.appendChild(htoe(dch));
-    dcse.appendChild(htoe(dchh));
+    dcse.appendChild(htoe(dch, 'dc'));
+    dcse.appendChild(htoe(dchh, 'dc'));
     setValue(te, 'dcs', dcse);
     setValue(te, 'sks', listSkills(h.skills));
     var txe = elt(te, '.t');
