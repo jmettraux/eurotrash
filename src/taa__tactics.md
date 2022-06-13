@@ -22,7 +22,7 @@ Only the one who masterfully owns those various techniques and who knows as well
 
 ## Means of Fighting
 
-The goal of the fight is victory, the destruction of the enemy. But this destruction from the material point of view has only a limited meaning. It rather means to destroy the will to resist fo the enemy.
+The goal of the fight is victory, the destruction of the enemy. But this destruction from the material point of view has only a limited meaning. It rather means to destroy the will to resist of the enemy.
 
 The means of fighting are fighters, weapons, and fortifications.
 
@@ -30,7 +30,7 @@ The means of fighting are fighters, weapons, and fortifications.
 
 ### The Fighter
 
-The goal of the fight is thus the fighter, in other words the enemy fighters, whose complete knock out is generally neither possible nor even necessary. The battle is won where their will to resist is broken. All in all, fighting is a matter of morale or of psychology. Its objective are the souls of the enemy commander and fighters.
+The goal of the fight is thus the fighter, in other words the enemy fighters, whose complete knock out is generally neither possible nor even necessary. The battle is won where their will to resist is broken. All in all, fighting is a matter of morale or of psychology. Its targets are the souls of the enemy commander and fighters.
 
 The decisive element is first and foremost the fighting spirit of the troop and its commanders. Numerical, material or technical superiority only come second, as does pure and simple skill.
 
@@ -50,9 +50,8 @@ When engaging his fighting means, the skilled commander accounts for the particu
 
 The individual value of the fighter shines when using mêlée weapons. Such weapons serve to destroy the enemy during the decisive phase of the action.
 
-Ranged weapons are weapons of the individual fighter or communal weapons.
+Generally, mêlée weapons are weapons of the individual fighter and ranged weapons are weapons of the command.
 
-TODO
 
 <!-- PAGE BREAK tactics -->
 
@@ -65,4 +64,14 @@ TODO
 Each ranged weapon has an optimal range. One has to take care to engage it at this range.
 
 The moral effect of ranged weapons is a function of its material effect; if it lacks effectiveness, it will encourage the fighting will of the enemy.
+
+The moral effect of ranged weapons is amplified if their action is concentrated in time and space, and if it is triggered by surprise.
+
+Ranged weapons fire should aim at destroying the enemy, or at destroying materials and cover. If the means are lacking, in many cases, forcing the enemy to take cover or hindering his use of his weapons may be sufficient.
+
+Purely harassing fires have poor value and are only efficient if they save the time dictated by the situation.
+
+Triggered at a determined point in time, a fire should either facilitate a given action of ours, either crush the enemy during the decisive phase of the combat, either stop him in his advance. Exceptionally, only delaying the adversary will have to do.
+
+Outside of the strictly delineated frame of the acion, the fire should be triggered only if the enemy offers a favourable target, so that one may destroy it with a surprise fire.
 
