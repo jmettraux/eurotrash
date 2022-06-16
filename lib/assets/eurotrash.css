@@ -680,6 +680,9 @@ ul.compass li strong {
   padding-left: 0.2rem;
   padding-right: 0.1rem;
 }
+[data-aa-title="creatures"] .margin .dctc .n {
+  color: #777777;
+}
 .page.odd .dctc {
   left: 0.3rem;
 }
