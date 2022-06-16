@@ -97,5 +97,5 @@ Fortifications tasked with covering troop buildup, are thus left to themselves w
 
 Fortifications are at their most useful when used in close collaboration with mobile troops. They constitute thus, the most powerful pillars of a defensive front, or the fulcrums of an offensive operation.
 
-They allow stopping and blocking the enemy and give the opportunity to our troops to attack it on its flack or on its back.
+They allow stopping and blocking the enemy and give the opportunity to our troops to attack it on its flank or on its back.
 
