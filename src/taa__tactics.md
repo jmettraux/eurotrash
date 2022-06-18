@@ -6,6 +6,9 @@
 * Bar
 
 
+"fulcrum" "anchor points?"
+
+
 # troll tactics
 
 Or "OpFor Tactics", intelligent creatures are not just here to be decimated until the morale roll determines they flee or submit.
@@ -93,7 +96,7 @@ The value of a fortification weighs no more and no less than the value of its de
 
 Fortifications are used to ~~a)~~ gain time, in order to cover the preparation of troops behind them; ~~b)~~ act as a fulcrum or support point on the flanks of mobile troops; ~~c)~~ to channel the enemy attack.
 
-Fortifications tasked with covering troop buildup, are thus left to themselves will be surrounded and will sooner or later fall. Such an use of a fortification should be an exception. It should only be decided if the intended goal justifies the loss of precious fighters and weapons.
+Fortifications tasked with covering troop buildup, and thus left to themselves will be surrounded and will sooner or later fall. Such an use of a fortification should be an exception. It should only be decided if the intended goal justifies the loss of precious fighters and weapons.
 
 Fortifications are at their most useful when used in close collaboration with mobile troops. They constitute thus, the most powerful pillars of a defensive front, or the fulcrums of an offensive operation.
 
