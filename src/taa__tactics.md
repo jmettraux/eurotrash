@@ -6,8 +6,6 @@
 * Bar
 
 
-"fulcrum" "anchor points?"
-
 
 # troll tactics
 
@@ -94,11 +92,28 @@ Impregnable fortifications do not exist and will never exist.
 
 The value of a fortification weighs no more and no less than the value of its defenders. The weapons, the thickness of the walls, the arrangement of its access, are nothing more than an unproductive capital. Only the will to resist of its commander and its garrison puts it to work and produces valuable interests.
 
-Fortifications are used to ~~a)~~ gain time, in order to cover the preparation of troops behind them; ~~b)~~ act as a fulcrum or support point on the flanks of mobile troops; ~~c)~~ to channel the enemy attack.
+Fortifications are used to ~~a)~~ gain time, in order to cover the preparation of troops behind them; ~~b)~~ act as a fulcrum or anchor point on the flanks of mobile troops; ~~c)~~ to channel the enemy attack.
 
 Fortifications tasked with covering troop buildup, and thus left to themselves will be surrounded and will sooner or later fall. Such an use of a fortification should be an exception. It should only be decided if the intended goal justifies the loss of precious fighters and weapons.
 
-Fortifications are at their most useful when used in close collaboration with mobile troops. They constitute thus, the most powerful pillars of a defensive front, or the fulcrums of an offensive operation.
+Fortifications are at their most useful when used in close collaboration with mobile troops. They constitute thus, the most powerful pillars of a defensive front, or the anchor point of an offensive operation.
 
 They allow stopping and blocking the enemy and give the opportunity to our troops to attack it on its flank or on its back.
+
+Even if a chain of fortifications is broken, some of its pieces having given way, the movemement of the enemy would still be channelled in certain determined directions. The commander might take advantage of this situation to wait for the adversary behind the fortified line, and, with a surprise action, annihilate its fragmented attack columns, weakened by the fortification fire or hampered in its movements.
+
+As passive barrages and fighting without liaison with the operations of mobile troops, fortifications have poor value and will fall shortly. Such an use doesn't warrant the inevitable loss of weapons, ammunition, and precious troops, nor the heavy cost required for their construction.
+
+
+<!-- PAGE BREAK tactics -->
+
+<!-- .margin.compass -->
+* _Extras_
+* **Troll Tactics**
+* Foo
+* Bar
+
+The one who hides in his fortifications, with the only aim of avoiding mobile warfare and melee combat is preparing his own defeat. Fortifications symbolize the tumb of the will to fight instead of constituting a useful victory factor.
+
+The one who, to cover a fortification, engages mobile troops that would find a better use elsewhere and that doesn't intend to wage a decisive battle, he squanders precious fighting means.
 
