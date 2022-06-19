@@ -49,11 +49,8 @@ petties = %{
   nothing
 }.split("\n").collect(&:strip).select { |e| e.length > 0 }.shuffle
 
-#pp petties
-#p petties.size
-w = petties.collect(&:length).max
-cs = 3
 
+cs = 3
 dd = [ 6, 8 ]
 title = "Petty Goods"
 
@@ -70,14 +67,21 @@ end
   puts '|' if (i % (2 * cs)) == (2 * cs - 1)
 end
 
-k = 0
+keys = []
 dd[0].times do |i|
   dd[1].times do |j|
-    xi = "#{i}#{j}".to_i
-    xs = "#{i + 1}#{j + 1}"
-    print "| %2s | %-#{w}s " % [ xs, petties[xi] ]
-    puts '|' if (k % cs) == (cs - 1)
-    k = k + 1
+    keys << "#{i + 1}#{j + 1}"
+  end
+end
+kl = keys.length
+keys = keys.each_slice(kl / cs).to_a
+a = petties.each_slice(kl / cs).to_a
+cws = a.collect { |ss| ss.collect(&:length).max }
+
+keys[0].each_with_index do |_, j|
+  cs.times do |i|
+    print "| %s | %-#{cws[i]}s " % [ keys[i][j], a[i][j] ]
+    puts "|" if i == cs - 1
   end
 end
 
