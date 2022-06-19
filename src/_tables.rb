@@ -52,18 +52,32 @@ petties = %{
 #pp petties
 #p petties.size
 w = petties.collect(&:length).max
+cs = 3
 
 dd = [ 6, 8 ]
+title = "Petty Goods"
 
-puts "| d#{dd[0]}d#{dd[1]} | petty goods |   |   |"
-puts "|-----:|-------------|--:|---|"
+(cs * 2).times do |i|
+  s =
+    i == 0 ? "d#{dd[0]}d#{dd[1]}" :
+    i == 1 ? title :
+    ' '
+  print "| #{s} "
+  puts '|' if (i % (2 * cs)) == (2 * cs - 1)
+end
+(cs * 2).times do |i|
+  print "|--" + ((i % 2) === 0 ? ':' : '-')
+  puts '|' if (i % (2 * cs)) == (2 * cs - 1)
+end
 
+k = 0
 dd[0].times do |i|
   dd[1].times do |j|
     xi = "#{i}#{j}".to_i
     xs = "#{i + 1}#{j + 1}"
     print "| %2s | %-#{w}s " % [ xs, petties[xi] ]
-    puts '|' if xi.odd?
+    puts '|' if (k % cs) == (cs - 1)
+    k = k + 1
   end
 end
 
