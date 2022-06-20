@@ -10,21 +10,31 @@
 
 Directly inspired by the handy table of the same name in the excellent "Wolves of God" by Kevin Crawford.
 
-| d6d8 | Petty Goods |   |   |   |   |
-|--:|---|--:|---|--:|---|
-| 11 | little silver mirror           | 31 | leather satchel            | 51 | jug of good mead               |
-| 12 | silver tweezers and nail-picks | 32 | tooled leather belt        | 52 | nothing                        |
-| 13 | loose spearhead                | 33 | silver bracelet            | 53 | pouch of salt                  |
-| 14 | small carved religious symbol  | 34 | good whetstone             | 54 | fishing line and hook          |
-| 15 | brightly-dyed shirt            | 35 | embroidered cloak          | 55 | small wrought religious symbol |
-| 16 | satchel of spices              | 36 | nothing                    | 56 | cheap brooch                   |
-| 17 | cheap bracelet                 | 37 | jewel-hilted belt knife    | 57 | loaf of bread                  |
-| 18 | hatchet                        | 38 | wool blanket               | 58 | unset gemstone                 |
-| 21 | small fine-quality seax        | 41 | carved wooden cup          | 61 | wolf tooth necklace            |
-| 22 | bundle of seasoning herbs      | 42 | handful of dried meat (1d) | 62 | piece of cheese                |
-| 23 | carved roman statuette         | 43 | good pair of boots         | 63 | piece of fine folded linen     |
-| 24 | well-made hand harp            | 44 | glass goblet               | 64 | flask of perfumed oil          |
-| 25 | bone hair comb                 | 45 | small knife                | 65 |                                |
-| 26 | sturdy cloak                   | 46 | ass-wiping moss            | 66 |                                |
-| 27 | silver brooch                  | 47 | a few coins                | 67 |                                |
-| 28 | jug of wine                    | 48 | tooled leather boots       | 68 |                                |
+<!-- .random.petty -->
+| d6d8 | Petty Goods |   |   |
+|--:|---|--:|---|
+| 11 | bone hair comb                 | 41 | loose spearhead             |
+| 12 | good whetstone                 | 42 | fishing line and hook       |
+| 13 | some dried meat                | 43 | flask of perfumed oil       |
+| 14 | tooled leather boots           | 44 | pot of honey                |
+| 15 | carved wooden cup              | 45 | unset gemstone              |
+| 16 | little silver mirror           | 46 | silver tweezers, nail-picks |
+| 17 | jug of wine                    | 47 | silver bracelet             |
+| 18 | a few coins                    | 48 | well-made hand harp         |
+| 21 | wolf tooth necklace            | 51 | sturdy cloak                |
+| 22 | glass goblet                   | 52 | leather satchel             |
+| 23 | tooled leather belt            | 53 | silver brooch               |
+| 24 | piece of cheese                | 54 | embroidered cloak           |
+| 25 | cheap bracelet                 | 55 | satchel of spices           |
+| 26 | small wrought religious symbol | 56 | jug of vinegar              |
+| 27 | jug of good mead               | 57 | small knife                 |
+| 28 | pouch of salt                  | 58 | decent pair of boots        |
+| 31 | knife blade                    | 61 | hatchet                     |
+| 32 | small fine-quality seax        | 62 | brightly-dyed shirt         |
+| 33 | ass-wiping moss                | 63 | carved roman statuette      |
+| 34 | piece of fine linen            | 64 | cheap brooch                |
+| 35 | small carved religious symbol  | 65 | cobweb bundle               |
+| 36 | bundle of seasoning herbs      | 66 | wool blanket                |
+| 37 | jewel-hilted belt knife        | 67 | (nothing)                   |
+| 38 | loaf of bread                  | 68 | (nothing)                   |
+

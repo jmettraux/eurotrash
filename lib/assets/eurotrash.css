@@ -716,6 +716,17 @@ ul.compass li strong {
   margin-top: 0;
 }
 
+[data-aa-title="tables"] table.random {
+  font-size: var(--size-b);
+  width: auto;
+}
+[data-aa-title="tables"] table.random th {
+  text-align: left;
+}
+[data-aa-title="tables"] table.random th:first-child {
+  font-weight: normal;
+}
+
 /* ? */
 
 section:last-of-type dl {
