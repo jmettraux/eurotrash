@@ -44,11 +44,11 @@ end
 entries = %{
   leather satchel
   little silver mirror
-  small fine-quality seax
+  fine-quality seax
   small knife
   jug of vinegar
   cheap brooch
-  carved roman statuette
+  carved statuette
   glass goblet
   fishing line and hook
   embroidered cloak
@@ -75,10 +75,10 @@ entries = %{
   unset gemstone
   good whetstone
   pouch of salt
-  small carved religious symbol
-  bundle of seasoning herbs
+  carved religious symbol
+  seasoning herbs
   cheap bracelet
-  small wrought religious symbol
+  wrought religious symbol
   loaf of bread
   wolf tooth necklace
   tooled leather belt

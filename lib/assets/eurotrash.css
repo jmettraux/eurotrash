@@ -719,6 +719,10 @@ ul.compass li strong {
 [data-aa-title="tables"] table.random {
   font-size: var(--size-b);
   width: auto;
+  line-height: 0.7;
+}
+[data-aa-title="tables"] table.random tr:nth-child(4n) {
+  border-bottom: 1px solid lightgrey;
 }
 [data-aa-title="tables"] table.random th {
   text-align: left;
