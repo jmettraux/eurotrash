@@ -11,22 +11,22 @@
 Directly inspired by the handy table of the same name in the excellent "Wolves of God" by Kevin Crawford.
 
 <!-- .random.petty -->
-| d6d8 | Petty Goods |   |   |   |   |
-|--:|---|--:|---|--:|---|
-| 11 | leather satchel         | 31 | cobweb bundle               | 51 | pouch of salt                  |
-| 12 | little silver mirror    | 32 | plain and sturdy cloak      | 52 | carved religious symbol  |
-| 13 | fine-quality seax | 33 | silver brooch               | 53 | seasoning herbs      |
-| 14 | small knife             | 34 | some dried meat             | 54 | cheap bracelet                 |
-| 15 | jug of vinegar          | 35 | pot of honey                | 55 | wrought religious symbol |
-| 16 | cheap brooch            | 36 | piece of cheese             | 56 | loaf of bread                  |
-| 17 | carved statuette  | 37 | silver bracelet             | 57 | wolf tooth necklace            |
-| 18 | glass goblet            | 38 | a few coins                 | 58 | tooled leather belt            |
-| 21 | fishing line and hook   | 41 | silver tweezers, nail-picks | 61 | hatchet                        |
-| 22 | embroidered cloak       | 42 | carved wooden cup           | 62 | tooled leather boots           |
-| 23 | satchel of spices       | 43 | knife blade                 | 63 | jug of wine                    |
-| 24 | wool blanket            | 44 | jewel-hilted belt knife     | 64 | loose spearhead                |
-| 25 | brightly-dyed shirt     | 45 | bone hair comb              | 65 | well-made hand harp            |
-| 26 | flask of perfumed oil   | 46 | piece of fine linen         | 66 |                                |
-| 27 | ass-wiping moss         | 47 | unset gemstone              | 67 |                                |
-| 28 | jug of good mead        | 48 | good whetstone              | 68 |                                |
+| d6d8 |   |   |   |   |   |
+|-----:|---|--:|---|--:|---|
+| 11 | pot of honey             | 31 | carved religious symbol | 51 | jewel-hilted belt knife     |
+| 12 | embroidered cloak        | 32 | flask of perfumed oil   | 52 | loose spearhead             |
+| 13 | 1d6 spare arrow-heads    | 33 | a few coins             | 53 | unset gemstone              |
+| 14 | wrought religious symbol | 34 | fine-quality seax       | 54 | silver tweezers, nail-picks |
+| 15 | cheap brooch             | 35 | jug of vinegar          | 55 | small knife                 |
+| 16 | piece of fine linen      | 36 | jug of wine             | 56 | silver brooch               |
+| 17 | carved wooden cup        | 37 | little silver mirror    | 57 | loaf of bread               |
+| 18 | well-made hand harp      | 38 | cheap bracelet          | 58 | wool blanket                |
+| 21 | satchel of spices        | 41 | cobweb bundle           | 61 | some dried meat             |
+| 22 | hatchet                  | 42 | sewing kit              | 62 | piece of cheese             |
+| 23 | leather satchel          | 43 | wolf tooth necklace     | 63 | seasoning herbs             |
+| 24 | ass-wiping moss          | 44 | silver bracelet         | 64 | fishing line and hook       |
+| 25 | brightly-dyed shirt      | 45 | good whetstone          | 65 | tooled leather boots        |
+| 26 | tooled leather belt      | 46 | plain and sturdy cloak  | 66 | silver necklace             |
+| 27 | knife blade              | 47 | pouch of salt           | 67 | carved statuette            |
+| 28 | glass goblet             | 48 | bone hair comb          | 68 | jug of good mead            |
 

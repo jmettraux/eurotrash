@@ -42,57 +42,56 @@ end
 # petty goods
 
 entries = %{
-  leather satchel
-  little silver mirror
-  fine-quality seax
-  small knife
-  jug of vinegar
-  cheap brooch
-  carved statuette
-  glass goblet
-  fishing line and hook
-  embroidered cloak
-  satchel of spices
-  wool blanket
-  brightly-dyed shirt
-  flask of perfumed oil
-  ass-wiping moss
-  jug of good mead
-  cobweb bundle
-  plain and sturdy cloak
-  silver brooch
-  some dried meat
   pot of honey
-  piece of cheese
-  silver bracelet
-  a few coins
-  silver tweezers, nail-picks
-  carved wooden cup
-  knife blade
-  jewel-hilted belt knife
-  bone hair comb
-  piece of fine linen
-  unset gemstone
-  good whetstone
-  pouch of salt
-  carved religious symbol
-  seasoning herbs
-  cheap bracelet
+  embroidered cloak
+  1d6 spare arrow-heads
   wrought religious symbol
-  loaf of bread
-  wolf tooth necklace
-  tooled leather belt
-  hatchet
-  tooled leather boots
-  jug of wine
-  loose spearhead
+  cheap brooch
+  piece of fine linen
+  carved wooden cup
   well-made hand harp
-
-  #(nothing)
-  #(nothing)
-  #(nothing)
+  satchel of spices
+  hatchet
+  leather satchel
+  ass-wiping moss
+  brightly-dyed shirt
+  tooled leather belt
+  knife blade
+  glass goblet
+  carved religious symbol
+  flask of perfumed oil
+  a few coins
+  fine-quality seax
+  jug of vinegar
+  jug of wine
+  little silver mirror
+  cheap bracelet
+  cobweb bundle
+  sewing kit
+  wolf tooth necklace
+  silver bracelet
+  good whetstone
+  plain and sturdy cloak
+  pouch of salt
+  bone hair comb
+  jewel-hilted belt knife
+  loose spearhead
+  unset gemstone
+  silver tweezers, nail-picks
+  small knife
+  silver brooch
+  loaf of bread
+  wool blanket
+  some dried meat
+  piece of cheese
+  seasoning herbs
+  fishing line and hook
+  tooled leather boots
+  silver necklace
+  carved statuette
+  jug of good mead
 }
-render(2, [ 6, 8 ], 'Petty Goods', entries)
+render(3, [ 6, 8 ], 'Petty Goods', entries)
 
 # :43,88!sort -R
   # to shuffle the entries

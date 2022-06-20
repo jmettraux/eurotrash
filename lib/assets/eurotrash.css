@@ -718,7 +718,7 @@ ul.compass li strong {
 
 [data-aa-title="tables"] table.random {
   font-size: var(--size-b);
-  width: auto;
+  width: 100%;
   line-height: 0.7;
 }
 [data-aa-title="tables"] table.random tr:nth-child(4n) {
@@ -729,6 +729,16 @@ ul.compass li strong {
 }
 [data-aa-title="tables"] table.random th:first-child {
   font-weight: normal;
+}
+[data-aa-title="tables"] table.random td {
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+}
+[data-aa-title="tables"] table.random td:first-child {
+  padding-left: 0;
+}
+[data-aa-title="tables"] table.random td:last-child {
+  padding-right: 0;
 }
 
 /* ? */
