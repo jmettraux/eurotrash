@@ -8,14 +8,22 @@
       elts('span.anchor').forEach(function(e) {
         var ne = elt(e.getAttribute('href'));
         var top = e.offsetTop;
+        var bot = null;
         ne.children[0].classList.forEach(function(k) {
-          var m = k.match(/^([tud])(\d+)px$/); if ( ! m) return;
-          var p = parseInt(m[2], 10);
-          if (m[1] === 't') top = p;
-          else if (m[1] === 'u') top = top - p;
-          else top = top + p;
+          var m = k.match(/^([tud])(\d+)px$/);
+          if (m) {
+            var p = parseInt(m[2], 10);
+            if (m[1] === 't') top = p;
+            else if (m[1] === 'u') top = top - p;
+            else top = top + p;
+          }
+          m = k.match(/^(b)(-?\d+)(px|em|rem|)$/)
+          if (m) {
+            bot = `${m[2]}${m[3]}`;
+          }
         });
-        ne.style.top = `${top}px`;
+        if (bot) ne.style.bottom = bot;
+        else ne.style.top = `${top}px`;
       });
     });
   </script>
