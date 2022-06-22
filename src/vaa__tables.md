@@ -10,7 +10,7 @@
 
 Directly inspired by the handy table of the same name in the excellent "Wolves of God" by Kevin Crawford.
 
-<!-- .random.petty -->
+<!-- .random.petty.n4 -->
 | d6d8 |   |   |   |   |   |
 |-----:|---|--:|---|--:|---|
 | 11 | pot of honey             | 31 | carved religious symbol | 51 | jewel-hilted belt knife     |
@@ -30,3 +30,16 @@ Directly inspired by the handy table of the same name in the excellent "Wolves o
 | 27 | knife blade              | 47 | pouch of salt           | 67 | carved statuette            |
 | 28 | glass goblet             | 48 | bone hair comb          | 68 | jug of good mead            |
 
+## Weapons
+
+<!-- .random.petty.n3 -->
+| 3d6 |   |   |   |   |   |
+|--:|--:|---|--:|--:|---|
+|  3 |  0.46% | crossbow ~~d10~~, seax ~~d6~~               | 11 | 12.50% | club ~~d4~~, knife ~~d4~~              |
+|  4 |  1.39% | spear ~~d8~~, shield, sword ~~d8~~          | 12 | 11.57% | short bow ~~d6~~, shield, sword ~~d8~~ |
+|  5 |  2.78% | short bow ~~d6~~, seax ~~d6~~               | 13 |  9.72% | javelins ~~d6~~, seax ~~d6~~           |
+|  6 |  4.63% | knife ~~d4~~                            | 14 |  6.94% | seax ~~d6~~                        |
+|  7 |  6.94% | quarterstaff ~~d6~~, sling, seax ~~d6~~     | 15 |  4.63% | axe ~~d6~~                         |
+|  8 |  9.72% | spear ~~d8~~, shield, seax ~~d6~~           | 16 |  2.78% |                                |
+|  9 | 11.57% | quarterstaff ~~d6~~, sling ~~d6~~, knife ~~d4~~ | 17 |  1.39% |                                |
+| 10 | 12.50% | sword ~~d8~~, shield                    | 18 |  0.46% |                                |

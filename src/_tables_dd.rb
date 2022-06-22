@@ -18,6 +18,7 @@ def render(col_count, dice, title, entries)
     puts '|' if (i % (2 * col_count)) == (2 * col_count - 1)
   end
 
+
   keys = []
   dice[0].times do |i|
     dice[1].times do |j|
@@ -25,8 +26,9 @@ def render(col_count, dice, title, entries)
     end
   end
   kl = keys.length
-  keys = keys.each_slice(kl / col_count).to_a
-  a = a.each_slice(kl / col_count).to_a
+  slice_length = (kl.to_f / col_count).ceil
+  keys = keys.each_slice(slice_length).to_a
+  a = a.each_slice(slice_length).to_a
   cws = a.collect { |ss| ss.collect(&:length).max }
 
   keys[0].each_with_index do |_, j|

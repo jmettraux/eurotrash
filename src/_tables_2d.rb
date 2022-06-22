@@ -1,5 +1,9 @@
 
-def render(column_count, dice)
+def render(col_count, dice, title, entries)
+
+  a = entries.split("\n")
+    .collect(&:strip)
+    .select { |e| e.length > 0 && e[0, 1] != '#' }
 
   range = dice[1].times.collect { |i| i + 1 }
 
@@ -16,12 +20,50 @@ def render(column_count, dice)
     .inject({}) { |h, (k, v)|
       h[k] = '%0.2f' % (v.to_f / count * 100)
       h }
-p stats
 
-  stats.each do |k, v|
-    puts "| %2d | %5s%% | %s |" % [ k, v, '' ]
+  slice_length = (stats.length.to_f / col_count).ceil
+
+  a = a.each_slice(slice_length).to_a
+  cws = a.collect { |ss| ss.collect(&:length).max }
+  ss = stats.to_a.each_slice(slice_length).to_a
+
+  (col_count * 3).times do |i|
+    s =
+      i == 0 ? "#{dice[0]}d#{dice[1]}" :
+      i == 1 ? title :
+      ' '
+    print "| #{s} "
+    puts '|' if (i % (3 * col_count)) == (3 * col_count - 1)
+  end
+  (col_count * 3).times do |i|
+    print "|--" + (((i % 3) === 0 || (i % 3) === 1) ? ':' : '-')
+    puts '|' if (i % (3 * col_count)) == (3 * col_count - 1)
+  end
+
+  ss[0].each_with_index do |_, j|
+    col_count.times do |i|
+      print "| %s | %s | %-#{cws[i]}s " % [
+        (('%2d' % ss[i][j][0]) rescue '  '),
+        (('%5s%%' % ss[i][j][1]) rescue '      '),
+        (a[i][j] rescue '') ]
+      puts "|" if i == col_count - 1
+    end
   end
 end
 
-render(2, [ 3, 6 ])
+render(2, [ 3, 6 ], 'weapons', %{
+  crossbow d10, seax d6
+  spear d8, shield, sword d8
+  short bow d6, seax d6
+  knife d4
+  quarterstaff d6, sling, seax d6
+  spear d8, shield, seax d6
+  quarterstaff d6, sling d6, knife d4
+  sword d8, shield
+  club d4, knife d4
+  short bow d6, shield, sword d8
+  javelins d6, seax d6
+  seax d6
+  axe d6
+})
 
