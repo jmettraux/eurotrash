@@ -716,6 +716,9 @@ ul.compass li strong {
   margin-top: 0;
 }
 
+[data-aa-title="tables"] h2 {
+  margin-bottom: 1.5rem;
+}
 [data-aa-title="tables"] table.random {
   font-size: var(--size-b);
   width: 100%;
@@ -744,9 +747,11 @@ ul.compass li strong {
   padding-right: 0;
 }
 [data-aa-title="tables"] .table-caption {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
   font-size: var(--size-b);
 }
+[data-aa-title="tables"] table.weapons td:nth-child(2) { padding-right: 1rem; }
+[data-aa-title="tables"] table.weapons td:nth-child(5) { padding-right: 1rem; }
 
 /* ? */
 

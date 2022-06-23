@@ -8,6 +8,8 @@
 
 ## Petty Goods
 
+What's in the bag of that person? Roll 1d3-1 times.
+
 Directly inspired by the handy table of the same name in the excellent "Wolves of God" by Kevin Crawford.
 
 <!-- .random.petty.n4 -->
@@ -34,27 +36,28 @@ Directly inspired by the handy table of the same name in the excellent "Wolves o
 
 What are humans and creatures with hands wielding?
 
-<!-- .random.petty.n3 -->
-| 3d6 | weapons |   |   |   |   |
+<!-- .random.weapons.n3 -->
+| 3d6 |   |   |   |   |   |
 |--:|--:|---|--:|--:|---|
-|  3 |  0.46% | crossbow, seax             | 11 | 12.50% | club, knife              |
-|  4 |  1.39% | spear, shield, sword       | 12 | 11.57% | short bow, shield, sword |
-|  5 |  2.78% | short bow, seax            | 13 |  9.72% | javelins, seax           |
-|  6 |  4.63% | knife                      | 14 |  6.94% | seax                     |
-|  7 |  6.94% | quarterstaff, sling, seax  | 15 |  4.63% | axe                      |
-|  8 |  9.72% | spear, shield, seax        | 16 |  2.78% |                          |
-|  9 | 11.57% | quarterstaff, sling, knife | 17 |  1.39% |                          |
-| 10 | 12.50% | sword, shield              | 18 |  0.46% |                          |
+|  3 |  0.46% | crossbow, seax            | 11 | 12.50% | spear, shield, seax        |
+|  4 |  1.39% | spear, shield, sword      | 12 | 11.57% | axe                        |
+|  5 |  2.78% | short bow, shield, sword  | 13 |  9.72% | short bow, axe             |
+|  6 |  4.63% | quarterstaff, knife       | 14 |  6.94% | knife                      |
+|  7 |  6.94% | quarterstaff, sling, seax | 15 |  4.63% | quarterstaff, sling, knife |
+|  8 |  9.72% | seax                      | 16 |  2.78% | club, knife                |
+|  9 | 11.57% | short bow, seax           | 17 |  1.39% | javelins, seax             |
+| 10 | 12.50% | spear, shield, axe        | 18 |  0.46% | sword, shield              |
 
 <!-- .table-caption -->
 axe ~~1d6~~;
-bow, short ~~1d6~~ 50ft 15m 10sq V;
 club ~~1d4~~;
-crossbow ~~1d10~~ 100ft 30m 20sq Ftt;
-javelin ~~1d6~~ 30ft 9m 6sq t;
 knife ~~1d4~~;
 quarterstaff ~~1d6~~;
 seax ~~1d6~~;
-sling ~~1d6~~ 50ft 15m 10sq V;
-sword ~~1d8~~.
+sword ~~1d8~~.<br/>
+bow, short ~~1d6~~ → 50ft 15m 10sq V;
+crossbow ~~1d10~~ → 100ft 30m 20sq Ftt;<br/>
+javelin ~~1d6~~ → 30ft 9m 6sq t;
+sling ~~1d6~~ → 50ft 15m 10sq V.<br/>
+ammunition 3d6.
 

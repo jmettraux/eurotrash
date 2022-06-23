@@ -69,18 +69,18 @@ render(2, [ 3, 6 ], 'weapons', %{
   spear, shield, seax
   spear, shield, axe
   axe
+  short bow, seax
+  short bow, axe
   seax
   knife
-
-  crossbow, seax
-
-  spear, shield, sword
-  short bow, seax
   quarterstaff, sling, seax
   quarterstaff, sling, knife
-  sword, shield
+  quarterstaff, knife
   club, knife
   short bow, shield, sword
   javelins, seax
+  spear, shield, sword
+  sword, shield
+  crossbow, seax
 })
 
