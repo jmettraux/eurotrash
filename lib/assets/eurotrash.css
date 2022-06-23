@@ -743,6 +743,10 @@ ul.compass li strong {
 [data-aa-title="tables"] table.random td:last-child {
   padding-right: 0;
 }
+[data-aa-title="tables"] .table-caption {
+  margin-top: 1rem;
+  font-size: var(--size-b);
+}
 
 /* ? */
 

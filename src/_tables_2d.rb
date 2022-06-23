@@ -52,18 +52,18 @@ def render(col_count, dice, title, entries)
 end
 
 render(2, [ 3, 6 ], 'weapons', %{
-  crossbow d10, seax d6
-  spear d8, shield, sword d8
-  short bow d6, seax d6
-  knife d4
-  quarterstaff d6, sling, seax d6
-  spear d8, shield, seax d6
-  quarterstaff d6, sling d6, knife d4
-  sword d8, shield
-  club d4, knife d4
-  short bow d6, shield, sword d8
-  javelins d6, seax d6
-  seax d6
-  axe d6
+  crossbow, seax
+  spear, shield, sword
+  short bow, seax
+  knife
+  quarterstaff, sling, seax
+  spear, shield, seax
+  quarterstaff, sling, knife
+  sword, shield
+  club, knife
+  short bow, shield, sword
+  javelins, seax
+  seax
+  axe
 })
 

@@ -32,14 +32,29 @@ Directly inspired by the handy table of the same name in the excellent "Wolves o
 
 ## Weapons
 
+What are humans and creatures with hands wielding?
+
 <!-- .random.petty.n3 -->
-| 3d6 |   |   |   |   |   |
+| 3d6 | weapons |   |   |   |   |
 |--:|--:|---|--:|--:|---|
-|  3 |  0.46% | crossbow ~~d10~~, seax ~~d6~~               | 11 | 12.50% | club ~~d4~~, knife ~~d4~~              |
-|  4 |  1.39% | spear ~~d8~~, shield, sword ~~d8~~          | 12 | 11.57% | short bow ~~d6~~, shield, sword ~~d8~~ |
-|  5 |  2.78% | short bow ~~d6~~, seax ~~d6~~               | 13 |  9.72% | javelins ~~d6~~, seax ~~d6~~           |
-|  6 |  4.63% | knife ~~d4~~                            | 14 |  6.94% | seax ~~d6~~                        |
-|  7 |  6.94% | quarterstaff ~~d6~~, sling, seax ~~d6~~     | 15 |  4.63% | axe ~~d6~~                         |
-|  8 |  9.72% | spear ~~d8~~, shield, seax ~~d6~~           | 16 |  2.78% |                                |
-|  9 | 11.57% | quarterstaff ~~d6~~, sling ~~d6~~, knife ~~d4~~ | 17 |  1.39% |                                |
-| 10 | 12.50% | sword ~~d8~~, shield                    | 18 |  0.46% |                                |
+|  3 |  0.46% | crossbow, seax             | 11 | 12.50% | club, knife              |
+|  4 |  1.39% | spear, shield, sword       | 12 | 11.57% | short bow, shield, sword |
+|  5 |  2.78% | short bow, seax            | 13 |  9.72% | javelins, seax           |
+|  6 |  4.63% | knife                      | 14 |  6.94% | seax                     |
+|  7 |  6.94% | quarterstaff, sling, seax  | 15 |  4.63% | axe                      |
+|  8 |  9.72% | spear, shield, seax        | 16 |  2.78% |                          |
+|  9 | 11.57% | quarterstaff, sling, knife | 17 |  1.39% |                          |
+| 10 | 12.50% | sword, shield              | 18 |  0.46% |                          |
+
+<!-- .table-caption -->
+axe ~~1d6~~;
+bow, short ~~1d6~~ 50ft 15m 10sq V;
+club ~~1d4~~;
+crossbow ~~1d10~~ 100ft 30m 20sq Ftt;
+javelin ~~1d6~~ 30ft 9m 6sq t;
+knife ~~1d4~~;
+quarterstaff ~~1d6~~;
+seax ~~1d6~~;
+sling ~~1d6~~ 50ft 15m 10sq V;
+sword ~~1d8~~.
+
