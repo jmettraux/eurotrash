@@ -9,4 +9,5 @@
 * "Trudvang Adventures", Theodore Bergqvist, Magnus Malmberg, et al
 * "Vaesen", Johan Egerkrans
 * "Wikipedia", Many contributors
+* "Wolves of God", Kevin Crawford
 

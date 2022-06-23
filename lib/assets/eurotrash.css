@@ -751,9 +751,11 @@ ul.compass li strong {
   font-size: var(--size-b);
 }
 [data-aa-title="tables"] table.percent td:nth-child(2) {
-  padding-right: 0.5rem; }
+  color: darkgrey;
+  padding-right: 0.3rem; }
 [data-aa-title="tables"] table.percent td:nth-child(5) {
-  padding-right: 0.5rem; }
+  color: darkgrey;
+  padding-right: 0.3rem; }
 
 /* ? */
 

@@ -86,41 +86,41 @@ end
 
 #puts [ 'high quality', 'plain', 'low quality' ].product(
 #  [ 'high status', 'everyday', 'low status' ]).product(
-#  [ 'new', 'used', 'broken' ])
+#  [ 'new', 'used', 'worn' ])
 #   .collect { |e| e.flatten.join(', ') }
 #.tap { |x| pp x.size }
   #
 render(2, [ 3, 10 ], 'quality', %{
   plain, everyday, new
   plain, everyday, used
-  plain, everyday, broken
+  plain, everyday, worn
   plain, high status, new
   plain, high status, used
-  plain, high status, broken
+  plain, high status, worn
   plain, low status, new
   plain, low status, used
-  plain, low status, broken
+  plain, low status, worn
 
   high quality, everyday, new
   high quality, everyday, used
-  high quality, everyday, broken
+  high quality, everyday, worn
 
   high quality, low status, new
   high quality, low status, used
-  high quality, low status, broken
+  high quality, low status, worn
   low quality, high status, new
   low quality, high status, used
-  low quality, high status, broken
+  low quality, high status, worn
   low quality, everyday, new
   low quality, everyday, used
-  low quality, everyday, broken
+  low quality, everyday, worn
   low quality, low status, new
   low quality, low status, used
-  low quality, low status, broken
+  low quality, low status, worn
 
   high quality, high status, new
   high quality, high status, used
-  high quality, high status, broken
+  high quality, high status, worn
 
   highest quality, highest status, new
 })
