@@ -1,9 +1,23 @@
 
 def render(col_count, dice, title, entries)
 
-  a = entries.split("\n")
+  a0 = entries.split("\n")
     .collect(&:strip)
     .select { |e| e.length > 0 && e[0, 1] != '#' }
+
+  # reorder, top in the middle
+
+  a = []; j = 0; k = a0.length - 1
+    #
+  a0.length.times do |i|
+    if i.even?
+      a[j] = a0.pop
+      j = j + 1
+    else
+      a[k] = a0.pop
+      k = k - 1
+    end
+  end
 
   range = dice[1].times.collect { |i| i + 1 }
 
@@ -52,18 +66,21 @@ def render(col_count, dice, title, entries)
 end
 
 render(2, [ 3, 6 ], 'weapons', %{
+  spear, shield, seax
+  spear, shield, axe
+  axe
+  seax
+  knife
+
   crossbow, seax
+
   spear, shield, sword
   short bow, seax
-  knife
   quarterstaff, sling, seax
-  spear, shield, seax
   quarterstaff, sling, knife
   sword, shield
   club, knife
   short bow, shield, sword
   javelins, seax
-  seax
-  axe
 })
 
