@@ -750,8 +750,10 @@ ul.compass li strong {
   margin-top: 1.5rem;
   font-size: var(--size-b);
 }
-[data-aa-title="tables"] table.weapons td:nth-child(2) { padding-right: 1rem; }
-[data-aa-title="tables"] table.weapons td:nth-child(5) { padding-right: 1rem; }
+[data-aa-title="tables"] table.percent td:nth-child(2) {
+  padding-right: 0.5rem; }
+[data-aa-title="tables"] table.percent td:nth-child(5) {
+  padding-right: 0.5rem; }
 
 /* ? */
 

@@ -36,7 +36,7 @@ Directly inspired by the handy table of the same name in the excellent "Wolves o
 
 What are humans and creatures with hands wielding?
 
-<!-- .random.weapons.n3 -->
+<!-- .random.weapons.n3.percent -->
 | 3d6 |   |   |   |   |   |
 |--:|--:|---|--:|--:|---|
 |  3 |  0.46% | crossbow, seax            | 11 | 12.50% | spear, shield, seax        |
@@ -60,4 +60,35 @@ crossbow ~~1d10~~ → 100ft 30m 20sq Ftt;<br/>
 javelin ~~1d6~~ → 30ft 9m 6sq t;
 sling ~~1d6~~ → 50ft 15m 10sq V.<br/>
 ammunition 3d6.
+
+
+<!-- PAGE BREAK tables -->
+
+<!-- .margin.compass -->
+* _Extras_
+* Troll Tactics
+* **Tables**
+
+
+## Quality
+
+What is the quality level of an object? Its state, its level of use?
+
+<!-- .random.quality.n4.percent -->
+| 3d10 |   |   |   |   |   |
+|--:|--:|---|--:|--:|---|
+|  3 |  0.10% | highest quality, highest status, new | 17 |  7.50% | plain, everyday, new              |
+|  4 |  0.30% | high quality, high status, used      | 18 |  7.30% | plain, everyday, broken           |
+|  5 |  0.60% | low quality, low status, broken      | 19 |  6.90% | plain, high status, used          |
+|  6 |  1.00% | low quality, low status, new         | 20 |  6.30% | plain, low status, new            |
+|  7 |  1.50% | low quality, everyday, used          | 21 |  5.50% | plain, low status, broken         |
+|  8 |  2.10% | low quality, high status, broken     | 22 |  4.50% | high quality, everyday, used      |
+|  9 |  2.80% | low quality, high status, new        | 23 |  3.60% | high quality, low status, new     |
+| 10 |  3.60% | high quality, low status, used       | 24 |  2.80% | high quality, low status, broken  |
+| 11 |  4.50% | high quality, everyday, broken       | 25 |  2.10% | low quality, high status, used    |
+| 12 |  5.50% | high quality, everyday, new          | 26 |  1.50% | low quality, everyday, new        |
+| 13 |  6.30% | plain, low status, used              | 27 |  1.00% | low quality, everyday, broken     |
+| 14 |  6.90% | plain, high status, broken           | 28 |  0.60% | low quality, low status, used     |
+| 15 |  7.30% | plain, high status, new              | 29 |  0.30% | high quality, high status, new    |
+| 16 |  7.50% | plain, everyday, used                | 30 |  0.10% | high quality, high status, broken |
 

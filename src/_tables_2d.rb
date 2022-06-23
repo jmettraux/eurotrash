@@ -65,22 +65,63 @@ def render(col_count, dice, title, entries)
   end
 end
 
-render(2, [ 3, 6 ], 'weapons', %{
-  spear, shield, seax
-  spear, shield, axe
-  axe
-  short bow, seax
-  short bow, axe
-  seax
-  knife
-  quarterstaff, sling, seax
-  quarterstaff, sling, knife
-  quarterstaff, knife
-  club, knife
-  short bow, shield, sword
-  javelins, seax
-  spear, shield, sword
-  sword, shield
-  crossbow, seax
+#render(2, [ 3, 6 ], 'weapons', %{
+#  spear, shield, seax
+#  spear, shield, axe
+#  axe
+#  short bow, seax
+#  short bow, axe
+#  seax
+#  knife
+#  quarterstaff, sling, seax
+#  quarterstaff, sling, knife
+#  quarterstaff, knife
+#  club, knife
+#  short bow, shield, sword
+#  javelins, seax
+#  spear, shield, sword
+#  sword, shield
+#  crossbow, seax
+#})
+
+#puts [ 'high quality', 'plain', 'low quality' ].product(
+#  [ 'high status', 'everyday', 'low status' ]).product(
+#  [ 'new', 'used', 'broken' ])
+#   .collect { |e| e.flatten.join(', ') }
+#.tap { |x| pp x.size }
+  #
+render(2, [ 3, 10 ], 'quality', %{
+  plain, everyday, new
+  plain, everyday, used
+  plain, everyday, broken
+  plain, high status, new
+  plain, high status, used
+  plain, high status, broken
+  plain, low status, new
+  plain, low status, used
+  plain, low status, broken
+
+  high quality, everyday, new
+  high quality, everyday, used
+  high quality, everyday, broken
+
+  high quality, low status, new
+  high quality, low status, used
+  high quality, low status, broken
+  low quality, high status, new
+  low quality, high status, used
+  low quality, high status, broken
+  low quality, everyday, new
+  low quality, everyday, used
+  low quality, everyday, broken
+  low quality, low status, new
+  low quality, low status, used
+  low quality, low status, broken
+
+  high quality, high status, new
+  high quality, high status, used
+  high quality, high status, broken
+
+  highest quality, highest status, new
 })
 
