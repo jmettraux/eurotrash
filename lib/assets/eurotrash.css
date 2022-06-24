@@ -730,6 +730,9 @@ ul.compass li strong {
 [data-aa-title="tables"] table.random.n4 tr:nth-child(4n) {
   border-bottom: 1px solid lightgrey;
 }
+[data-aa-title="tables"] table.random tr:last-child {
+  border-bottom: 0 !important;
+}
 [data-aa-title="tables"] table.random th {
   text-align: left;
 }
@@ -752,10 +755,12 @@ ul.compass li strong {
 }
 [data-aa-title="tables"] table.percent td:nth-child(2) {
   color: darkgrey;
-  padding-right: 0.3rem; }
+  padding-right: 0.3rem;
+}
 [data-aa-title="tables"] table.percent td:nth-child(5) {
   color: darkgrey;
-  padding-right: 0.3rem; }
+  padding-right: 0.3rem;
+}
 
 /* ? */
 
