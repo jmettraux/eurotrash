@@ -1,4 +1,24 @@
 
+## Angel
+
+* HD: 7
+* AC: 17
+* Attack: +7, Weapon
+* Morale: 10
+* Size: medium
+* Move: 30ft 9m 6sq t, 60ft 18m 12sq tt fly
+* DCs: str17 con17 dex17 int17 wis17 cha17
+* Skills: _Pray_ +3, _Dodge_ +4, _Scout_ +3, _Spy_ +3, _Know_ +3
+
+An angel, or a superior fairy, or a secondary-god. Whatever the interpretation.
+
+Good, or not interested in evil, or carefully avoid misapplying goodness.
+
+_Magic_ Spellcaster of level 7.
+
+_Immortal_ Can be defeated but cannot be destroyed.
+
+
 ## Bandit
 
 * HD: 1
@@ -211,6 +231,26 @@ Giant (20ft tall) one-eyed and slow-witted creatures.
 _Rock Throwing_ Up to 200ft 60m 40sq 4V, damage 4d8.
 
 _Magic_ When angered, some Cyclopes (1 in 4) may cast, CP 45 (13d6), projecting their wrath. They have _M Throw_ +4, and know 1d3 forms and 1d3 colours. No clever use of casting, pure reactiveness.
+
+
+## Daemon
+
+* HD: 6
+* AC: 16
+* Attack: +6, Weapon
+* Morale: 9
+* Size: medium
+* Move: 30ft 9m 6sq t, 70ft 21m 14sq Ft fly
+* DCs: str16 con16 dex16 int16 wis16 cha16
+* Skills: _Pray_ +3, _Dodge_ +3, _Scout_ +3, _Spy_ +3
+
+A daemon, an incubus, an evil fairy, whatever the interpretation.
+
+Evil or totally indifferent to the plight of lesser creatures.
+
+_Magic_ Spellcaster of level 6.
+
+_Immortal_ Can be defeated but cannot be destroyed.
 
 
 
