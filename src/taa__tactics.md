@@ -114,3 +114,7 @@ The one who hides in his fortifications, with the only aim of avoiding mobile wa
 
 The one who, to cover a fortification, engages mobile troops that would find a better use elsewhere and that doesn't intend to wage a decisive battle, he squanders precious fighting means.
 
+_Passive means of defence_ reduce the effect of enemy weapons or hinder his movements.
+
+The efficiency of enemy weapons is compromised by: ~~a)~~ splitting formations and spacing weapons; ~~b)~~ use of artificial means obstructing enemy sight; ~~c)~~ setting up artificial covers.
+
