@@ -7,7 +7,8 @@
 : _Definition_
 
 Eurotrash
-: (western) european creatures and creatures distorted by feverish european imaginations.
+: (western) european creatures and
+: creatures distorted by feverish european imaginations.
 
 <hr/>
 
@@ -31,6 +32,10 @@ Low-Fantasy
 Selection
 : no HK toy monsters;
 : creatures known to Europeans then.
+
+Numbers
+: HD, AC, To hit are highlighted;
+: the rest can be ignored, but could be of some help.
 
 Saves
 : 1d20 + HD / 2 ≥ `PHY TC` or `EVA TC` or `MEN TC`.
