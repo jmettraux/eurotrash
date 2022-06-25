@@ -92,3 +92,24 @@ What is the quality level of an object? Its state, its level of use?
 | 15 |  7.30% | plain, high status, new              | 29 |  0.30% | high quality, high status, new  |
 | 16 |  7.50% | plain, everyday, used                | 30 |  0.10% | high quality, high status, worn |
 
+
+## Travellers
+
+Why are they on the road? (might be a cover)
+
+<!-- .random.travellers.n3 -->
+| d4d6 |   |   |   |
+|--:|---|--:|---|
+| 11 | going to a wedding                 | 31 | back from carrying a message           |
+| 12 | back from a wedding                | 32 | emigration                             |
+| 13 | cattle raid                        | 33 | looking for work                       |
+| 14 | back from a successful cattle raid | 34 | going back home after working abroad   |
+| 15 | back from a failed cattle raid     | 35 | going to participate in a conflict     |
+| 16 | scouting                           | 36 | back from war                          |
+| 21 | delivering horses                  | 41 | bandits                                |
+| 22 | going to the market                | 42 | plea for help to authorities           |
+| 23 | back from the market               | 43 | back from plea for help to authorities |
+| 24 | collecting taxes                   | 44 | on a pilgrimage                        |
+| 25 | back from collecting taxes         | 45 | back from a pilgrimage                 |
+| 26 | carrying a message                 | 46 | wandering                              |
+

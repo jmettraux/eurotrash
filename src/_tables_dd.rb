@@ -18,7 +18,6 @@ def render(col_count, dice, title, entries)
     puts '|' if (i % (2 * col_count)) == (2 * col_count - 1)
   end
 
-
   keys = []
   dice[0].times do |i|
     dice[1].times do |j|
@@ -33,7 +32,7 @@ def render(col_count, dice, title, entries)
 
   keys[0].each_with_index do |_, j|
     col_count.times do |i|
-      print "| %s | %-#{cws[i]}s " % [ keys[i][j], a[i][j] ]
+      print "| %s | %-#{cws[i] || 1}s " % [ keys[i][j], (a[i] || [])[j] ]
       puts "|" if i == col_count - 1
     end
   end
@@ -43,7 +42,7 @@ end
 #
 # petty goods
 
-entries = %{
+petty_goods = %{
   pot of honey
   embroidered cloak
   1d6 spare arrow-heads
@@ -93,11 +92,45 @@ entries = %{
   carved statuette
   jug of good mead
 }
-render(3, [ 6, 8 ], 'Petty Goods', entries)
+#render(3, [ 6, 8 ], 'Petty Goods', petty_goods)
 
 # :43,88!sort -R
   # to shuffle the entries
 
 # CTRL-V selection then hit "!" to go into :'<,'>! mode... sort -R
   # to shuffle the entries
+
+
+#
+# traveller motivations
+
+# 1-3 forth / 4-6 back
+
+travellers = %{
+  going to a wedding
+  back from a wedding
+  cattle raid
+  back from a successful cattle raid
+  back from a failed cattle raid
+  scouting
+  delivering horses
+  going to the market
+  back from the market
+  collecting taxes
+  back from collecting taxes
+  carrying a message
+  back from carrying a message
+  emigration
+  looking for work
+  going back home after working abroad
+  going to participate in a conflict
+  back from war
+  bandits
+  plea for help to authorities
+  back from plea for help to authorities
+  on a pilgrimage
+  back from a pilgrimage
+  wandering
+}
+render(2, [ 4, 6 ], ' ', travellers)
 
