@@ -17,6 +17,7 @@ html0: clean
 	cp lib/assets/*.css out/html/
 	cp lib/assets/*.svg out/html/
 	cp src/_creatures.js out/html/
+	cp src/*.svg out/html/
 	$(RUM) make_creatures
 html: html0
 	$(RUM) make_html

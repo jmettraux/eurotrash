@@ -1,0 +1,29 @@
+
+<!-- ambush -->
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="256" height="256" viewBox="0 0 256 256"
+>
+  <defs>
+
+    <g id="soldier"
+      stroke-width="2" stroke="black" fill="white"
+    >
+      <circle cx="50" cy="50" r="20" />
+      <line x1="50" y1="30" x2="50" y2="0" />
+    </g>
+
+    <g id="sergeant"
+      stroke-width="2" stroke="black" fill="white"
+    >
+      <use href="#soldier" />
+      <line x1="49" y1="0" x2="60" y2="0" />
+    </g>
+  </defs>
+
+  <use href="#soldier" transform="translate(0 0)" />
+  <use href="#sergeant" transform="translate(150 150) rotate(70 50 50)" />
+  <use href="#soldier" transform="translate(100 100) rotate(45 50 50)" />
+</svg>
+
