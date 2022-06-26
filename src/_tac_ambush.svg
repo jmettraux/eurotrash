@@ -44,14 +44,30 @@
 
   <!-- blue -->
 
-  <use href="#archer" stroke="black"
-    transform="translate(70 250) rotate(90 50 50)" />
-  <use href="#leader" stroke="black"
-    transform="translate(70 300) rotate(90 50 50)" />
-  <use href="#archer" stroke="black"
-    transform="translate(70 350) rotate(90 50 50)" />
+  <g transform="translate(50 220) rotate(90 70 50)">
+    <use href="#archer" stroke="black" transform="translate(10 0)" />
+    <use href="#leader" stroke="black" transform="translate(60 0)" />
+    <use href="#archer" stroke="black" transform="translate(110 0)" />
+  </g>
+
+  <g transform="translate(300 20) rotate(135 70 50)">
+    <use href="#spearman" stroke="black" transform="translate(10 0)" />
+    <use href="#spearman" stroke="black" transform="translate(60 0)" />
+    <use href="#spearman" stroke="black" transform="translate(110 0)" />
+  </g>
+
+  <g transform="translate(50 400) rotate(90 70 50)">
+    <use href="#spearman" stroke="black" transform="translate(10 0)" />
+    <use href="#spearman" stroke="black" transform="translate(60 0)" />
+    <use href="#spearman" stroke="black" transform="translate(110 0)" />
+  </g>
 
   <!-- eny -->
+
+  <polyline points="510,570 510,70"
+    fill="none" stroke="red" stroke-width="3"
+    stroke-dasharray="10 2"
+    marker-end="url(#red-arrowhead)" />
 
   <use href="#spearman" stroke="red"
     transform="translate(450 150) rotate(0 50 50)" />
@@ -61,10 +77,5 @@
     transform="translate(445 270) rotate(-95 50 50)" />
   <use href="#spearman" stroke="red"
     transform="translate(448 335) rotate(185 50 50)" />
-
-  <polyline points="540,570 540,70"
-    fill="none" stroke="red" stroke-width="3"
-    stroke-dasharray="10 2"
-    marker-end="url(#red-arrowhead)" />
 </svg>
 
