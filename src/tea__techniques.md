@@ -29,15 +29,15 @@ Nada
 [^1]:
   <div class="caption b-2.1rem">
     <div class="cap">
-      <img src="_tac_archer.svg"></img>
+      <img src="__tac_archer.svg"></img>
       <div>archer</div>
     </div>
     <div class="cap">
-      <img src="_tac_soldier.svg"></img>
+      <img src="__tac_soldier.svg"></img>
       <div>spearman</div>
     </div>
     <div class="cap">
-      <img src="_tac_sergeant.svg"></img>
+      <img src="__tac_sergeant.svg"></img>
       <div>leader</div>
     </div>
   </div>

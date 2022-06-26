@@ -3,43 +3,68 @@
 
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  width="256" height="256" viewBox="0 0 256 256"
+  width="600" height="600" viewBox="0 0 600 600"
 >
   <defs>
 
-    <g id="soldier"
-      stroke-width="2" stroke="black" fill="white"
+    <g id="spearman"
+      stroke-width="2" fill="white"
     >
       <circle cx="50" cy="50" r="20" />
       <line x1="50" y1="30" x2="50" y2="0" />
     </g>
 
-    <g id="sergeant"
-      stroke-width="2" stroke="black" fill="white"
+    <g id="leader"
+      stroke-width="2" fill="white"
     >
-      <use href="#soldier" />
+      <use href="#spearman" />
       <line x1="49" y1="0" x2="60" y2="0" />
     </g>
 
-    <marker id="arrowhead" viewBox="0 0 10 10" refX="10" refY="5"
-      markerWidth="12" markerHeight="12"
-      orient="auto-start-reverse"
+    <g id="archer"
+      stroke-width="2" fill="white"
     >
-      <polyline
-        points="0,0 10,5 0,10"
-        fill="none" stroke="black" stroke-width="1.2"
+      <use href="#spearman" />
+      <path d="M 35 50 Q 50 35 65 50" transform="translate(0 -22)" fill="transparent" />
+    </g>
+
+    <marker id="red-arrowhead"
+      markerWidth="12" markerHeight="12" viewBox="0 0 10 10"
+      refX="10" refY="5" orient="auto-start-reverse"
+    >
+      <polyline points="0,0 10,5 0,10"
+        fill="none" stroke="red" stroke-width="1.0"
       />
     </marker>
   </defs>
 
-  <use href="#soldier" transform="translate(10 10)" />
-  <use href="#sergeant" transform="translate(150 150) rotate(70 50 50)" />
-  <use href="#soldier" transform="translate(100 100) rotate(45 50 50)" />
+  <!-- terrain -->
 
-  <use href="#soldier" transform="translate(10 100) rotate(0)" syle="color: blue;" />
-  <use href="#soldier" transform="translate(10 100) rotate(45)" />
+  <path d="M 570 10 L 570 590" stroke-width="4" stroke="black" />
 
-  <polyline points="10,10 10,200 200,200" fill="none" stroke="black"
-   marker-start="url(#arrowhead)" marker-end="url(#arrowhead)" />
+  <!-- blue -->
+
+  <use href="#archer" stroke="black"
+    transform="translate(70 250) rotate(90 50 50)" />
+  <use href="#leader" stroke="black"
+    transform="translate(70 300) rotate(90 50 50)" />
+  <use href="#archer" stroke="black"
+    transform="translate(70 350) rotate(90 50 50)" />
+
+  <!-- eny -->
+
+  <use href="#spearman" stroke="red"
+    transform="translate(450 150) rotate(0 50 50)" />
+  <use href="#spearman" stroke="red"
+    transform="translate(455 210) rotate(30 50 50)" />
+  <use href="#spearman" stroke="red"
+    transform="translate(445 270) rotate(-95 50 50)" />
+  <use href="#spearman" stroke="red"
+    transform="translate(448 335) rotate(185 50 50)" />
+
+  <polyline points="540,570 540,70"
+    fill="none" stroke="red" stroke-width="3"
+    stroke-dasharray="10 2"
+    marker-end="url(#red-arrowhead)" />
 </svg>
 
