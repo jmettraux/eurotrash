@@ -1007,6 +1007,25 @@ _Origin_ British folklore.
 
 
 
+## Quinotaur
+
+* HD: 7
+* AC: 12
+* Attack: +5, 1 x Horns (2d6)
+* Morale: 12
+* Size: large
+* Move: 10ft 3m 2sq, 30ft 9m 6sq t swim
+* DCs: str18 con16 dex10 int07 wis15 cha10
+* Skills: _Swim_ +3, _Spy_ +0, M Throw +2, M Wrap +2
+
+_Quinotaurus_ "bull with five horns". Merbull, starts as a bull ends as a fish.
+
+_Magic_ spellcaster of level 3.
+
+_Origin_ mentioned in the 7th century Frankish Chronicle of Fredegar. Supposed to have attacked the wife of Frankish king Chlodo as she was swimming. She gave birth to Meroveus, the first of the Merovingians.
+
+
+
 ## Rat, giant
 
 * HD: 0.5
