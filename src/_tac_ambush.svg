@@ -22,7 +22,7 @@
     </g>
   </defs>
 
-  <use href="#soldier" transform="translate(0 0)" />
+  <use href="#soldier" transform="translate(10 10)" />
   <use href="#sergeant" transform="translate(150 150) rotate(70 50 50)" />
   <use href="#soldier" transform="translate(100 100) rotate(45 50 50)" />
 </svg>

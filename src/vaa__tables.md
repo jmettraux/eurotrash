@@ -2,6 +2,7 @@
 <!-- .margin.compass -->
 * _Extras_
 * Troll Tactics
+* Goblin Tecs
 * **Tables**
 
 # tables
@@ -67,6 +68,7 @@ ammunition 3d6.
 <!-- .margin.compass -->
 * _Extras_
 * Troll Tactics
+* Goblin Tecs
 * **Tables**
 
 

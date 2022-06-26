@@ -2,6 +2,7 @@
 <!-- .margin.compass -->
 * _Extras_
 * **Troll Tactics**
+* Goblin Tecs
 * Tables
 
 
@@ -61,6 +62,7 @@ Generally, mêlée weapons are weapons of the individual fighter and ranged weap
 <!-- .margin.compass -->
 * _Extras_
 * **Troll Tactics**
+* Goblin Tecs
 * Tables
 
 Each ranged weapon has an optimal range. One has to take care to engage it at this range.
@@ -108,6 +110,7 @@ As passive barrages and fighting without liaison with the operations of mobile t
 <!-- .margin.compass -->
 * _Extras_
 * **Troll Tactics**
+* Goblin Tecs
 * Tables
 
 The one who hides in his fortifications, with the only aim of avoiding mobile warfare and melee combat is preparing his own defeat. Fortifications symbolize the tumb of the will to fight instead of constituting a useful victory factor.
