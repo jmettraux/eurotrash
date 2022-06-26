@@ -20,10 +20,26 @@
       <use href="#soldier" />
       <line x1="49" y1="0" x2="60" y2="0" />
     </g>
+
+    <marker id="arrowhead" viewBox="0 0 10 10" refX="10" refY="5"
+      markerWidth="12" markerHeight="12"
+      orient="auto-start-reverse"
+    >
+      <polyline
+        points="0,0 10,5 0,10"
+        fill="none" stroke="black" stroke-width="1.2"
+      />
+    </marker>
   </defs>
 
   <use href="#soldier" transform="translate(10 10)" />
   <use href="#sergeant" transform="translate(150 150) rotate(70 50 50)" />
   <use href="#soldier" transform="translate(100 100) rotate(45 50 50)" />
+
+  <use href="#soldier" transform="translate(10 100) rotate(0)" syle="color: blue;" />
+  <use href="#soldier" transform="translate(10 100) rotate(45)" />
+
+  <polyline points="10,10 10,200 200,200" fill="none" stroke="black"
+   marker-start="url(#arrowhead)" marker-end="url(#arrowhead)" />
 </svg>
 

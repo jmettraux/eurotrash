@@ -9,17 +9,35 @@
 
 # Goblin Techniques
 
-Foo bar.
-
-## Movement
-
-<img class="tech ambush" src="_tac_ambush.svg"></img>
+Patterns used by humans and humanoids. [^1]
 
 ## Ambush
 
 <img class="tech ambush" src="_tac_ambush.svg"></img>
 
+<!-- <div.tech.ambush> -->
+Nada
+<!-- </div> -->
+
+## Movement
+
+## Defense Line
+
 ## Raid
 
-<img class="tech ambush" src="_tac_ambush.svg"></img>
 
+[^1]:
+  <div class="caption b-2.1rem">
+    <div class="cap">
+      <img src="_tac_archer.svg"></img>
+      <div>archer</div>
+    </div>
+    <div class="cap">
+      <img src="_tac_soldier.svg"></img>
+      <div>spearman</div>
+    </div>
+    <div class="cap">
+      <img src="_tac_sergeant.svg"></img>
+      <div>leader</div>
+    </div>
+  </div>

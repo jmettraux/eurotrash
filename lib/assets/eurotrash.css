@@ -716,6 +716,30 @@ ul.compass li strong {
   margin-top: 0;
 }
 
+[data-aa-title="techniques"] .caption {
+  opacity: 0.6;
+}
+[data-aa-title="techniques"] .caption .cap {
+  margin-top: 0.5rem;
+}
+[data-aa-title="techniques"] h2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+[data-aa-title="techniques"] h2:before {
+  content: '';
+  clear: both;
+  display: block;
+}
+[data-aa-title="techniques"] img.tech {
+  float: left;
+  width: 49%;
+}
+[data-aa-title="techniques"] div.tech {
+  font-size: var(--size-b);
+  line-height: 1.1;
+}
+
 [data-aa-title="tables"] h2 {
   margin-bottom: 1.5rem;
 }

@@ -17,9 +17,9 @@
             else if (m[1] === 'u') top = top - p;
             else top = top + p;
           }
-          m = k.match(/^(b)(-?\d+)(px|em|rem|)$/)
+          m = k.match(/^(b)(-?\d+(\.\d+)?)(px|em|rem|)$/)
           if (m) {
-            bot = `${m[2]}${m[3]}`;
+            bot = `${m[2]}${m[4]}`;
           }
         });
         if (bot) ne.style.bottom = bot;
