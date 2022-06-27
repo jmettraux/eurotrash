@@ -42,6 +42,11 @@
     </pattern>
   </defs>
 
+  <style>
+    @import url("https://use.typekit.net/aqv1anf.css");
+    text { font-family: minion-pro, serif; font-size: 20pt; }
+  </style>
+
   <!-- terrain -->
 
   <g> <!-- wall -->
@@ -57,12 +62,14 @@
     <use href="#leader" stroke="black" transform="translate(60 0)" />
     <use href="#archer" stroke="black" transform="translate(110 0)" />
   </g>
+  <text x="90" y="240" class="blue label">a</text>
 
   <g transform="translate(300 20) rotate(135 70 50)">
     <use href="#spearman" stroke="black" transform="translate(10 0)" />
     <use href="#spearman" stroke="black" transform="translate(60 0)" />
     <use href="#spearman" stroke="black" transform="translate(110 0)" />
   </g>
+  <text x="90" y="420" class="blue label">b</text>
 
   <g transform="translate(50 400) rotate(90 70 50)">
     <use href="#spearman" stroke="black" transform="translate(10 0)" />
