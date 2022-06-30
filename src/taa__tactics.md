@@ -123,7 +123,7 @@ The efficiency of enemy weapons is compromised by: ~~a)~~ splitting formations a
 
 Splitting formations and spacing weapons disperse enemy fire and less considerably its material effect, but it makes commanding more difficult and hinders the overall action of our forces. It extends the time required for combat preparation. These means will thus be used if required by the excepted enemy fire.
 
-Obstacles obstructing enemy sight make enemy fire impossible or at least make it at least imprecise. It can be obtained by using terrain and masks shielding the troop and its weapons from sighting from the ground, camouflage against sighting from above, and, in certain cases, by using artificial fog.
+Obstacles obstructing enemy sight make enemy fire impossible or at least make it imprecise. It can be obtained by using terrain and masks shielding the troop and its weapons from sighting from the ground, camouflage against sighting from above, and, in certain cases, by using artificial fog.
 
 Such obstacles are the most important mean of passive defence at the disposition of the weak side. It cancels the superiority of the adversary's fighting means and allow for the use of surprise and ambush.
 

@@ -447,6 +447,23 @@ Some breeders were successful in obtaining 3 feet long ferrets and use them to c
 
 
 
+## Gargoyle
+
+* HD: 4
+* AC: 14
+* Attack: +3, 1 x Bite (1d6), 1 x Horn (1d4)
+* Morale: 11
+* Size: medium
+* Move: 30ft 9m 6sq t, 60ft 18m 12sq tt fly
+* DCs: str14 con15 dex12 int07 wis13 cha06
+* Skills: _Spy_ +4, _Scout_ +1, _Throw_ +2, _Hunt_ +1
+
+_Fire breath_ 5ft 1.5m 1sq wide, up to 60ft 18m 12sq tt, 1d8 damage, fires until the gargoyle fails a `BOD TC` 8 check (at +0), then a long rest is necessary.
+
+_Origin_ Around 635 AD, St. Romanus delivered the country around Rouen from a monster called "Gargouille" or "Goji". Once defeated, the beast head and neck were used as decoration on the façade of the church.
+
+
+
 ## Ghost
 
 * HD: 10
