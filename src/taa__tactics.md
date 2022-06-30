@@ -33,7 +33,7 @@ The means of fighting are ~~fighters~~, ~~weapons~~, and ~~fortifications~~.
 
 ### Fighters
 
-The goal of the fight is thus the fighter, in other words the enemy fighters, whose complete knock out is generally neither possible nor even necessary. The battle is won where their will to resist is broken. All in all, fighting is a matter of morale or of psychology. Its targets are the souls of the enemy commander and fighters.
+The goal of the fight is thus the fighter, in other words the enemy fighters, whose complete knock out is generally neither possible nor even necessary. The battle is won where their will to resist is broken. All in all, fighting is a matter of morale or of psychology. Its targets are the souls of the enemy commander and of the fighters.
 
 The decisive element is first and foremost the fighting spirit of the troop and its commanders. Numerical, material or technical superiority only come second, as does pure and simple skill.
 
@@ -120,4 +120,12 @@ The one who, to cover a fortification, engages mobile troops that would find a b
 _Passive means of defence_ reduce the effect of enemy weapons or hinder his movements.
 
 The efficiency of enemy weapons is compromised by: ~~a)~~ splitting formations and spacing weapons; ~~b)~~ use of artificial means obstructing enemy sight; ~~c)~~ setting up artificial covers.
+
+Splitting formations and spacing weapons disperse enemy fire and less considerably its material effect, but it makes commanding more difficult and hinders the overall action of our forces. It extends the time required for combat preparation. These means will thus be used if required by the excepted enemy fire.
+
+Obstacles obstructing enemy sight make enemy fire impossible or at least make it at least imprecise. It can be obtained by using terrain and masks shielding the troop and its weapons from sighting from the ground, camouflage against sighting from above, and, in certain cases, by using artificial fog.
+
+Such obstacles are the most important mean of passive defence at the disposition of the weak side. It cancels the superiority of the adversary's fighting means and allow for the use of surprise and ambush.
+
+Artificial covers less the vulnerability of the fighters that man them. They must be used wherever a troop clings to the terrain, or if it finds itself temporarily forced to the defensive.
 
