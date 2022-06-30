@@ -11,6 +11,10 @@
 
 Patterns used by humans and humanoids. [^1]
 
+## Signals
+
+Elder wood whistle, drum, horn.
+
 ## Ambush
 
 <img class="tech ambush" src="_tac_ambush.svg"></img>
