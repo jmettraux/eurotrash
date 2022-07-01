@@ -715,6 +715,27 @@ _Origin_ Lucan's Pharsalia and then the Saga of Yngvar. But the nordic version i
 
 
 
+## Lamia
+
+* HD: 9
+* AC: 17
+* Attack: +7, 1 × Touch (1d4) + drain
+* Morale: 8
+* Size: large
+* Move: 30ft 9m 6sq t
+* DCs: str15 con14 dex14 int16 wis14 cha17
+* Skills: _Steal_ +4, _Spy_ +3, _Negotiate_ +2, _Exert_ +5
+
+_Drain_ 1 `CON` point on a failed +3 `Soul DC` save check.
+
+_Shapeshifting_ Twice a day.
+
+_Magic_ Spellcaster of level 2d4.
+
+_Origin_ Mesopotamian Lamashtu, a female demon menacing women during childbirth, or kidnapping their children while breastfeeding. Or a beautiful mistress of Zeus, whose Hera caused to kill her offspring, turned to monster.
+
+
+
 ## Leucrotta, or Crocotta
 
 * HD: 6
