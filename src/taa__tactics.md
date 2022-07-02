@@ -170,5 +170,45 @@ Destruction of bridges and means of communication require lengthy long-term prep
 <!-- ## Natural Tactical Auxiliaries -->
 ## Natural Tac Auxiliaries
 
-Foo.
+In addition to the technical means of fighting, tactics also take advantage of the means given by nature: ~~terrain~~, ~~meteorological conditions~~, and ~~lighting~~.
+
+### Terrain
+
+It constitues the frame within which the fighting takes place. The conquest of certain geographical points constitutes one of the signs of victory, as well as their resistance against enemy assaults.
+
+Terrain favours or opposes certain tactical actions. The art of command consists in recognizing the particularities it offers, and in using them.
+
+Those particularities of the terrain that play a role in the conduct of the fight are: ~~relief~~, ~~cuts and waters~~, ~~ground cover~~, and ~~ground nature~~.
+
+Flat terrain favours the movement of troops, but it also favours ranged weapons with direct fire. The slighest depression provides excellent covers, on the other hand, the smallest molehill enhances the sight of the trop that occupies it.
+
+Slopes slow down the movement of the troops climbing them, making it difficult for them to quickly get out of reach of enemy weapons. Steep slopes may even become obstacles for certain troops.
+
+There is no terrain that is unaccessible or impermeable. Hand-picked infantry troops pass everywhere.
+
+Heights give extensive views; the troop holding them may observe enemy movements and consequently use its long ranged weapons effectively. But, along the slopes are numerous dead angles that favour enemy ascensions. The troop that holds a height and wants to dominate its slopes is exposing to enemy sight the weapons and observation points installed on the ridge.
+
+A height has no essential tactical value if, in its vicinity, are heights or ground covering that hamper sight, or if it doesn't offer the necessary space for the installation of troops. It is not a dominant height. The possession of so-called dominant heights often constitue a decisive victory element.
+
+
+
+<!-- PAGE BREAK tactics -->
+
+<!-- .margin.compass -->
+* _Extras_
+* **Troll Tactics**
+* Goblin Tecs
+* Tables
+
+
+
+A height whose slopes cannot be beaten by flanking fire can be easily climbed. For the attacker the critical momement starts at the summit or on the plateau, where the effect of its fire support ceases.
+
+Defiles channel the movement of troops. A troop going through a defile can only deploy after having passed its end, and that restricts its freedom of action. The attack on a troop emerging a defile is usually an operation promised to success. The same goes if one closes the defile behind the enemy, or if one isolates from one another the element of the enemy column.
+
+Mountains considerably slow down troop movements and confines them TODO
+
+### Meteorological Conditions
+
+### Lighting
 
