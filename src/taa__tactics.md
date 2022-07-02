@@ -206,7 +206,19 @@ A height whose slopes cannot be beaten by flanking fire can be easily climbed. F
 
 Defiles channel the movement of troops. A troop going through a defile can only deploy after having passed its end, and that restricts its freedom of action. The attack on a troop emerging a defile is usually an operation promised to success. The same goes if one closes the defile behind the enemy, or if one isolates from one another the element of the enemy column.
 
-Mountains considerably slow down troop movements and confines them TODO
+Mountains considerably slow down troop movements and confines them on a small number of roads and paths separate one from the other, while intermediary terrain is only passable for small detachments. Mountains limit the size of engaged units to what may support the communication network and the road conditions. Transport of heavy weapons and supplies is hampered. In such terrain, supply questions dominate operations.
+
+In mountains, troop movements from one sector into another require lots of time. Thus the freedom of maneuver of the dommand is severely restricted, if not reduced to zero.
+
+Cuts and streams are obstacle to troop movements. Bridges and other passageways act as defiles.
+
+Cuts usually comprise a stream; but the obstacle rarely is the stream itself, it is rather constituted by the steepness and the poor visibility of its slopes. If those slopes are accessible only with difficulty, they form an obstacle way more efficient than a large stream, channelling the progression of columns and vehicules on a small number of good roads, or on a handful of bridges. Destroyed bridges are difficult to repair.
+
+As an obstacle, the value of a watercourse is determined by its width, its level, the speed of current, the nature and the state of the banks, and the possibilities to hold the sheet of water under fire. Water streams that have their source in mountains may see considerable water level and flow variations within a few hours.
+
+Even if they have medium level, water courses whose current speed is quite high may be difficult or impossible to cross.
+
+Steep and elevated banks make putting crossing means afloat difficult. Embarking and disbarking present the same difficulties. Such circumstances provide a certain security level against surprise crossings.
 
 ### Meteorological Conditions
 
