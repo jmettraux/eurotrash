@@ -127,5 +127,11 @@ Obstacles obstructing enemy sight make enemy fire impossible or at least make it
 
 Such obstacles are the most important mean of passive defence at the disposition of the weak side. It cancels the superiority of the adversary's fighting means and allow for the use of surprise and ambush.
 
-Artificial covers less the vulnerability of the fighters that man them. They must be used wherever a troop clings to the terrain, or if it finds itself temporarily forced to the defensive.
+Artificial covers (field fortifications) lessen the vulnerability of the fighters that man them. They must be used wherever a troop clings to the terrain, or if it finds itself temporarily forced to the defensive.
+
+Should such fortifications last, preliminary reconnaissance, detailed planning, lots of time and labor, become necessary. One has to carefully consider what can be done in the available time window. In important locations, a small number of completed pieces is better than a larger number of half-completed pieces, which, most often, reveal the position to the enemy. Fortifications meant to last must, from the beginning, include in their planning possibilities for future complements and extensions.
+
+When planning and establishing field fortifications, then intention to harm the enemy must prevail over the concern to avoid his blows.
+
+Installations that help the enemy decipher our dispositions and our intentions, are more harmful than helpful.
 
