@@ -1,6 +1,7 @@
 
 # Bibliography
 
+* "Bréviaire Tactique", Hans Frick
 * "Drachen", Johan Egerkrans
 * "Fiend Folio", Don Turnbull et al
 * "Monster Manual", Gary Gygax

@@ -133,5 +133,42 @@ Should such fortifications last, preliminary reconnaissance, detailed planning, 
 
 When planning and establishing field fortifications, then intention to harm the enemy must prevail over the concern to avoid his blows.
 
-Installations that help the enemy decipher our dispositions and our intentions, are more harmful than helpful.
+Stockades that let the enemy assess our dispositions and our intentions, are more harmful than anything else.
+
+Apart from certain pecularities of the terrain, the movements of the enemy may be hampered by ~~obstacles~~ and by the ~~destruction of bridges and ways~~ of communication.
+
+Obstacles hampering the movement of the enemy aim to, either gain the time necessary to the preparation and the build up of our troops, either stop the adversary in a zone beaten by our weapons, at their maximum efficiency. Those obstacles themselves must express the will to win animating our troops and not fear; otherwise they would be dangerous.
+
+An obstacle never replaces a troop. The goal of an obstacle is to create better engagement conditions for a troop.
+
+There are no artificial obstacle that cannot be destroyed by the enemy; however large dimension obstacles require time to be reduced entirely, a half-destroyed obstacle will still hamper enemy movements and will channel them through the breaches.
+
+The value of an obstacle depends on its depth, on its sturdiness, on the troops manning it or keeping it within their weapon reach, and finally on its concealment from enemy sight. Obstacles dissimulated from enemy sight up until close range are particularily efficient.
+
+
+<!-- PAGE BREAK tactics -->
+
+<!-- .margin.compass -->
+* _Extras_
+* **Troll Tactics**
+* Goblin Tecs
+* Tables
+
+
+Such obstacles are costly to build, in time, labor and materials. They require foresight in planning. There are only defiles where effective barriers may be quickly established.
+
+If time and materials lack to build obstacles that stop the enemy in its movement, relative obstacles should not be disdained, the could slow the enemy progression, that is extend the time it is exposed to the effects of our weapons.
+
+At a great distance from our combat front or from the main mass of our forces, obstacles will generally be limited to barraging communications. Points that cannot be turned will be selected, or at least points whose turning incur great difficulties and important delays. The value of those obstacles lie in the time they buy. If their destruction is lengthy and dangerous, it is not necessary to man them. The delaying fights around these works lead by small detachnments only yield small delays and doesn't counterbalance the assured sacrifice of those troops. The effect of such obstacles, and especially destructions, is vastly amplified if they succeed one after the other in large numbers.
+
+In the fighting zone, the obstacles must be kept within reach of our weapons. If sight is hampered as it is notably in woods or at night, they may be used so that the enemy exploiting a breach or a gap is attacked and rejected immediately. Permanent watch and immediately available shock reserves are required in that case.
+
+Destruction of bridges and means of communication require lengthy long-term preparations. Combined with powerful natural obstacles or layered one after the other, the buy a lot of time, thanks to their prolonged effect. Though they are a hindrance for our operations if the ways they affect are used by our own troops. It is thus difficult to determine when to order those destructions, everything depends on the sense of expediency that determines that "when".
+
+
+<!-- ## Natural Auxiliaries to Tactics -->
+<!-- ## Natural Tactical Auxiliaries -->
+## Natural Tac Auxiliaries
+
+Foo.
 
