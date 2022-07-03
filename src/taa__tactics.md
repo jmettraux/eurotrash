@@ -234,7 +234,41 @@ Houses, blocks of houses, and localities constitute solid support points. A reso
 
 In localities, sight is limited, making command difficult and indirect fire support almost impossible. Densely populated areas favour defense. It is not easy for the attack to break through quickly.
 
+Forests restrain sighting and the effect of ranged weapons. The restrain command activities if the troops are numerous. They constitute excellent waiting positions for troops preparing a surprise or an ambush, and clear starting positions for guerilla activities.
+
+
+
+<!-- PAGE BREAK tactics -->
+
+<!-- .margin.compass -->
+* _Extras_
+* **Troll Tactics**
+* Goblin Tecs
+* Tables
+
+
+
+Unless enhanced with continuous obstcles, forests are hard to hold; however, under their cover, the aggressive audacity of the weakest side often provides him with victory.
+
+Orchards, if wide and densely planted have the same effects on observation and ranged weapons as forests have.
+
+Topographical relief and ground cover, as soon as they obstruct the view, divide the terrain into well-defined slices, terrain compartments.
+
+Widthwise, terrain compartments constitute the natural combat sectors for the various troops; depthwise, they form the zones in which various combat phases are delimited.
+
+The extent of a terrain compartment is determined by the line of sight and the effective range of weapons assigned to a troop. What is for the superior commander a single compartment, is divided between his subordinates as multiple sub-sectors.
+
+The nature of the soil determines the viability of the land and the possibility of carrying out fortification work.
+
+The viability of a stony or rocky soil almost doesn't take meterological circumstances into account, but fortification work will demand required time and effort.
+
+A swampy soil hinders vehicle movements and also sometimes the movement of troops on foot, especially when the weather is bad. Underground water inundates trenches and shelters, and hinders fortification work.
+
+Fields and dry meadows are the most advantageous terrain for the operation of any kind of troop.
+
 ### Meteorological Conditions
+
+Here
 
 ### Lighting
 
