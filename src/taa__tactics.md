@@ -71,7 +71,7 @@ The moral effect of ranged weapons is a function of its material effect; if it l
 
 The moral effect of ranged weapons is amplified if their action is concentrated in time and space, and if it is triggered by surprise.
 
-Ranged weapons fire should aim at destroying the enemy, or at destroying materials and cover. If the means are lacking, in many cases, forcing the enemy to take cover or hindering his use of his weapons may be sufficient.
+Ranged weapons fire should aim at destroying the enemy, or at destroying materials and cover. If the resources are lacking, in many cases, forcing the enemy to take cover or hindering his use of his weapons may be sufficient.
 
 Purely harassing fires have poor value and are only efficient if they allow the creations of the delays required by the situation.
 
@@ -121,7 +121,7 @@ _Passive means of defence_ reduce the effect of enemy weapons or hinder his move
 
 The efficiency of enemy weapons is compromised by: ~~a)~~ splitting formations and spacing weapons; ~~b)~~ use of artificial means obstructing enemy sight; ~~c)~~ setting up artificial covers.
 
-Splitting formations and spacing weapons disperse enemy fire and less considerably its material effect, but it makes commanding more difficult and hinders the overall action of our forces. It extends the time required for combat preparation. These means will thus be used if required by the excepted enemy fire.
+Splitting formations and spacing weapons disperse enemy fire and less considerably its material effect, but it makes commanding more difficult and hinders the overall action of our forces. It extends the time required for combat preparation. These means will thus be used if required by the expected enemy fire.
 
 Obstacles obstructing enemy sight make enemy fire impossible or at least make it imprecise. It can be obtained by using terrain and masks shielding the troop and its weapons from sighting from the ground, camouflage against sighting from above, and, in certain cases, by using artificial fog.
 
@@ -218,7 +218,21 @@ As an obstacle, the value of a watercourse is determined by its width, its level
 
 Even if they have medium level, water courses whose current speed is quite high may be difficult or impossible to cross.
 
-Steep and elevated banks make putting crossing means afloat difficult. Embarking and disbarking present the same difficulties. Such circumstances provide a certain security level against surprise crossings.
+Steep and elevated banks make putting crossing resources afloat difficult. Embarking and disbarking present the same difficulties. Such circumstances provide a certain security level against surprise crossings.
+
+The curves of a river favour keeping its surface under fire. If, driven by circumstances, one has to place weapons on the bank itself, thoses will be quickly spotted and shut down by the enemy. In that case, it is often preferable not to hinder the enemy during his crossing, but to stop him with fire and to destroy him on our side of the bank, or to push him back in the river by counter-attacking. The stream plays here its obstacle role indirectly rather than directly.
+
+Swamps, lakes, and prepared inundations are considerable obstacles, their crossing requires lots of resources.
+
+No watercourse, no area of water, forms an absolute obstacle. A sparse occupation of the bank will never prevent enemy crossing.
+
+If there are not enough resources for close defense of a watercourse, it is better to fight by moving in and to attack the enemy when constrained by narrow crossing points.
+
+_Ground Cover_ influences observation, and thus the effect of ranged weapons. It often provides excellent covers.
+
+Houses, blocks of houses, and localities constitute solid support points. A resolute defender can even resist for a long time in their ruins and basements.
+
+In localities, sight is limited, making command difficult and indirect fire support almost impossible. Densely populated areas favour defense. It is not easy for the attack to break through quickly.
 
 ### Meteorological Conditions
 
