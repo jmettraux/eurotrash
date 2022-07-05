@@ -162,6 +162,25 @@ _Origin_ Greek Mythology, probably echoes of the first encounter with horse-moun
 
 
 
+## Centipede, giant
+
+* HD: 3
+* AC: 12
+* Attack: +3, 1 x Bite (1d4) poison
+* Morale: 8
+* Size: medium
+* Move: 30ft 9m 6sq t
+* DCs: str15 con12 dex14 int02 wis07 cha03
+* Skills: _Spy_ +2, _Scout_ +4, _Exert_ +2, Grapple +2
+
+An opportunistic carnivore, will attack animals not larger than itself. Burrows in dark, damp environments, like beneath logs and leaf litters.
+
+_Poison_ Varies depending on the subspecie. For example, on a failed save check: 1d6 → 1-3 CON - 1d2 | 4-5 Paralysis 1d4 weeks | 6 Death.
+
+_Scolopendra Cingulata Gigantea_ found all around the Mediterranean Sea.
+
+
+
 ## Chimera
 
 * HD: 9
@@ -209,7 +228,7 @@ _Origin_ Mentioned in Isaiah chapters 11, 14 and 59. Referenced by Pliny the Eld
 * Size: medium
 * Move: 30ft 9m 6sq t
 * DCs: str13 con11 dex15 int01 wis09 cha03
-* Skills: _Spy_ +1
+* Skills: _Spy_ +1, _Grapple_ +0
 
 A cancer of a beast.
 
