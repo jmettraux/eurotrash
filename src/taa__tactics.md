@@ -268,7 +268,17 @@ Fields and dry meadows are the most advantageous terrain for the operation of an
 
 ### Meteorological Conditions
 
-Here
+Meteorology has a considerable influence on operations. It is up to the command to take advantage of this circumstance.
+
+Weather, when dry and fair favours the movement of all the troops, whereas rain and prolonged bad weather hampers vehicle movements.
+
+Frost and snow slow down movements. Snow storms hamper observation and ranged weapon use.
+
+Fog hinders observation and command, and the coordinated action of larger formations.
+
+Very bad meteorological circumstances, like violent thunderstorms or torrential rains favour surprise. They are an excellent ally to the weakest side.
 
 ### Lighting
+
+Lighting depends on the season, the hour, and the meteorology. It affects observation and consequently the effect of ranged weapons. The command must take into account those factors and take best advantage of them. It's especially the case when determining the timing of an action.
 
