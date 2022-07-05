@@ -282,3 +282,36 @@ Very bad meteorological circumstances, like violent thunderstorms or torrential 
 
 Lighting depends on the season, the hour, and the meteorology. It affects observation and consequently the effect of ranged weapons. The command must take into account those factors and take best advantage of them. It's especially the case when determining the timing of an action.
 
+Sun, when faced, thwarts sight and command. It favours them when in the back. A clear background (horizon, snow) betrays movements up to very great distances.
+
+Shadow, when strong, and bad lighting hinder observation and the effect of ranged weapons. Night, when dark, reduces them to their shortest range.
+
+Night, dawn and dusk promote surprise. They are the most valuable weapons in the hands of the weakest party. Moonlight negates these benefits to a large extent.
+
+
+## Command
+
+Next to the bravery of the soldier and the capacity of the troops, command is the main factor of victory. It can largely compensate disadvantaging factors, like numerical inferiority ou lack of resources.
+
+The task of command is exercised in three areas:
+~~a)~~ provide moral support to the troop;
+~~b)~~ take the necessary decisions;
+~~c)~~ take the technical measures appropriate for the execution of these decisions.
+
+The main duty of the leader is to be the moral support of his troop. In many cases, nothing else matters. The iron will of a resolute leader and his personal example push the troops forward and the hesitant at their post. In a desperate situation, he maintains intact and until death his will to fight.
+
+
+
+<!-- PAGE BREAK tactics -->
+
+<!-- .margin.compass -->
+* _Extras_
+* **Troll Tactics**
+* Goblin Tecs
+* Tables
+
+
+
+
+The decision of the leader lays the foundation of any operation. In a large measure, it decides victory or defeat.
+
