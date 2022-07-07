@@ -43,3 +43,6 @@ Saves
 Traits
 : todo
 
+License
+: CC0 Public Domain
+

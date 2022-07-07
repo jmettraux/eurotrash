@@ -315,3 +315,13 @@ The main duty of the leader is to be the moral support of his troop. In many cas
 
 The decision of the leader lays the foundation of any operation. In a large measure, it decides victory or defeat.
 
+The higher the leader is in the hierarchy, the more it is up to him to make decisions, under his own discretion. Often, the subordinate leaders are left with the technical execution of the decisions of their superior. However, in the always unpredictable circumstances of the war and the turmoil of battle, any leader has to make decisions independently. The most formidable to take is the one departing from the superior's order.
+
+In most cases, the leader must make his decision in the midst of uncertainty and under the influence of danger. But a cold and clear appreciation of the possibilities and an unwavering will to win will allow him to dominate any situation, no matter how difficult or obscure.
+
+He who, first of all, does not seek the annihilation of the enemy, and who does not yearn to measure up to him; he who limits himself to parrying the blows, he is soon lost.
+
+An audacious decision is better than a too cautious one. Rash decisions often provide victory, whereas defeat usually comes from a decision based on fear.
+
+The leader always seeks for surprise; it's the most powerful victory factor. It exerts a strong moral influence on the enemy. He who surprises the adversary, dictates his law of action, and prevents him from methodically commit his means.
+
