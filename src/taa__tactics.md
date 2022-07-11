@@ -325,3 +325,13 @@ An audacious decision is better than a too cautious one. Rash decisions often pr
 
 The leader always seeks for surprise; it's the most powerful victory factor. It exerts a strong moral influence on the enemy. He who surprises the adversary, dictates his law of action, and prevents him from methodically commit his means.
 
+The leader's decision answers to: should we attack, defend, or retreat? Are there multiple simultaneous tasks? In what succession should they be approached? How should resources be distributed among simultaneous tasks? Where to wait for the enemy? To stop him or to attack him? Where is the centre of gravity of the action? Should we engage fight and when?
+
+When in doubt whether attack, defense, or retreat is opportune, the rule states that the offense is the wisest choice. A vigorous attack clarifies the situation, and, effected against an imperfectly prepared opponent, provides the leader with an initial success that ensures his freedom of decision.
+
+He who wages the decisive combat must prescribe retreat only if victory is impossible and, if the contact with the enemy continues, his forces will be destroyed. For other tasks, like those assigned to detachments, retreat may be necessary, because the task was accomplished or that the task itself expressly prescribes retreat. In that case, retreat must be initiated before the fight enters its decisive phase.
+
+The decision to sacrifice one's troop and one's life in a fight without any thought of retreat, is a statement that manoeuver ceased to provide anything useful. It's the last solution, it will be considered only if there are no other efficient means to harm the enemy, or if the mission demands this sacrifice.
+
+No leader worthy of that title will surrender as long as it has supplies and ammunition.
+
