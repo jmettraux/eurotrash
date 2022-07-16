@@ -12,6 +12,8 @@ to_html: lowdown -Thtml --html-no-skiphtml --html-no-escapehtml ${in} -o ${out}
 
 #to_pdf: wkhtmltopdf --disable-smart-shrinking ${in} ${out}
 to_pdf: chrome --headless --no-sandbox --print-to-pdf-no-header --print-to-pdf=${out} --no-margins --disable-gpu ${in}
+#to_pdf: chrome --headless --no-sandbox --print-to-pdf-no-header --print-to-pdf=${out} --no-margins --disable-gpu --disable-features=Vulkan ${in}
+#to_pdf: chrome --headless --no-sandbox --print-to-pdf-no-header --print-to-pdf=${out} --no-margins ${in}
 to_stuffed_pdf: qpdf --empty --pages ${in} ${blanks} -- ${out}
 to_stapled_pdf: qpdf --empty --pages ${in} ${pages} -- ${out}
 

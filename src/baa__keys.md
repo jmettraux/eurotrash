@@ -33,10 +33,10 @@ siz
 DC
 : Defend Classes. For the six abilities `STR`, `CON`, `DEX`, `INT`, `WIS`, and `CHA`, the DC is simply the score. The second row has _derived_ DCs, like `BOD` DC (body), and `EVA` DC (evasion).
 
+<!-- COLUMN BREAK -->
+
 skl
 : Skills. Mostly _Hunt_, _Scout_, _Spy_, _Swim_, skills that can easily be mapped to monsters and animals.
-
-<!-- COLUMN BREAK -->
 
 
 ## Moreover

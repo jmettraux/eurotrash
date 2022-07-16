@@ -335,3 +335,7 @@ The decision to sacrifice one's troop and one's life in a fight without any thou
 
 No leader worthy of that title will surrender as long as it has supplies and ammunition.
 
+Facing multiple separate enemies or multiple missions, the leader must limit himself to the essentials. The decision limited to a single objective is also the only one that promises success. Only certain secondary tasks that can be dealt with limited means must, occasionally, be addressed concurrently with the main task. If multiple tasks simultaneously require a solution, preference will be given to those striking a blow at the enemy without delay, over those solutions which only aim at security.
+
+For a troop surprised during the execution of a task, the duty to defeat the enemy comes first. There should be no hesitation to do battle with the enemy, unless the mission and the situation allow to break contact.
+
