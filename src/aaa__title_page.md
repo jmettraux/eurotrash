@@ -7,8 +7,8 @@
 : _Definition_
 
 Eurotrash
-: (western) european creatures and
-: creatures distorted by feverish european imaginations.
+: (western) european people and creatures;
+: distorted by feverish european imaginations.
 
 <hr/>
 
@@ -19,7 +19,7 @@ B/X
 : clarity.
 
 Monster Manual
-: creature phonebook magic.
+: creature phonebook nostalgic and magic.
 
 <hr/>
 

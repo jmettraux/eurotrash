@@ -715,6 +715,11 @@ ul.compass li strong {
 [data-aa-title="tactics"] .column-break + * {
   margin-top: 0;
 }
+[data-aa-title="tactics"] ul {
+  text-indent: 0.5rem;
+  margin-top: 0;
+  font-size: var(--size-b);
+}
 
 [data-aa-title="techniques"] .caption {
   opacity: 0.6;

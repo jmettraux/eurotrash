@@ -339,3 +339,29 @@ Facing multiple separate enemies or multiple missions, the leader must limit him
 
 For a troop surprised during the execution of a task, the duty to defeat the enemy comes first. There should be no hesitation to do battle with the enemy, unless the mission and the situation allow to break contact.
 
+When facing multiple adversaries, multiple elements are to be considered when determining the order in which to fight them:
+
+- number, equipment, distance;
+- situation in relation to important positions, in relation to neighbouring troops, or in relation to our communication lines;
+- terrain between them and our troops, particularly the absence or presence of obstacles.
+
+Once decided which adversary will be fought first, the defense against the others will be lead, during this first phase, with minimal means.
+
+
+
+<!-- PAGE BREAK tactics -->
+
+<!-- .margin.compass -->
+* _Extras_
+* **Troll Tactics**
+* Goblin Tecs
+* Tables
+
+
+
+If he decided to wait for the enemy, either to attack him during his approach march, either to stop him cold, the leader will select a terrain that will block his sight and his means, and that will favour the engagement of his own forces.
+
+The massive use of ranged weapons and the engagement of the main body of troops marks the gravity centre of the action. One places it usually in zones that give the best conditions for ranged weapon efficiencies and for centralized conduct. Aiming for surprise, the leader might decide on a less favourable zone.
+
+The leader engages the fight only if result balances favourably against the resource use and the disclosure of fighting positions. One should not forget, given the circumstances, the material effect is secondary, the desired tactical effect being primary.
+
