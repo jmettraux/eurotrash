@@ -35,7 +35,8 @@ Selection
 
 Numbers
 : HD, AC, To hit are highlighted;
-: the rest can be ignored, but could be of some help.
+: the rest can be ignored, but could be of some help;
+: Fits a 3 × 5 index card.
 
 Saves
 : 1d20 + HD / 2 ≥ `PHY TC` or `EVA TC` or `MEN TC`.

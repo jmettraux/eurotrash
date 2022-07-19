@@ -716,8 +716,9 @@ ul.compass li strong {
   margin-top: 0;
 }
 [data-aa-title="tactics"] ul {
-  text-indent: 0.5rem;
-  margin-top: 0;
+  margin-top: -0.5rem;
+  margin-left: 0.5rem;
+  text-indent: -0.5rem;
   font-size: var(--size-b);
 }
 

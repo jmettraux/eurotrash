@@ -365,3 +365,14 @@ The massive use of ranged weapons and the engagement of the main body of troops 
 
 The leader engages the fight only if result balances favourably against the resource use and the disclosure of fighting positions. One should not forget, given the circumstances, the material effect is secondary, the desired tactical effect being primary.
 
+The leader may reserve the right to order the opening of fire, for entire formations or for certain categories of weapons. This in order to surprise the enemy and to use weapons at best efficiency ranges.
+
+Engaging early slows down the movement of the enemy, but it allows him to seek cover and it discloses one's organization to him. A delayed opening of fire has better chances of surprise, and, given the short range, a greater destructive effect.
+
+The bases of decisions are:
+
+- mission received and means available;
+- space and time;
+- terrain and other auxiliary means granted by nature;
+- intelligence about the enemy.
+
